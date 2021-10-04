@@ -1,0 +1,10657 @@
+Rectangle: 
+ Left Top X: 81
+ Left Top Y: 49
+ Right Bottom X: 154
+ Right Bottom Y: 28
+Rectangle: 
+ Left Top X: 1
+ Left Top Y: 98
+ Right Bottom X: 43
+ Right Bottom Y: 67
+Triangle 
+ First point X: 64
+ First point Y: 31
+ Second point X: 20
+ Second point Y: 63
+ Third point X: 15
+ Third point Y: 80
+Circle: 
+ X: 95
+ Y: 16
+ Radius: 11
+Rectangle: 
+ Left Top X: 45
+ Left Top Y: 165
+ Right Bottom X: 52
+ Right Bottom Y: 76
+Triangle 
+ First point X: 81
+ First point Y: 17
+ Second point X: 74
+ Second point Y: 69
+ Third point X: 78
+ Third point Y: 4
+Circle: 
+ X: 99
+ Y: 59
+ Radius: 17
+Rectangle: 
+ Left Top X: 37
+ Left Top Y: 74
+ Right Bottom X: 69
+ Right Bottom Y: 57
+Triangle 
+ First point X: 87
+ First point Y: 61
+ Second point X: 45
+ Second point Y: 21
+ Third point X: 34
+ Third point Y: 31
+Triangle 
+ First point X: 63
+ First point Y: 87
+ Second point X: 60
+ Second point Y: 39
+ Third point X: 84
+ Third point Y: 80
+Rectangle: 
+ Left Top X: 58
+ Left Top Y: 116
+ Right Bottom X: 61
+ Right Bottom Y: 55
+Circle: 
+ X: 45
+ Y: 15
+ Radius: 17
+Circle: 
+ X: 58
+ Y: 26
+ Radius: 5
+Rectangle: 
+ Left Top X: 77
+ Left Top Y: 150
+ Right Bottom X: 102
+ Right Bottom Y: 99
+Circle: 
+ X: 81
+ Y: 33
+ Radius: 17
+Rectangle: 
+ Left Top X: 13
+ Left Top Y: 95
+ Right Bottom X: 113
+ Right Bottom Y: 81
+Rectangle: 
+ Left Top X: 53
+ Left Top Y: 89
+ Right Bottom X: 91
+ Right Bottom Y: 56
+Circle: 
+ X: 23
+ Y: 25
+ Radius: 15
+Circle: 
+ X: 70
+ Y: 50
+ Radius: 1
+Triangle 
+ First point X: 18
+ First point Y: 87
+ Second point X: 7
+ Second point Y: 33
+ Third point X: 40
+ Third point Y: 67
+Triangle 
+ First point X: 98
+ First point Y: 51
+ Second point X: 99
+ Second point Y: 52
+ Third point X: 44
+ Third point Y: 11
+Circle: 
+ X: 52
+ Y: 90
+ Radius: 19
+Rectangle: 
+ Left Top X: 36
+ Left Top Y: 140
+ Right Bottom X: 133
+ Right Bottom Y: 89
+Triangle 
+ First point X: 0
+ First point Y: 21
+ Second point X: 39
+ Second point Y: 84
+ Third point X: 81
+ Third point Y: 56
+Circle: 
+ X: 10
+ Y: 60
+ Radius: 17
+Circle: 
+ X: 46
+ Y: 37
+ Radius: 8
+Circle: 
+ X: 43
+ Y: 73
+ Radius: 11
+Circle: 
+ X: 31
+ Y: 36
+ Radius: 15
+Rectangle: 
+ Left Top X: 66
+ Left Top Y: 90
+ Right Bottom X: 69
+ Right Bottom Y: 1
+Circle: 
+ X: 3
+ Y: 55
+ Radius: 8
+Circle: 
+ X: 45
+ Y: 26
+ Radius: 11
+Circle: 
+ X: 23
+ Y: 24
+ Radius: 8
+Triangle 
+ First point X: 99
+ First point Y: 63
+ Second point X: 69
+ Second point Y: 67
+ Third point X: 27
+ Third point Y: 43
+Triangle 
+ First point X: 83
+ First point Y: 60
+ Second point X: 56
+ Second point Y: 70
+ Third point X: 96
+ Third point Y: 21
+Triangle 
+ First point X: 36
+ First point Y: 51
+ Second point X: 50
+ Second point Y: 87
+ Third point X: 37
+ Third point Y: 36
+Circle: 
+ X: 70
+ Y: 73
+ Radius: 3
+Rectangle: 
+ Left Top X: 60
+ Left Top Y: 152
+ Right Bottom X: 101
+ Right Bottom Y: 53
+Rectangle: 
+ Left Top X: 33
+ Left Top Y: 5
+ Right Bottom X: 111
+ Right Bottom Y: 5
+Rectangle: 
+ Left Top X: 85
+ Left Top Y: 62
+ Right Bottom X: 104
+ Right Bottom Y: 34
+Rectangle: 
+ Left Top X: 80
+ Left Top Y: 114
+ Right Bottom X: 171
+ Right Bottom Y: 21
+Circle: 
+ X: 47
+ Y: 34
+ Radius: 1
+Circle: 
+ X: 64
+ Y: 13
+ Radius: 11
+Rectangle: 
+ Left Top X: 76
+ Left Top Y: 151
+ Right Bottom X: 111
+ Right Bottom Y: 52
+Triangle 
+ First point X: 4
+ First point Y: 86
+ Second point X: 49
+ Second point Y: 26
+ Third point X: 22
+ Third point Y: 30
+Circle: 
+ X: 76
+ Y: 41
+ Radius: 20
+Circle: 
+ X: 90
+ Y: 83
+ Radius: 1
+Rectangle: 
+ Left Top X: 7
+ Left Top Y: 153
+ Right Bottom X: 84
+ Right Bottom Y: 62
+Rectangle: 
+ Left Top X: 60
+ Left Top Y: 156
+ Right Bottom X: 104
+ Right Bottom Y: 88
+Circle: 
+ X: 59
+ Y: 85
+ Radius: 10
+Rectangle: 
+ Left Top X: 17
+ Left Top Y: 95
+ Right Bottom X: 95
+ Right Bottom Y: 49
+Rectangle: 
+ Left Top X: 91
+ Left Top Y: 115
+ Right Bottom X: 159
+ Right Bottom Y: 87
+Triangle 
+ First point X: 44
+ First point Y: 18
+ Second point X: 11
+ Second point Y: 72
+ Third point X: 39
+ Third point Y: 51
+Circle: 
+ X: 33
+ Y: 70
+ Radius: 13
+Triangle 
+ First point X: 52
+ First point Y: 52
+ Second point X: 76
+ Second point Y: 78
+ Third point X: 7
+ Third point Y: 64
+Circle: 
+ X: 8
+ Y: 99
+ Radius: 12
+Circle: 
+ X: 74
+ Y: 76
+ Radius: 9
+Circle: 
+ X: 56
+ Y: 87
+ Radius: 10
+Circle: 
+ X: 17
+ Y: 48
+ Radius: 5
+Rectangle: 
+ Left Top X: 87
+ Left Top Y: 182
+ Right Bottom X: 187
+ Right Bottom Y: 99
+Triangle 
+ First point X: 21
+ First point Y: 14
+ Second point X: 76
+ Second point Y: 59
+ Third point X: 74
+ Third point Y: 12
+Triangle 
+ First point X: 6
+ First point Y: 30
+ Second point X: 10
+ Second point Y: 4
+ Third point X: 96
+ Third point Y: 91
+Rectangle: 
+ Left Top X: 65
+ Left Top Y: 119
+ Right Bottom X: 153
+ Right Bottom Y: 26
+Triangle 
+ First point X: 73
+ First point Y: 84
+ Second point X: 45
+ Second point Y: 13
+ Third point X: 40
+ Third point Y: 22
+Circle: 
+ X: 28
+ Y: 17
+ Radius: 10
+Triangle 
+ First point X: 15
+ First point Y: 11
+ Second point X: 4
+ Second point Y: 33
+ Third point X: 92
+ Third point Y: 29
+Circle: 
+ X: 41
+ Y: 16
+ Radius: 10
+Circle: 
+ X: 58
+ Y: 24
+ Radius: 8
+Rectangle: 
+ Left Top X: 52
+ Left Top Y: 64
+ Right Bottom X: 138
+ Right Bottom Y: 37
+Rectangle: 
+ Left Top X: 0
+ Left Top Y: 48
+ Right Bottom X: 31
+ Right Bottom Y: 17
+Triangle 
+ First point X: 6
+ First point Y: 71
+ Second point X: 27
+ Second point Y: 81
+ Third point X: 100
+ Third point Y: 34
+Rectangle: 
+ Left Top X: 70
+ Left Top Y: 47
+ Right Bottom X: 108
+ Right Bottom Y: 18
+Triangle 
+ First point X: 42
+ First point Y: 55
+ Second point X: 56
+ Second point Y: 45
+ Third point X: 19
+ Third point Y: 94
+Triangle 
+ First point X: 2
+ First point Y: 16
+ Second point X: 27
+ Second point Y: 49
+ Third point X: 89
+ Third point Y: 32
+Triangle 
+ First point X: 58
+ First point Y: 34
+ Second point X: 48
+ Second point Y: 38
+ Third point X: 19
+ Third point Y: 72
+Rectangle: 
+ Left Top X: 2
+ Left Top Y: 77
+ Right Bottom X: 88
+ Right Bottom Y: 4
+Triangle 
+ First point X: 75
+ First point Y: 33
+ Second point X: 13
+ Second point Y: 10
+ Third point X: 85
+ Third point Y: 53
+Rectangle: 
+ Left Top X: 29
+ Left Top Y: 131
+ Right Bottom X: 82
+ Right Bottom Y: 71
+Circle: 
+ X: 79
+ Y: 25
+ Radius: 11
+Triangle 
+ First point X: 83
+ First point Y: 59
+ Second point X: 65
+ Second point Y: 90
+ Third point X: 54
+ Third point Y: 80
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 71
+ Right Bottom X: 143
+ Right Bottom Y: 21
+Circle: 
+ X: 24
+ Y: 17
+ Radius: 2
+Rectangle: 
+ Left Top X: 28
+ Left Top Y: 122
+ Right Bottom X: 68
+ Right Bottom Y: 71
+Circle: 
+ X: 87
+ Y: 35
+ Radius: 3
+Rectangle: 
+ Left Top X: 70
+ Left Top Y: 160
+ Right Bottom X: 145
+ Right Bottom Y: 70
+Triangle 
+ First point X: 0
+ First point Y: 30
+ Second point X: 65
+ Second point Y: 13
+ Third point X: 9
+ Third point Y: 2
+Rectangle: 
+ Left Top X: 80
+ Left Top Y: 178
+ Right Bottom X: 110
+ Right Bottom Y: 84
+Rectangle: 
+ Left Top X: 90
+ Left Top Y: 86
+ Right Bottom X: 125
+ Right Bottom Y: 6
+Circle: 
+ X: 92
+ Y: 8
+ Radius: 18
+Rectangle: 
+ Left Top X: 21
+ Left Top Y: 81
+ Right Bottom X: 108
+ Right Bottom Y: 30
+Triangle 
+ First point X: 4
+ First point Y: 42
+ Second point X: 12
+ Second point Y: 25
+ Third point X: 85
+ Third point Y: 3
+Rectangle: 
+ Left Top X: 36
+ Left Top Y: 115
+ Right Bottom X: 108
+ Right Bottom Y: 86
+Rectangle: 
+ Left Top X: 1
+ Left Top Y: 68
+ Right Bottom X: 53
+ Right Bottom Y: 9
+Triangle 
+ First point X: 87
+ First point Y: 76
+ Second point X: 31
+ Second point Y: 64
+ Third point X: 79
+ Third point Y: 17
+Rectangle: 
+ Left Top X: 11
+ Left Top Y: 96
+ Right Bottom X: 60
+ Right Bottom Y: 11
+Triangle 
+ First point X: 74
+ First point Y: 94
+ Second point X: 98
+ Second point Y: 60
+ Third point X: 70
+ Third point Y: 14
+Rectangle: 
+ Left Top X: 99
+ Left Top Y: 42
+ Right Bottom X: 144
+ Right Bottom Y: 23
+Circle: 
+ X: 25
+ Y: 51
+ Radius: 15
+Rectangle: 
+ Left Top X: 62
+ Left Top Y: 105
+ Right Bottom X: 140
+ Right Bottom Y: 20
+Triangle 
+ First point X: 76
+ First point Y: 78
+ Second point X: 20
+ Second point Y: 78
+ Third point X: 36
+ Third point Y: 63
+Triangle 
+ First point X: 22
+ First point Y: 77
+ Second point X: 42
+ Second point Y: 10
+ Third point X: 29
+ Third point Y: 55
+Rectangle: 
+ Left Top X: 42
+ Left Top Y: 128
+ Right Bottom X: 46
+ Right Bottom Y: 68
+Rectangle: 
+ Left Top X: 98
+ Left Top Y: 75
+ Right Bottom X: 163
+ Right Bottom Y: 38
+Triangle 
+ First point X: 39
+ First point Y: 14
+ Second point X: 0
+ Second point Y: 81
+ Third point X: 79
+ Third point Y: 22
+Circle: 
+ X: 33
+ Y: 0
+ Radius: 19
+Circle: 
+ X: 97
+ Y: 30
+ Radius: 1
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: 48
+ Right Bottom X: 31
+ Right Bottom Y: 21
+Triangle 
+ First point X: 70
+ First point Y: 52
+ Second point X: 16
+ Second point Y: 13
+ Third point X: 98
+ Third point Y: 59
+Triangle 
+ First point X: 37
+ First point Y: 64
+ Second point X: 52
+ Second point Y: 87
+ Third point X: 90
+ Third point Y: 19
+Circle: 
+ X: 37
+ Y: 55
+ Radius: 3
+Rectangle: 
+ Left Top X: 59
+ Left Top Y: 25
+ Right Bottom X: 142
+ Right Bottom Y: 17
+Triangle 
+ First point X: 73
+ First point Y: 49
+ Second point X: 16
+ Second point Y: 26
+ Third point X: 57
+ Third point Y: 61
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 30
+ Right Bottom X: 100
+ Right Bottom Y: 24
+Rectangle: 
+ Left Top X: 18
+ Left Top Y: 195
+ Right Bottom X: 53
+ Right Bottom Y: 96
+Circle: 
+ X: 96
+ Y: 14
+ Radius: 13
+Rectangle: 
+ Left Top X: 9
+ Left Top Y: 159
+ Right Bottom X: 46
+ Right Bottom Y: 89
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 19
+ Right Bottom X: 124
+ Right Bottom Y: 16
+Circle: 
+ X: 19
+ Y: 65
+ Radius: 9
+Triangle 
+ First point X: 42
+ First point Y: 3
+ Second point X: 45
+ Second point Y: 56
+ Third point X: 74
+ Third point Y: 82
+Circle: 
+ X: 0
+ Y: 98
+ Radius: 1
+Rectangle: 
+ Left Top X: 63
+ Left Top Y: 92
+ Right Bottom X: 111
+ Right Bottom Y: 82
+Rectangle: 
+ Left Top X: 92
+ Left Top Y: 102
+ Right Bottom X: 176
+ Right Bottom Y: 94
+Rectangle: 
+ Left Top X: 98
+ Left Top Y: 180
+ Right Bottom X: 183
+ Right Bottom Y: 98
+Circle: 
+ X: 53
+ Y: 9
+ Radius: 5
+Circle: 
+ X: 43
+ Y: 33
+ Radius: 11
+Rectangle: 
+ Left Top X: 92
+ Left Top Y: 99
+ Right Bottom X: 171
+ Right Bottom Y: 82
+Triangle 
+ First point X: 7
+ First point Y: 56
+ Second point X: 51
+ Second point Y: 99
+ Third point X: 30
+ Third point Y: 71
+Rectangle: 
+ Left Top X: 4
+ Left Top Y: 48
+ Right Bottom X: 16
+ Right Bottom Y: 37
+Rectangle: 
+ Left Top X: 57
+ Left Top Y: 121
+ Right Bottom X: 70
+ Right Bottom Y: 51
+Triangle 
+ First point X: 0
+ First point Y: 91
+ Second point X: 98
+ Second point Y: 40
+ Third point X: 51
+ Third point Y: 58
+Circle: 
+ X: 20
+ Y: 32
+ Radius: 2
+Triangle 
+ First point X: 8
+ First point Y: 80
+ Second point X: 4
+ Second point Y: 52
+ Third point X: 92
+ Third point Y: 56
+Rectangle: 
+ Left Top X: 2
+ Left Top Y: 54
+ Right Bottom X: 7
+ Right Bottom Y: 43
+Rectangle: 
+ Left Top X: 55
+ Left Top Y: 107
+ Right Bottom X: 148
+ Right Bottom Y: 61
+Circle: 
+ X: 39
+ Y: 78
+ Radius: 19
+Circle: 
+ X: 9
+ Y: 7
+ Radius: 3
+Triangle 
+ First point X: 93
+ First point Y: 14
+ Second point X: 81
+ Second point Y: 39
+ Third point X: 51
+ Third point Y: 27
+Circle: 
+ X: 33
+ Y: 92
+ Radius: 12
+Triangle 
+ First point X: 77
+ First point Y: 97
+ Second point X: 5
+ Second point Y: 67
+ Third point X: 98
+ Third point Y: 100
+Circle: 
+ X: 82
+ Y: 53
+ Radius: 10
+Rectangle: 
+ Left Top X: 77
+ Left Top Y: 38
+ Right Bottom X: 157
+ Right Bottom Y: 33
+Triangle 
+ First point X: 76
+ First point Y: 99
+ Second point X: 98
+ Second point Y: 71
+ Third point X: 41
+ Third point Y: 54
+Triangle 
+ First point X: 85
+ First point Y: 58
+ Second point X: 10
+ Second point Y: 32
+ Third point X: 80
+ Third point Y: 34
+Circle: 
+ X: 45
+ Y: 8
+ Radius: 6
+Rectangle: 
+ Left Top X: 40
+ Left Top Y: 136
+ Right Bottom X: 78
+ Right Bottom Y: 81
+Triangle 
+ First point X: 26
+ First point Y: 77
+ Second point X: 78
+ Second point Y: 35
+ Third point X: 52
+ Third point Y: 94
+Triangle 
+ First point X: 7
+ First point Y: 27
+ Second point X: 49
+ Second point Y: 77
+ Third point X: 98
+ Third point Y: 91
+Circle: 
+ X: 88
+ Y: 51
+ Radius: 19
+Rectangle: 
+ Left Top X: 0
+ Left Top Y: 118
+ Right Bottom X: 70
+ Right Bottom Y: 27
+Circle: 
+ X: 84
+ Y: 54
+ Radius: 1
+Circle: 
+ X: 84
+ Y: 81
+ Radius: 15
+Circle: 
+ X: 75
+ Y: 37
+ Radius: 4
+Circle: 
+ X: 33
+ Y: 64
+ Radius: 16
+Rectangle: 
+ Left Top X: 57
+ Left Top Y: 165
+ Right Bottom X: 78
+ Right Bottom Y: 72
+Circle: 
+ X: 91
+ Y: 64
+ Radius: 19
+Circle: 
+ X: 10
+ Y: 54
+ Radius: 7
+Triangle 
+ First point X: 35
+ First point Y: 93
+ Second point X: 60
+ Second point Y: 13
+ Third point X: 83
+ Third point Y: 52
+Circle: 
+ X: 66
+ Y: 98
+ Radius: 6
+Circle: 
+ X: 17
+ Y: 70
+ Radius: 10
+Rectangle: 
+ Left Top X: 12
+ Left Top Y: 45
+ Right Bottom X: 39
+ Right Bottom Y: 5
+Circle: 
+ X: 54
+ Y: 31
+ Radius: 16
+Rectangle: 
+ Left Top X: 96
+ Left Top Y: 104
+ Right Bottom X: 185
+ Right Bottom Y: 82
+Circle: 
+ X: 45
+ Y: 39
+ Radius: 19
+Circle: 
+ X: 77
+ Y: 37
+ Radius: 12
+Circle: 
+ X: 23
+ Y: 84
+ Radius: 1
+Circle: 
+ X: 41
+ Y: 68
+ Radius: 14
+Rectangle: 
+ Left Top X: 39
+ Left Top Y: 147
+ Right Bottom X: 103
+ Right Bottom Y: 49
+Triangle 
+ First point X: 18
+ First point Y: 45
+ Second point X: 69
+ Second point Y: 80
+ Third point X: 2
+ Third point Y: 31
+Rectangle: 
+ Left Top X: 84
+ Left Top Y: 138
+ Right Bottom X: 108
+ Right Bottom Y: 87
+Triangle 
+ First point X: 17
+ First point Y: 81
+ Second point X: 22
+ Second point Y: 78
+ Third point X: 92
+ Third point Y: 58
+Triangle 
+ First point X: 24
+ First point Y: 68
+ Second point X: 67
+ Second point Y: 21
+ Third point X: 66
+ Third point Y: 12
+Triangle 
+ First point X: 21
+ First point Y: 5
+ Second point X: 67
+ Second point Y: 79
+ Third point X: 47
+ Third point Y: 70
+Circle: 
+ X: 85
+ Y: 9
+ Radius: 4
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 81
+ Right Bottom X: 50
+ Right Bottom Y: 47
+Rectangle: 
+ Left Top X: 66
+ Left Top Y: 67
+ Right Bottom X: 77
+ Right Bottom Y: 51
+Triangle 
+ First point X: 0
+ First point Y: 0
+ Second point X: 9
+ Second point Y: 71
+ Third point X: 28
+ Third point Y: 50
+Circle: 
+ X: 78
+ Y: 37
+ Radius: 16
+Triangle 
+ First point X: 61
+ First point Y: 25
+ Second point X: 18
+ Second point Y: 74
+ Third point X: 26
+ Third point Y: 0
+Triangle 
+ First point X: 36
+ First point Y: 12
+ Second point X: 67
+ Second point Y: 83
+ Third point X: 53
+ Third point Y: 80
+Rectangle: 
+ Left Top X: 89
+ Left Top Y: 111
+ Right Bottom X: 119
+ Right Bottom Y: 47
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: 66
+ Right Bottom X: 26
+ Right Bottom Y: 4
+Circle: 
+ X: 66
+ Y: 95
+ Radius: 9
+Circle: 
+ X: 39
+ Y: 9
+ Radius: 14
+Triangle 
+ First point X: 60
+ First point Y: 95
+ Second point X: 94
+ Second point Y: 85
+ Third point X: 51
+ Third point Y: 88
+Circle: 
+ X: 90
+ Y: 27
+ Radius: 0
+Rectangle: 
+ Left Top X: 4
+ Left Top Y: 130
+ Right Bottom X: 54
+ Right Bottom Y: 90
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: 124
+ Right Bottom X: 82
+ Right Bottom Y: 76
+Circle: 
+ X: 83
+ Y: 84
+ Radius: 2
+Rectangle: 
+ Left Top X: 70
+ Left Top Y: 122
+ Right Bottom X: 153
+ Right Bottom Y: 100
+Rectangle: 
+ Left Top X: 88
+ Left Top Y: 193
+ Right Bottom X: 101
+ Right Bottom Y: 94
+Triangle 
+ First point X: 54
+ First point Y: 49
+ Second point X: 30
+ Second point Y: 34
+ Third point X: 29
+ Third point Y: 32
+Circle: 
+ X: 51
+ Y: 10
+ Radius: 10
+Circle: 
+ X: 78
+ Y: 54
+ Radius: 15
+Rectangle: 
+ Left Top X: 64
+ Left Top Y: 110
+ Right Bottom X: 104
+ Right Bottom Y: 46
+Circle: 
+ X: 74
+ Y: 25
+ Radius: 14
+Triangle 
+ First point X: 83
+ First point Y: 64
+ Second point X: 72
+ Second point Y: 97
+ Third point X: 98
+ Third point Y: 57
+Circle: 
+ X: 73
+ Y: 19
+ Radius: 5
+Circle: 
+ X: 22
+ Y: 26
+ Radius: 18
+Triangle 
+ First point X: 28
+ First point Y: 87
+ Second point X: 33
+ Second point Y: 76
+ Third point X: 80
+ Third point Y: 4
+Rectangle: 
+ Left Top X: 56
+ Left Top Y: 34
+ Right Bottom X: 82
+ Right Bottom Y: 26
+Triangle 
+ First point X: 58
+ First point Y: 49
+ Second point X: 45
+ Second point Y: 86
+ Third point X: 88
+ Third point Y: 34
+Circle: 
+ X: 55
+ Y: 28
+ Radius: 6
+Circle: 
+ X: 71
+ Y: 37
+ Radius: 3
+Circle: 
+ X: 94
+ Y: 8
+ Radius: 0
+Circle: 
+ X: 97
+ Y: 49
+ Radius: 20
+Rectangle: 
+ Left Top X: 2
+ Left Top Y: 124
+ Right Bottom X: 19
+ Right Bottom Y: 90
+Rectangle: 
+ Left Top X: 28
+ Left Top Y: 131
+ Right Bottom X: 99
+ Right Bottom Y: 68
+Triangle 
+ First point X: 3
+ First point Y: 46
+ Second point X: 27
+ Second point Y: 73
+ Third point X: 72
+ Third point Y: 84
+Triangle 
+ First point X: 57
+ First point Y: 99
+ Second point X: 47
+ Second point Y: 1
+ Third point X: 9
+ Third point Y: 91
+Rectangle: 
+ Left Top X: 38
+ Left Top Y: 86
+ Right Bottom X: 73
+ Right Bottom Y: 48
+Circle: 
+ X: 98
+ Y: 80
+ Radius: 17
+Circle: 
+ X: 22
+ Y: 33
+ Radius: 11
+Circle: 
+ X: 22
+ Y: 1
+ Radius: 1
+Circle: 
+ X: 43
+ Y: 74
+ Radius: 13
+Triangle 
+ First point X: 80
+ First point Y: 32
+ Second point X: 39
+ Second point Y: 41
+ Third point X: 47
+ Third point Y: 88
+Rectangle: 
+ Left Top X: 47
+ Left Top Y: 68
+ Right Bottom X: 114
+ Right Bottom Y: 61
+Rectangle: 
+ Left Top X: 65
+ Left Top Y: 171
+ Right Bottom X: 141
+ Right Bottom Y: 82
+Circle: 
+ X: 9
+ Y: 52
+ Radius: 16
+Circle: 
+ X: 95
+ Y: 25
+ Radius: 2
+Triangle 
+ First point X: 55
+ First point Y: 39
+ Second point X: 61
+ Second point Y: 24
+ Third point X: 100
+ Third point Y: 73
+Triangle 
+ First point X: 45
+ First point Y: 61
+ Second point X: 67
+ Second point Y: 45
+ Third point X: 79
+ Third point Y: 88
+Rectangle: 
+ Left Top X: 0
+ Left Top Y: 140
+ Right Bottom X: 25
+ Right Bottom Y: 98
+Circle: 
+ X: 77
+ Y: 95
+ Radius: 19
+Circle: 
+ X: 92
+ Y: 11
+ Radius: 12
+Rectangle: 
+ Left Top X: 58
+ Left Top Y: 34
+ Right Bottom X: 114
+ Right Bottom Y: 5
+Circle: 
+ X: 59
+ Y: 89
+ Radius: 14
+Circle: 
+ X: 55
+ Y: 79
+ Radius: 14
+Triangle 
+ First point X: 76
+ First point Y: 26
+ Second point X: 39
+ Second point Y: 79
+ Third point X: 42
+ Third point Y: 46
+Circle: 
+ X: 37
+ Y: 12
+ Radius: 11
+Triangle 
+ First point X: 1
+ First point Y: 76
+ Second point X: 66
+ Second point Y: 87
+ Third point X: 58
+ Third point Y: 48
+Rectangle: 
+ Left Top X: 99
+ Left Top Y: 154
+ Right Bottom X: 192
+ Right Bottom Y: 57
+Circle: 
+ X: 50
+ Y: 84
+ Radius: 11
+Circle: 
+ X: 23
+ Y: 74
+ Radius: 7
+Circle: 
+ X: 75
+ Y: 76
+ Radius: 0
+Circle: 
+ X: 21
+ Y: 72
+ Radius: 18
+Triangle 
+ First point X: 95
+ First point Y: 27
+ Second point X: 18
+ Second point Y: 45
+ Third point X: 61
+ Third point Y: 84
+Triangle 
+ First point X: 45
+ First point Y: 63
+ Second point X: 41
+ Second point Y: 17
+ Third point X: 80
+ Third point Y: 86
+Rectangle: 
+ Left Top X: 100
+ Left Top Y: 90
+ Right Bottom X: 110
+ Right Bottom Y: 14
+Circle: 
+ X: 14
+ Y: 40
+ Radius: 8
+Rectangle: 
+ Left Top X: 16
+ Left Top Y: 6
+ Right Bottom X: 51
+ Right Bottom Y: 3
+Triangle 
+ First point X: 37
+ First point Y: 3
+ Second point X: 50
+ Second point Y: 27
+ Third point X: 94
+ Third point Y: 55
+Triangle 
+ First point X: 96
+ First point Y: 80
+ Second point X: 55
+ Second point Y: 41
+ Third point X: 25
+ Third point Y: 99
+Rectangle: 
+ Left Top X: 10
+ Left Top Y: 31
+ Right Bottom X: 56
+ Right Bottom Y: 17
+Rectangle: 
+ Left Top X: 21
+ Left Top Y: 113
+ Right Bottom X: 47
+ Right Bottom Y: 50
+Rectangle: 
+ Left Top X: 62
+ Left Top Y: 95
+ Right Bottom X: 73
+ Right Bottom Y: 74
+Circle: 
+ X: 53
+ Y: 98
+ Radius: 13
+Triangle 
+ First point X: 68
+ First point Y: 45
+ Second point X: 81
+ Second point Y: 97
+ Third point X: 89
+ Third point Y: 21
+Circle: 
+ X: 29
+ Y: 30
+ Radius: 1
+Circle: 
+ X: 55
+ Y: 38
+ Radius: 11
+Circle: 
+ X: 87
+ Y: 96
+ Radius: 18
+Rectangle: 
+ Left Top X: 40
+ Left Top Y: 167
+ Right Bottom X: 87
+ Right Bottom Y: 91
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 89
+ Right Bottom X: 178
+ Right Bottom Y: 16
+Rectangle: 
+ Left Top X: 46
+ Left Top Y: 76
+ Right Bottom X: 73
+ Right Bottom Y: 20
+Triangle 
+ First point X: 92
+ First point Y: 78
+ Second point X: 33
+ Second point Y: 84
+ Third point X: 2
+ Third point Y: 84
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 178
+ Right Bottom X: 112
+ Right Bottom Y: 90
+Triangle 
+ First point X: 62
+ First point Y: 23
+ Second point X: 62
+ Second point Y: 71
+ Third point X: 75
+ Third point Y: 54
+Triangle 
+ First point X: 37
+ First point Y: 31
+ Second point X: 80
+ Second point Y: 54
+ Third point X: 36
+ Third point Y: 34
+Triangle 
+ First point X: 74
+ First point Y: 90
+ Second point X: 92
+ Second point Y: 26
+ Third point X: 94
+ Third point Y: 29
+Circle: 
+ X: 5
+ Y: 79
+ Radius: 3
+Circle: 
+ X: 77
+ Y: 78
+ Radius: 8
+Circle: 
+ X: 33
+ Y: 6
+ Radius: 0
+Rectangle: 
+ Left Top X: 17
+ Left Top Y: 142
+ Right Bottom X: 109
+ Right Bottom Y: 60
+Triangle 
+ First point X: 27
+ First point Y: 91
+ Second point X: 88
+ Second point Y: 30
+ Third point X: 45
+ Third point Y: 70
+Rectangle: 
+ Left Top X: 94
+ Left Top Y: 26
+ Right Bottom X: 163
+ Right Bottom Y: 11
+Circle: 
+ X: 72
+ Y: 39
+ Radius: 12
+Circle: 
+ X: 24
+ Y: 7
+ Radius: 9
+Circle: 
+ X: 0
+ Y: 36
+ Radius: 15
+Rectangle: 
+ Left Top X: 96
+ Left Top Y: 161
+ Right Bottom X: 148
+ Right Bottom Y: 81
+Circle: 
+ X: 21
+ Y: 40
+ Radius: 4
+Rectangle: 
+ Left Top X: 16
+ Left Top Y: 101
+ Right Bottom X: 20
+ Right Bottom Y: 50
+Rectangle: 
+ Left Top X: 98
+ Left Top Y: 52
+ Right Bottom X: 99
+ Right Bottom Y: 20
+Circle: 
+ X: 14
+ Y: 67
+ Radius: 19
+Rectangle: 
+ Left Top X: 15
+ Left Top Y: 62
+ Right Bottom X: 91
+ Right Bottom Y: 41
+Triangle 
+ First point X: 39
+ First point Y: 82
+ Second point X: 99
+ Second point Y: 42
+ Third point X: 16
+ Third point Y: 94
+Triangle 
+ First point X: 14
+ First point Y: 62
+ Second point X: 11
+ Second point Y: 48
+ Third point X: 4
+ Third point Y: 44
+Triangle 
+ First point X: 43
+ First point Y: 98
+ Second point X: 72
+ Second point Y: 5
+ Third point X: 16
+ Third point Y: 30
+Circle: 
+ X: 19
+ Y: 2
+ Radius: 7
+Circle: 
+ X: 52
+ Y: 23
+ Radius: 11
+Rectangle: 
+ Left Top X: 85
+ Left Top Y: 76
+ Right Bottom X: 87
+ Right Bottom Y: 54
+Circle: 
+ X: 67
+ Y: 60
+ Radius: 15
+Rectangle: 
+ Left Top X: 12
+ Left Top Y: 40
+ Right Bottom X: 32
+ Right Bottom Y: 35
+Rectangle: 
+ Left Top X: 30
+ Left Top Y: 147
+ Right Bottom X: 93
+ Right Bottom Y: 79
+Circle: 
+ X: 37
+ Y: 37
+ Radius: 6
+Rectangle: 
+ Left Top X: 98
+ Left Top Y: 93
+ Right Bottom X: 159
+ Right Bottom Y: 20
+Rectangle: 
+ Left Top X: 15
+ Left Top Y: 92
+ Right Bottom X: 100
+ Right Bottom Y: 50
+Triangle 
+ First point X: 88
+ First point Y: 64
+ Second point X: 15
+ Second point Y: 58
+ Third point X: 16
+ Third point Y: 46
+Triangle 
+ First point X: 72
+ First point Y: 97
+ Second point X: 20
+ Second point Y: 28
+ Third point X: 41
+ Third point Y: 8
+Circle: 
+ X: 81
+ Y: 49
+ Radius: 13
+Circle: 
+ X: 37
+ Y: 99
+ Radius: 14
+Circle: 
+ X: 63
+ Y: 3
+ Radius: 5
+Circle: 
+ X: 7
+ Y: 68
+ Radius: 1
+Triangle 
+ First point X: 56
+ First point Y: 44
+ Second point X: 99
+ Second point Y: 4
+ Third point X: 13
+ Third point Y: 74
+Triangle 
+ First point X: 75
+ First point Y: 19
+ Second point X: 20
+ Second point Y: 37
+ Third point X: 53
+ Third point Y: 57
+Circle: 
+ X: 60
+ Y: 0
+ Radius: 20
+Rectangle: 
+ Left Top X: 66
+ Left Top Y: 105
+ Right Bottom X: 140
+ Right Bottom Y: 62
+Rectangle: 
+ Left Top X: 10
+ Left Top Y: 122
+ Right Bottom X: 65
+ Right Bottom Y: 63
+Triangle 
+ First point X: 3
+ First point Y: 68
+ Second point X: 19
+ Second point Y: 68
+ Third point X: 98
+ Third point Y: 58
+Circle: 
+ X: 85
+ Y: 17
+ Radius: 9
+Triangle 
+ First point X: 89
+ First point Y: 21
+ Second point X: 63
+ Second point Y: 8
+ Third point X: 29
+ Third point Y: 21
+Circle: 
+ X: 8
+ Y: 21
+ Radius: 17
+Triangle 
+ First point X: 7
+ First point Y: 97
+ Second point X: 86
+ Second point Y: 47
+ Third point X: 40
+ Third point Y: 2
+Rectangle: 
+ Left Top X: 1
+ Left Top Y: 78
+ Right Bottom X: 13
+ Right Bottom Y: 75
+Triangle 
+ First point X: 35
+ First point Y: 24
+ Second point X: 71
+ Second point Y: 47
+ Third point X: 84
+ Third point Y: 31
+Circle: 
+ X: 85
+ Y: 84
+ Radius: 19
+Triangle 
+ First point X: 7
+ First point Y: 66
+ Second point X: 39
+ Second point Y: 55
+ Third point X: 63
+ Third point Y: 85
+Circle: 
+ X: 40
+ Y: 81
+ Radius: 19
+Rectangle: 
+ Left Top X: 32
+ Left Top Y: 102
+ Right Bottom X: 102
+ Right Bottom Y: 74
+Circle: 
+ X: 49
+ Y: 6
+ Radius: 0
+Triangle 
+ First point X: 94
+ First point Y: 95
+ Second point X: 64
+ Second point Y: 31
+ Third point X: 96
+ Third point Y: 14
+Rectangle: 
+ Left Top X: 48
+ Left Top Y: 114
+ Right Bottom X: 128
+ Right Bottom Y: 34
+Circle: 
+ X: 70
+ Y: 90
+ Radius: 5
+Triangle 
+ First point X: 0
+ First point Y: 63
+ Second point X: 7
+ Second point Y: 22
+ Third point X: 45
+ Third point Y: 47
+Circle: 
+ X: 97
+ Y: 24
+ Radius: 2
+Circle: 
+ X: 62
+ Y: 57
+ Radius: 4
+Rectangle: 
+ Left Top X: 99
+ Left Top Y: 14
+ Right Bottom X: 179
+ Right Bottom Y: 5
+Triangle 
+ First point X: 65
+ First point Y: 59
+ Second point X: 8
+ Second point Y: 59
+ Third point X: 0
+ Third point Y: 89
+Circle: 
+ X: 57
+ Y: 43
+ Radius: 2
+Rectangle: 
+ Left Top X: 63
+ Left Top Y: 66
+ Right Bottom X: 131
+ Right Bottom Y: 2
+Circle: 
+ X: 88
+ Y: 11
+ Radius: 1
+Triangle 
+ First point X: 82
+ First point Y: 59
+ Second point X: 12
+ Second point Y: 93
+ Third point X: 59
+ Third point Y: 36
+Triangle 
+ First point X: 63
+ First point Y: 50
+ Second point X: 35
+ Second point Y: 55
+ Third point X: 86
+ Third point Y: 67
+Triangle 
+ First point X: 24
+ First point Y: 74
+ Second point X: 39
+ Second point Y: 28
+ Third point X: 18
+ Third point Y: 2
+Circle: 
+ X: 28
+ Y: 23
+ Radius: 1
+Circle: 
+ X: 94
+ Y: 6
+ Radius: 10
+Rectangle: 
+ Left Top X: 34
+ Left Top Y: 137
+ Right Bottom X: 120
+ Right Bottom Y: 65
+Triangle 
+ First point X: 39
+ First point Y: 28
+ Second point X: 49
+ Second point Y: 85
+ Third point X: 11
+ Third point Y: 3
+Triangle 
+ First point X: 100
+ First point Y: 45
+ Second point X: 69
+ Second point Y: 3
+ Third point X: 75
+ Third point Y: 34
+Circle: 
+ X: 31
+ Y: 32
+ Radius: 3
+Triangle 
+ First point X: 4
+ First point Y: 85
+ Second point X: 69
+ Second point Y: 86
+ Third point X: 24
+ Third point Y: 89
+Rectangle: 
+ Left Top X: 65
+ Left Top Y: 32
+ Right Bottom X: 94
+ Right Bottom Y: 12
+Rectangle: 
+ Left Top X: 48
+ Left Top Y: 106
+ Right Bottom X: 81
+ Right Bottom Y: 59
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: 63
+ Right Bottom X: 109
+ Right Bottom Y: 28
+Rectangle: 
+ Left Top X: 71
+ Left Top Y: 15
+ Right Bottom X: 97
+ Right Bottom Y: 14
+Rectangle: 
+ Left Top X: 84
+ Left Top Y: 154
+ Right Bottom X: 154
+ Right Bottom Y: 73
+Circle: 
+ X: 85
+ Y: 47
+ Radius: 7
+Rectangle: 
+ Left Top X: 26
+ Left Top Y: 115
+ Right Bottom X: 108
+ Right Bottom Y: 71
+Triangle 
+ First point X: 82
+ First point Y: 12
+ Second point X: 77
+ Second point Y: 50
+ Third point X: 79
+ Third point Y: 80
+Rectangle: 
+ Left Top X: 76
+ Left Top Y: 110
+ Right Bottom X: 136
+ Right Bottom Y: 77
+Circle: 
+ X: 41
+ Y: 92
+ Radius: 16
+Rectangle: 
+ Left Top X: 36
+ Left Top Y: 74
+ Right Bottom X: 99
+ Right Bottom Y: 57
+Rectangle: 
+ Left Top X: 13
+ Left Top Y: 74
+ Right Bottom X: 77
+ Right Bottom Y: 71
+Circle: 
+ X: 87
+ Y: 30
+ Radius: 11
+Triangle 
+ First point X: 75
+ First point Y: 95
+ Second point X: 39
+ Second point Y: 48
+ Third point X: 49
+ Third point Y: 73
+Triangle 
+ First point X: 5
+ First point Y: 55
+ Second point X: 25
+ Second point Y: 76
+ Third point X: 95
+ Third point Y: 61
+Rectangle: 
+ Left Top X: 52
+ Left Top Y: 38
+ Right Bottom X: 91
+ Right Bottom Y: 35
+Triangle 
+ First point X: 79
+ First point Y: 1
+ Second point X: 22
+ Second point Y: 100
+ Third point X: 65
+ Third point Y: 35
+Circle: 
+ X: 79
+ Y: 41
+ Radius: 1
+Triangle 
+ First point X: 74
+ First point Y: 59
+ Second point X: 84
+ Second point Y: 77
+ Third point X: 8
+ Third point Y: 60
+Circle: 
+ X: 69
+ Y: 99
+ Radius: 1
+Circle: 
+ X: 74
+ Y: 19
+ Radius: 1
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 68
+ Right Bottom X: 124
+ Right Bottom Y: 1
+Circle: 
+ X: 80
+ Y: 87
+ Radius: 5
+Circle: 
+ X: 78
+ Y: 1
+ Radius: 13
+Circle: 
+ X: 0
+ Y: 13
+ Radius: 20
+Circle: 
+ X: 4
+ Y: 99
+ Radius: 12
+Circle: 
+ X: 83
+ Y: 72
+ Radius: 10
+Circle: 
+ X: 65
+ Y: 99
+ Radius: 11
+Triangle 
+ First point X: 85
+ First point Y: 40
+ Second point X: 79
+ Second point Y: 74
+ Third point X: 10
+ Third point Y: 64
+Circle: 
+ X: 39
+ Y: 4
+ Radius: 5
+Rectangle: 
+ Left Top X: 20
+ Left Top Y: 109
+ Right Bottom X: 49
+ Right Bottom Y: 26
+Triangle 
+ First point X: 89
+ First point Y: 2
+ Second point X: 100
+ Second point Y: 0
+ Third point X: 17
+ Third point Y: 21
+Rectangle: 
+ Left Top X: 94
+ Left Top Y: 110
+ Right Bottom X: 122
+ Right Bottom Y: 96
+Rectangle: 
+ Left Top X: 86
+ Left Top Y: 133
+ Right Bottom X: 116
+ Right Bottom Y: 83
+Triangle 
+ First point X: 98
+ First point Y: 66
+ Second point X: 12
+ Second point Y: 30
+ Third point X: 98
+ Third point Y: 75
+Circle: 
+ X: 24
+ Y: 73
+ Radius: 2
+Circle: 
+ X: 73
+ Y: 92
+ Radius: 17
+Rectangle: 
+ Left Top X: 70
+ Left Top Y: 168
+ Right Bottom X: 160
+ Right Bottom Y: 68
+Circle: 
+ X: 48
+ Y: 47
+ Radius: 1
+Rectangle: 
+ Left Top X: 18
+ Left Top Y: 98
+ Right Bottom X: 50
+ Right Bottom Y: 7
+Rectangle: 
+ Left Top X: 98
+ Left Top Y: 18
+ Right Bottom X: 144
+ Right Bottom Y: 16
+Circle: 
+ X: 75
+ Y: 42
+ Radius: 9
+Triangle 
+ First point X: 97
+ First point Y: 42
+ Second point X: 14
+ Second point Y: 54
+ Third point X: 94
+ Third point Y: 91
+Rectangle: 
+ Left Top X: 25
+ Left Top Y: 110
+ Right Bottom X: 43
+ Right Bottom Y: 45
+Rectangle: 
+ Left Top X: 68
+ Left Top Y: 174
+ Right Bottom X: 142
+ Right Bottom Y: 93
+Triangle 
+ First point X: 37
+ First point Y: 61
+ Second point X: 98
+ Second point Y: 41
+ Third point X: 48
+ Third point Y: 23
+Triangle 
+ First point X: 34
+ First point Y: 83
+ Second point X: 88
+ Second point Y: 87
+ Third point X: 57
+ Third point Y: 84
+Rectangle: 
+ Left Top X: 99
+ Left Top Y: 136
+ Right Bottom X: 112
+ Right Bottom Y: 85
+Circle: 
+ X: 68
+ Y: 25
+ Radius: 13
+Circle: 
+ X: 62
+ Y: 29
+ Radius: 8
+Rectangle: 
+ Left Top X: 81
+ Left Top Y: 109
+ Right Bottom X: 120
+ Right Bottom Y: 63
+Rectangle: 
+ Left Top X: 43
+ Left Top Y: 34
+ Right Bottom X: 135
+ Right Bottom Y: 25
+Triangle 
+ First point X: 59
+ First point Y: 38
+ Second point X: 13
+ Second point Y: 65
+ Third point X: 100
+ Third point Y: 6
+Rectangle: 
+ Left Top X: 39
+ Left Top Y: 70
+ Right Bottom X: 124
+ Right Bottom Y: 56
+Rectangle: 
+ Left Top X: 22
+ Left Top Y: 20
+ Right Bottom X: 101
+ Right Bottom Y: 0
+Circle: 
+ X: 42
+ Y: 34
+ Radius: 6
+Rectangle: 
+ Left Top X: 64
+ Left Top Y: 90
+ Right Bottom X: 117
+ Right Bottom Y: 46
+Triangle 
+ First point X: 13
+ First point Y: 28
+ Second point X: 95
+ Second point Y: 58
+ Third point X: 22
+ Third point Y: 47
+Triangle 
+ First point X: 52
+ First point Y: 31
+ Second point X: 83
+ Second point Y: 46
+ Third point X: 3
+ Third point Y: 72
+Circle: 
+ X: 68
+ Y: 93
+ Radius: 6
+Circle: 
+ X: 12
+ Y: 20
+ Radius: 6
+Triangle 
+ First point X: 48
+ First point Y: 59
+ Second point X: 80
+ Second point Y: 99
+ Third point X: 44
+ Third point Y: 89
+Rectangle: 
+ Left Top X: 70
+ Left Top Y: 112
+ Right Bottom X: 81
+ Right Bottom Y: 76
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 75
+ Right Bottom X: 123
+ Right Bottom Y: 36
+Triangle 
+ First point X: 98
+ First point Y: 43
+ Second point X: 80
+ Second point Y: 39
+ Third point X: 97
+ Third point Y: 8
+Circle: 
+ X: 17
+ Y: 60
+ Radius: 19
+Rectangle: 
+ Left Top X: 45
+ Left Top Y: 179
+ Right Bottom X: 111
+ Right Bottom Y: 81
+Triangle 
+ First point X: 93
+ First point Y: 50
+ Second point X: 74
+ Second point Y: 0
+ Third point X: 73
+ Third point Y: 17
+Rectangle: 
+ Left Top X: 74
+ Left Top Y: 60
+ Right Bottom X: 135
+ Right Bottom Y: 19
+Circle: 
+ X: 97
+ Y: 4
+ Radius: 9
+Circle: 
+ X: 2
+ Y: 99
+ Radius: 2
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 42
+ Right Bottom X: 95
+ Right Bottom Y: 26
+Triangle 
+ First point X: 34
+ First point Y: 15
+ Second point X: 25
+ Second point Y: 46
+ Third point X: 92
+ Third point Y: 84
+Triangle 
+ First point X: 17
+ First point Y: 48
+ Second point X: 34
+ Second point Y: 82
+ Third point X: 15
+ Third point Y: 25
+Triangle 
+ First point X: 40
+ First point Y: 70
+ Second point X: 33
+ Second point Y: 98
+ Third point X: 88
+ Third point Y: 42
+Rectangle: 
+ Left Top X: 57
+ Left Top Y: 141
+ Right Bottom X: 94
+ Right Bottom Y: 53
+Rectangle: 
+ Left Top X: 97
+ Left Top Y: 139
+ Right Bottom X: 187
+ Right Bottom Y: 92
+Triangle 
+ First point X: 68
+ First point Y: 75
+ Second point X: 74
+ Second point Y: 21
+ Third point X: 85
+ Third point Y: 32
+Circle: 
+ X: 62
+ Y: 35
+ Radius: 13
+Triangle 
+ First point X: 59
+ First point Y: 21
+ Second point X: 29
+ Second point Y: 80
+ Third point X: 27
+ Third point Y: 8
+Triangle 
+ First point X: 76
+ First point Y: 78
+ Second point X: 50
+ Second point Y: 17
+ Third point X: 71
+ Third point Y: 26
+Rectangle: 
+ Left Top X: 36
+ Left Top Y: 25
+ Right Bottom X: 80
+ Right Bottom Y: 13
+Rectangle: 
+ Left Top X: 0
+ Left Top Y: 66
+ Right Bottom X: 48
+ Right Bottom Y: 47
+Circle: 
+ X: 1
+ Y: 11
+ Radius: 12
+Circle: 
+ X: 62
+ Y: 0
+ Radius: 18
+Circle: 
+ X: 46
+ Y: 71
+ Radius: 4
+Circle: 
+ X: 78
+ Y: 38
+ Radius: 12
+Circle: 
+ X: 69
+ Y: 17
+ Radius: 11
+Circle: 
+ X: 99
+ Y: 2
+ Radius: 1
+Triangle 
+ First point X: 9
+ First point Y: 79
+ Second point X: 40
+ Second point Y: 83
+ Third point X: 79
+ Third point Y: 82
+Circle: 
+ X: 47
+ Y: 37
+ Radius: 4
+Rectangle: 
+ Left Top X: 30
+ Left Top Y: 177
+ Right Bottom X: 63
+ Right Bottom Y: 79
+Circle: 
+ X: 33
+ Y: 17
+ Radius: 15
+Rectangle: 
+ Left Top X: 50
+ Left Top Y: 120
+ Right Bottom X: 70
+ Right Bottom Y: 30
+Rectangle: 
+ Left Top X: 18
+ Left Top Y: 125
+ Right Bottom X: 46
+ Right Bottom Y: 60
+Triangle 
+ First point X: 67
+ First point Y: 10
+ Second point X: 69
+ Second point Y: 70
+ Third point X: 67
+ Third point Y: 29
+Circle: 
+ X: 70
+ Y: 17
+ Radius: 1
+Circle: 
+ X: 52
+ Y: 67
+ Radius: 18
+Rectangle: 
+ Left Top X: 76
+ Left Top Y: 76
+ Right Bottom X: 161
+ Right Bottom Y: 32
+Rectangle: 
+ Left Top X: 25
+ Left Top Y: 113
+ Right Bottom X: 96
+ Right Bottom Y: 76
+Circle: 
+ X: 85
+ Y: 40
+ Radius: 7
+Rectangle: 
+ Left Top X: 56
+ Left Top Y: 39
+ Right Bottom X: 110
+ Right Bottom Y: 15
+Triangle 
+ First point X: 21
+ First point Y: 7
+ Second point X: 80
+ Second point Y: 48
+ Third point X: 33
+ Third point Y: 52
+Rectangle: 
+ Left Top X: 43
+ Left Top Y: 110
+ Right Bottom X: 88
+ Right Bottom Y: 89
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 80
+ Right Bottom X: 90
+ Right Bottom Y: 70
+Circle: 
+ X: 88
+ Y: 76
+ Radius: 2
+Rectangle: 
+ Left Top X: 28
+ Left Top Y: 112
+ Right Bottom X: 47
+ Right Bottom Y: 78
+Circle: 
+ X: 50
+ Y: 5
+ Radius: 4
+Rectangle: 
+ Left Top X: 1
+ Left Top Y: 142
+ Right Bottom X: 64
+ Right Bottom Y: 54
+Rectangle: 
+ Left Top X: 94
+ Left Top Y: 75
+ Right Bottom X: 121
+ Right Bottom Y: 36
+Triangle 
+ First point X: 6
+ First point Y: 80
+ Second point X: 31
+ Second point Y: 44
+ Third point X: 57
+ Third point Y: 25
+Rectangle: 
+ Left Top X: 96
+ Left Top Y: 141
+ Right Bottom X: 139
+ Right Bottom Y: 65
+Triangle 
+ First point X: 11
+ First point Y: 80
+ Second point X: 85
+ Second point Y: 11
+ Third point X: 88
+ Third point Y: 15
+Rectangle: 
+ Left Top X: 44
+ Left Top Y: 169
+ Right Bottom X: 77
+ Right Bottom Y: 79
+Rectangle: 
+ Left Top X: 1
+ Left Top Y: 44
+ Right Bottom X: 92
+ Right Bottom Y: 7
+Circle: 
+ X: 24
+ Y: 91
+ Radius: 14
+Rectangle: 
+ Left Top X: 67
+ Left Top Y: 120
+ Right Bottom X: 86
+ Right Bottom Y: 28
+Rectangle: 
+ Left Top X: 94
+ Left Top Y: 146
+ Right Bottom X: 101
+ Right Bottom Y: 50
+Triangle 
+ First point X: 3
+ First point Y: 55
+ Second point X: 21
+ Second point Y: 39
+ Third point X: 66
+ Third point Y: 44
+Rectangle: 
+ Left Top X: 99
+ Left Top Y: 34
+ Right Bottom X: 169
+ Right Bottom Y: 2
+Rectangle: 
+ Left Top X: 9
+ Left Top Y: 66
+ Right Bottom X: 43
+ Right Bottom Y: 3
+Triangle 
+ First point X: 36
+ First point Y: 70
+ Second point X: 26
+ Second point Y: 91
+ Third point X: 83
+ Third point Y: 16
+Circle: 
+ X: 57
+ Y: 20
+ Radius: 4
+Rectangle: 
+ Left Top X: 21
+ Left Top Y: 172
+ Right Bottom X: 27
+ Right Bottom Y: 77
+Triangle 
+ First point X: 94
+ First point Y: 40
+ Second point X: 97
+ Second point Y: 59
+ Third point X: 95
+ Third point Y: 83
+Triangle 
+ First point X: 58
+ First point Y: 68
+ Second point X: 23
+ Second point Y: 77
+ Third point X: 53
+ Third point Y: 64
+Triangle 
+ First point X: 47
+ First point Y: 44
+ Second point X: 76
+ Second point Y: 63
+ Third point X: 36
+ Third point Y: 20
+Triangle 
+ First point X: 62
+ First point Y: 4
+ Second point X: 30
+ Second point Y: 97
+ Third point X: 64
+ Third point Y: 82
+Rectangle: 
+ Left Top X: 76
+ Left Top Y: 57
+ Right Bottom X: 112
+ Right Bottom Y: 49
+Rectangle: 
+ Left Top X: 10
+ Left Top Y: 190
+ Right Bottom X: 99
+ Right Bottom Y: 90
+Triangle 
+ First point X: 23
+ First point Y: 15
+ Second point X: 53
+ Second point Y: 83
+ Third point X: 41
+ Third point Y: 77
+Circle: 
+ X: 31
+ Y: 9
+ Radius: 15
+Circle: 
+ X: 93
+ Y: 42
+ Radius: 11
+Triangle 
+ First point X: 75
+ First point Y: 44
+ Second point X: 61
+ Second point Y: 67
+ Third point X: 95
+ Third point Y: 3
+Circle: 
+ X: 32
+ Y: 33
+ Radius: 1
+Triangle 
+ First point X: 78
+ First point Y: 3
+ Second point X: 46
+ Second point Y: 65
+ Third point X: 92
+ Third point Y: 24
+Triangle 
+ First point X: 83
+ First point Y: 46
+ Second point X: 63
+ Second point Y: 66
+ Third point X: 68
+ Third point Y: 63
+Circle: 
+ X: 23
+ Y: 11
+ Radius: 17
+Circle: 
+ X: 30
+ Y: 23
+ Radius: 9
+Triangle 
+ First point X: 59
+ First point Y: 57
+ Second point X: 17
+ Second point Y: 60
+ Third point X: 100
+ Third point Y: 8
+Circle: 
+ X: 29
+ Y: 77
+ Radius: 17
+Triangle 
+ First point X: 2
+ First point Y: 81
+ Second point X: 83
+ Second point Y: 93
+ Third point X: 88
+ Third point Y: 21
+Rectangle: 
+ Left Top X: 75
+ Left Top Y: 70
+ Right Bottom X: 96
+ Right Bottom Y: 48
+Circle: 
+ X: 21
+ Y: 19
+ Radius: 4
+Circle: 
+ X: 95
+ Y: 81
+ Radius: 12
+Circle: 
+ X: 77
+ Y: 77
+ Radius: 15
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 136
+ Right Bottom X: 171
+ Right Bottom Y: 95
+Triangle 
+ First point X: 91
+ First point Y: 37
+ Second point X: 69
+ Second point Y: 3
+ Third point X: 49
+ Third point Y: 2
+Triangle 
+ First point X: 96
+ First point Y: 29
+ Second point X: 26
+ Second point Y: 92
+ Third point X: 91
+ Third point Y: 75
+Rectangle: 
+ Left Top X: 14
+ Left Top Y: 109
+ Right Bottom X: 75
+ Right Bottom Y: 95
+Rectangle: 
+ Left Top X: 28
+ Left Top Y: 123
+ Right Bottom X: 29
+ Right Bottom Y: 77
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 107
+ Right Bottom X: 151
+ Right Bottom Y: 71
+Circle: 
+ X: 43
+ Y: 62
+ Radius: 19
+Circle: 
+ X: 84
+ Y: 61
+ Radius: 16
+Triangle 
+ First point X: 11
+ First point Y: 8
+ Second point X: 42
+ Second point Y: 24
+ Third point X: 8
+ Third point Y: 74
+Rectangle: 
+ Left Top X: 9
+ Left Top Y: 46
+ Right Bottom X: 90
+ Right Bottom Y: 0
+Circle: 
+ X: 25
+ Y: 87
+ Radius: 17
+Triangle 
+ First point X: 30
+ First point Y: 58
+ Second point X: 93
+ Second point Y: 79
+ Third point X: 40
+ Third point Y: 72
+Triangle 
+ First point X: 14
+ First point Y: 10
+ Second point X: 52
+ Second point Y: 3
+ Third point X: 51
+ Third point Y: 11
+Triangle 
+ First point X: 49
+ First point Y: 78
+ Second point X: 20
+ Second point Y: 95
+ Third point X: 41
+ Third point Y: 20
+Triangle 
+ First point X: 80
+ First point Y: 43
+ Second point X: 73
+ Second point Y: 46
+ Third point X: 28
+ Third point Y: 63
+Circle: 
+ X: 63
+ Y: 8
+ Radius: 1
+Circle: 
+ X: 3
+ Y: 3
+ Radius: 10
+Circle: 
+ X: 34
+ Y: 53
+ Radius: 6
+Circle: 
+ X: 17
+ Y: 61
+ Radius: 16
+Triangle 
+ First point X: 35
+ First point Y: 82
+ Second point X: 45
+ Second point Y: 49
+ Third point X: 78
+ Third point Y: 20
+Circle: 
+ X: 73
+ Y: 57
+ Radius: 18
+Circle: 
+ X: 80
+ Y: 22
+ Radius: 20
+Rectangle: 
+ Left Top X: 78
+ Left Top Y: 99
+ Right Bottom X: 165
+ Right Bottom Y: 13
+Circle: 
+ X: 59
+ Y: 34
+ Radius: 14
+Rectangle: 
+ Left Top X: 53
+ Left Top Y: 52
+ Right Bottom X: 94
+ Right Bottom Y: 4
+Rectangle: 
+ Left Top X: 18
+ Left Top Y: 62
+ Right Bottom X: 47
+ Right Bottom Y: 16
+Triangle 
+ First point X: 15
+ First point Y: 63
+ Second point X: 23
+ Second point Y: 70
+ Third point X: 75
+ Third point Y: 81
+Triangle 
+ First point X: 21
+ First point Y: 89
+ Second point X: 48
+ Second point Y: 54
+ Third point X: 63
+ Third point Y: 68
+Circle: 
+ X: 86
+ Y: 99
+ Radius: 17
+Rectangle: 
+ Left Top X: 58
+ Left Top Y: 132
+ Right Bottom X: 129
+ Right Bottom Y: 84
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 97
+ Right Bottom X: 128
+ Right Bottom Y: 28
+Triangle 
+ First point X: 49
+ First point Y: 13
+ Second point X: 55
+ Second point Y: 36
+ Third point X: 59
+ Third point Y: 50
+Circle: 
+ X: 92
+ Y: 89
+ Radius: 18
+Triangle 
+ First point X: 53
+ First point Y: 95
+ Second point X: 77
+ Second point Y: 87
+ Third point X: 10
+ Third point Y: 39
+Circle: 
+ X: 19
+ Y: 50
+ Radius: 7
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 140
+ Right Bottom X: 148
+ Right Bottom Y: 42
+Circle: 
+ X: 95
+ Y: 86
+ Radius: 20
+Circle: 
+ X: 59
+ Y: 29
+ Radius: 5
+Triangle 
+ First point X: 39
+ First point Y: 56
+ Second point X: 16
+ Second point Y: 62
+ Third point X: 63
+ Third point Y: 29
+Circle: 
+ X: 72
+ Y: 46
+ Radius: 13
+Rectangle: 
+ Left Top X: 77
+ Left Top Y: 123
+ Right Bottom X: 91
+ Right Bottom Y: 86
+Triangle 
+ First point X: 55
+ First point Y: 72
+ Second point X: 89
+ Second point Y: 25
+ Third point X: 59
+ Third point Y: 79
+Rectangle: 
+ Left Top X: 28
+ Left Top Y: 85
+ Right Bottom X: 107
+ Right Bottom Y: 3
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 152
+ Right Bottom X: 109
+ Right Bottom Y: 62
+Circle: 
+ X: 2
+ Y: 36
+ Radius: 15
+Rectangle: 
+ Left Top X: 5
+ Left Top Y: 102
+ Right Bottom X: 58
+ Right Bottom Y: 57
+Triangle 
+ First point X: 36
+ First point Y: 73
+ Second point X: 7
+ Second point Y: 83
+ Third point X: 47
+ Third point Y: 43
+Rectangle: 
+ Left Top X: 28
+ Left Top Y: 62
+ Right Bottom X: 61
+ Right Bottom Y: 7
+Circle: 
+ X: 17
+ Y: 64
+ Radius: 8
+Triangle 
+ First point X: 25
+ First point Y: 19
+ Second point X: 62
+ Second point Y: 15
+ Third point X: 54
+ Third point Y: 4
+Rectangle: 
+ Left Top X: 3
+ Left Top Y: 20
+ Right Bottom X: 74
+ Right Bottom Y: 14
+Circle: 
+ X: 91
+ Y: 46
+ Radius: 16
+Rectangle: 
+ Left Top X: 9
+ Left Top Y: 103
+ Right Bottom X: 87
+ Right Bottom Y: 47
+Rectangle: 
+ Left Top X: 89
+ Left Top Y: 136
+ Right Bottom X: 143
+ Right Bottom Y: 38
+Triangle 
+ First point X: 95
+ First point Y: 97
+ Second point X: 69
+ Second point Y: 19
+ Third point X: 3
+ Third point Y: 21
+Triangle 
+ First point X: 26
+ First point Y: 97
+ Second point X: 35
+ Second point Y: 91
+ Third point X: 4
+ Third point Y: 28
+Circle: 
+ X: 22
+ Y: 15
+ Radius: 20
+Triangle 
+ First point X: 7
+ First point Y: 55
+ Second point X: 70
+ Second point Y: 53
+ Third point X: 100
+ Third point Y: 23
+Rectangle: 
+ Left Top X: 24
+ Left Top Y: 119
+ Right Bottom X: 121
+ Right Bottom Y: 76
+Triangle 
+ First point X: 59
+ First point Y: 78
+ Second point X: 59
+ Second point Y: 29
+ Third point X: 47
+ Third point Y: 0
+Circle: 
+ X: 32
+ Y: 28
+ Radius: 0
+Rectangle: 
+ Left Top X: 27
+ Left Top Y: 37
+ Right Bottom X: 62
+ Right Bottom Y: 4
+Rectangle: 
+ Left Top X: 39
+ Left Top Y: 163
+ Right Bottom X: 66
+ Right Bottom Y: 97
+Circle: 
+ X: 34
+ Y: 37
+ Radius: 2
+Rectangle: 
+ Left Top X: 19
+ Left Top Y: 102
+ Right Bottom X: 29
+ Right Bottom Y: 40
+Rectangle: 
+ Left Top X: 27
+ Left Top Y: 154
+ Right Bottom X: 111
+ Right Bottom Y: 64
+Circle: 
+ X: 25
+ Y: 76
+ Radius: 10
+Rectangle: 
+ Left Top X: 15
+ Left Top Y: 152
+ Right Bottom X: 76
+ Right Bottom Y: 76
+Triangle 
+ First point X: 42
+ First point Y: 72
+ Second point X: 30
+ Second point Y: 46
+ Third point X: 62
+ Third point Y: 8
+Triangle 
+ First point X: 51
+ First point Y: 62
+ Second point X: 26
+ Second point Y: 90
+ Third point X: 76
+ Third point Y: 47
+Rectangle: 
+ Left Top X: 80
+ Left Top Y: 82
+ Right Bottom X: 101
+ Right Bottom Y: 46
+Circle: 
+ X: 62
+ Y: 92
+ Radius: 4
+Triangle 
+ First point X: 97
+ First point Y: 79
+ Second point X: 27
+ Second point Y: 88
+ Third point X: 36
+ Third point Y: 16
+Rectangle: 
+ Left Top X: 55
+ Left Top Y: 161
+ Right Bottom X: 103
+ Right Bottom Y: 81
+Circle: 
+ X: 8
+ Y: 53
+ Radius: 10
+Circle: 
+ X: 73
+ Y: 17
+ Radius: 3
+Circle: 
+ X: 52
+ Y: 72
+ Radius: 5
+Circle: 
+ X: 98
+ Y: 5
+ Radius: 8
+Triangle 
+ First point X: 25
+ First point Y: 58
+ Second point X: 41
+ Second point Y: 15
+ Third point X: 55
+ Third point Y: 8
+Triangle 
+ First point X: 32
+ First point Y: 25
+ Second point X: 75
+ Second point Y: 96
+ Third point X: 82
+ Third point Y: 22
+Triangle 
+ First point X: 92
+ First point Y: 95
+ Second point X: 66
+ Second point Y: 81
+ Third point X: 43
+ Third point Y: 8
+Rectangle: 
+ Left Top X: 95
+ Left Top Y: 126
+ Right Bottom X: 104
+ Right Bottom Y: 79
+Circle: 
+ X: 57
+ Y: 61
+ Radius: 13
+Rectangle: 
+ Left Top X: 24
+ Left Top Y: 150
+ Right Bottom X: 100
+ Right Bottom Y: 71
+Circle: 
+ X: 65
+ Y: 94
+ Radius: 20
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: 29
+ Right Bottom X: 47
+ Right Bottom Y: 29
+Triangle 
+ First point X: 27
+ First point Y: 83
+ Second point X: 61
+ Second point Y: 37
+ Third point X: 8
+ Third point Y: 37
+Triangle 
+ First point X: 16
+ First point Y: 43
+ Second point X: 30
+ Second point Y: 38
+ Third point X: 77
+ Third point Y: 72
+Circle: 
+ X: 6
+ Y: 67
+ Radius: 6
+Triangle 
+ First point X: 3
+ First point Y: 71
+ Second point X: 25
+ Second point Y: 9
+ Third point X: 64
+ Third point Y: 25
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 124
+ Right Bottom X: 97
+ Right Bottom Y: 98
+Circle: 
+ X: 74
+ Y: 39
+ Radius: 5
+Rectangle: 
+ Left Top X: 58
+ Left Top Y: 87
+ Right Bottom X: 133
+ Right Bottom Y: 58
+Circle: 
+ X: 4
+ Y: 84
+ Radius: 16
+Rectangle: 
+ Left Top X: 84
+ Left Top Y: 142
+ Right Bottom X: 103
+ Right Bottom Y: 58
+Rectangle: 
+ Left Top X: 24
+ Left Top Y: 161
+ Right Bottom X: 86
+ Right Bottom Y: 83
+Circle: 
+ X: 74
+ Y: 7
+ Radius: 11
+Rectangle: 
+ Left Top X: 78
+ Left Top Y: 79
+ Right Bottom X: 170
+ Right Bottom Y: 48
+Triangle 
+ First point X: 46
+ First point Y: 88
+ Second point X: 84
+ Second point Y: 49
+ Third point X: 32
+ Third point Y: 40
+Triangle 
+ First point X: 11
+ First point Y: 41
+ Second point X: 40
+ Second point Y: 94
+ Third point X: 6
+ Third point Y: 58
+Rectangle: 
+ Left Top X: 42
+ Left Top Y: 55
+ Right Bottom X: 78
+ Right Bottom Y: 48
+Rectangle: 
+ Left Top X: 59
+ Left Top Y: 151
+ Right Bottom X: 130
+ Right Bottom Y: 74
+Triangle 
+ First point X: 47
+ First point Y: 1
+ Second point X: 18
+ Second point Y: 92
+ Third point X: 36
+ Third point Y: 53
+Circle: 
+ X: 16
+ Y: 78
+ Radius: 10
+Triangle 
+ First point X: 86
+ First point Y: 14
+ Second point X: 93
+ Second point Y: 79
+ Third point X: 15
+ Third point Y: 1
+Circle: 
+ X: 88
+ Y: 48
+ Radius: 2
+Circle: 
+ X: 14
+ Y: 95
+ Radius: 18
+Circle: 
+ X: 38
+ Y: 41
+ Radius: 0
+Circle: 
+ X: 14
+ Y: 58
+ Radius: 12
+Circle: 
+ X: 87
+ Y: 85
+ Radius: 9
+Circle: 
+ X: 39
+ Y: 70
+ Radius: 2
+Circle: 
+ X: 2
+ Y: 37
+ Radius: 10
+Rectangle: 
+ Left Top X: 21
+ Left Top Y: 95
+ Right Bottom X: 58
+ Right Bottom Y: 45
+Circle: 
+ X: 76
+ Y: 45
+ Radius: 8
+Rectangle: 
+ Left Top X: 48
+ Left Top Y: 68
+ Right Bottom X: 65
+ Right Bottom Y: 54
+Circle: 
+ X: 25
+ Y: 41
+ Radius: 3
+Triangle 
+ First point X: 74
+ First point Y: 16
+ Second point X: 65
+ Second point Y: 91
+ Third point X: 87
+ Third point Y: 56
+Triangle 
+ First point X: 26
+ First point Y: 37
+ Second point X: 42
+ Second point Y: 75
+ Third point X: 2
+ Third point Y: 10
+Rectangle: 
+ Left Top X: 36
+ Left Top Y: 110
+ Right Bottom X: 98
+ Right Bottom Y: 53
+Rectangle: 
+ Left Top X: 98
+ Left Top Y: 134
+ Right Bottom X: 180
+ Right Bottom Y: 65
+Rectangle: 
+ Left Top X: 50
+ Left Top Y: 119
+ Right Bottom X: 148
+ Right Bottom Y: 72
+Rectangle: 
+ Left Top X: 61
+ Left Top Y: 83
+ Right Bottom X: 161
+ Right Bottom Y: 51
+Triangle 
+ First point X: 74
+ First point Y: 15
+ Second point X: 35
+ Second point Y: 47
+ Third point X: 63
+ Third point Y: 88
+Triangle 
+ First point X: 6
+ First point Y: 100
+ Second point X: 84
+ Second point Y: 54
+ Third point X: 32
+ Third point Y: 32
+Triangle 
+ First point X: 40
+ First point Y: 46
+ Second point X: 32
+ Second point Y: 3
+ Third point X: 63
+ Third point Y: 74
+Triangle 
+ First point X: 38
+ First point Y: 23
+ Second point X: 3
+ Second point Y: 86
+ Third point X: 75
+ Third point Y: 25
+Circle: 
+ X: 61
+ Y: 86
+ Radius: 15
+Circle: 
+ X: 38
+ Y: 7
+ Radius: 17
+Rectangle: 
+ Left Top X: 11
+ Left Top Y: 67
+ Right Bottom X: 93
+ Right Bottom Y: 34
+Circle: 
+ X: 8
+ Y: 1
+ Radius: 20
+Rectangle: 
+ Left Top X: 61
+ Left Top Y: 103
+ Right Bottom X: 62
+ Right Bottom Y: 30
+Triangle 
+ First point X: 7
+ First point Y: 25
+ Second point X: 85
+ Second point Y: 92
+ Third point X: 42
+ Third point Y: 100
+Circle: 
+ X: 88
+ Y: 11
+ Radius: 1
+Circle: 
+ X: 83
+ Y: 38
+ Radius: 0
+Rectangle: 
+ Left Top X: 44
+ Left Top Y: 150
+ Right Bottom X: 67
+ Right Bottom Y: 63
+Triangle 
+ First point X: 71
+ First point Y: 99
+ Second point X: 26
+ Second point Y: 48
+ Third point X: 21
+ Third point Y: 50
+Rectangle: 
+ Left Top X: 98
+ Left Top Y: 147
+ Right Bottom X: 119
+ Right Bottom Y: 61
+Rectangle: 
+ Left Top X: 51
+ Left Top Y: 158
+ Right Bottom X: 81
+ Right Bottom Y: 70
+Triangle 
+ First point X: 27
+ First point Y: 49
+ Second point X: 29
+ Second point Y: 33
+ Third point X: 97
+ Third point Y: 13
+Rectangle: 
+ Left Top X: 97
+ Left Top Y: 6
+ Right Bottom X: 169
+ Right Bottom Y: 2
+Triangle 
+ First point X: 62
+ First point Y: 70
+ Second point X: 5
+ Second point Y: 98
+ Third point X: 31
+ Third point Y: 64
+Triangle 
+ First point X: 69
+ First point Y: 84
+ Second point X: 51
+ Second point Y: 31
+ Third point X: 25
+ Third point Y: 85
+Triangle 
+ First point X: 20
+ First point Y: 36
+ Second point X: 56
+ Second point Y: 96
+ Third point X: 0
+ Third point Y: 15
+Circle: 
+ X: 44
+ Y: 5
+ Radius: 12
+Rectangle: 
+ Left Top X: 89
+ Left Top Y: 108
+ Right Bottom X: 189
+ Right Bottom Y: 15
+Triangle 
+ First point X: 37
+ First point Y: 94
+ Second point X: 16
+ Second point Y: 13
+ Third point X: 38
+ Third point Y: 22
+Triangle 
+ First point X: 56
+ First point Y: 8
+ Second point X: 31
+ Second point Y: 4
+ Third point X: 18
+ Third point Y: 4
+Rectangle: 
+ Left Top X: 63
+ Left Top Y: 92
+ Right Bottom X: 138
+ Right Bottom Y: 38
+Circle: 
+ X: 38
+ Y: 55
+ Radius: 14
+Circle: 
+ X: 1
+ Y: 79
+ Radius: 5
+Triangle 
+ First point X: 49
+ First point Y: 22
+ Second point X: 70
+ Second point Y: 100
+ Third point X: 66
+ Third point Y: 2
+Triangle 
+ First point X: 30
+ First point Y: 76
+ Second point X: 85
+ Second point Y: 95
+ Third point X: 33
+ Third point Y: 39
+Triangle 
+ First point X: 82
+ First point Y: 43
+ Second point X: 72
+ Second point Y: 95
+ Third point X: 25
+ Third point Y: 60
+Triangle 
+ First point X: 21
+ First point Y: 25
+ Second point X: 85
+ Second point Y: 84
+ Third point X: 83
+ Third point Y: 28
+Triangle 
+ First point X: 90
+ First point Y: 96
+ Second point X: 76
+ Second point Y: 2
+ Third point X: 6
+ Third point Y: 100
+Triangle 
+ First point X: 27
+ First point Y: 21
+ Second point X: 11
+ Second point Y: 93
+ Third point X: 56
+ Third point Y: 2
+Rectangle: 
+ Left Top X: 85
+ Left Top Y: 154
+ Right Bottom X: 168
+ Right Bottom Y: 69
+Circle: 
+ X: 76
+ Y: 35
+ Radius: 7
+Circle: 
+ X: 85
+ Y: 29
+ Radius: 8
+Circle: 
+ X: 26
+ Y: 13
+ Radius: 9
+Circle: 
+ X: 98
+ Y: 26
+ Radius: 20
+Triangle 
+ First point X: 82
+ First point Y: 10
+ Second point X: 80
+ Second point Y: 28
+ Third point X: 98
+ Third point Y: 33
+Triangle 
+ First point X: 66
+ First point Y: 80
+ Second point X: 55
+ Second point Y: 96
+ Third point X: 14
+ Third point Y: 82
+Triangle 
+ First point X: 100
+ First point Y: 20
+ Second point X: 39
+ Second point Y: 14
+ Third point X: 0
+ Third point Y: 35
+Rectangle: 
+ Left Top X: 86
+ Left Top Y: 100
+ Right Bottom X: 181
+ Right Bottom Y: 15
+Circle: 
+ X: 5
+ Y: 32
+ Radius: 7
+Circle: 
+ X: 85
+ Y: 73
+ Radius: 12
+Triangle 
+ First point X: 43
+ First point Y: 39
+ Second point X: 41
+ Second point Y: 31
+ Third point X: 89
+ Third point Y: 32
+Triangle 
+ First point X: 16
+ First point Y: 34
+ Second point X: 14
+ Second point Y: 5
+ Third point X: 28
+ Third point Y: 92
+Circle: 
+ X: 70
+ Y: 27
+ Radius: 6
+Circle: 
+ X: 59
+ Y: 64
+ Radius: 20
+Triangle 
+ First point X: 86
+ First point Y: 82
+ Second point X: 68
+ Second point Y: 2
+ Third point X: 12
+ Third point Y: 32
+Circle: 
+ X: 92
+ Y: 59
+ Radius: 3
+Rectangle: 
+ Left Top X: 21
+ Left Top Y: 145
+ Right Bottom X: 54
+ Right Bottom Y: 92
+Circle: 
+ X: 90
+ Y: 99
+ Radius: 7
+Triangle 
+ First point X: 77
+ First point Y: 6
+ Second point X: 96
+ Second point Y: 40
+ Third point X: 99
+ Third point Y: 19
+Rectangle: 
+ Left Top X: 39
+ Left Top Y: 117
+ Right Bottom X: 115
+ Right Bottom Y: 63
+Triangle 
+ First point X: 20
+ First point Y: 30
+ Second point X: 25
+ Second point Y: 97
+ Third point X: 17
+ Third point Y: 15
+Circle: 
+ X: 81
+ Y: 62
+ Radius: 10
+Circle: 
+ X: 74
+ Y: 73
+ Radius: 20
+Rectangle: 
+ Left Top X: 33
+ Left Top Y: 100
+ Right Bottom X: 95
+ Right Bottom Y: 18
+Rectangle: 
+ Left Top X: 80
+ Left Top Y: 45
+ Right Bottom X: 118
+ Right Bottom Y: 38
+Triangle 
+ First point X: 5
+ First point Y: 18
+ Second point X: 19
+ Second point Y: 3
+ Third point X: 18
+ Third point Y: 37
+Triangle 
+ First point X: 47
+ First point Y: 37
+ Second point X: 100
+ Second point Y: 32
+ Third point X: 57
+ Third point Y: 91
+Circle: 
+ X: 30
+ Y: 11
+ Radius: 1
+Triangle 
+ First point X: 21
+ First point Y: 68
+ Second point X: 92
+ Second point Y: 95
+ Third point X: 69
+ Third point Y: 90
+Circle: 
+ X: 8
+ Y: 6
+ Radius: 16
+Circle: 
+ X: 39
+ Y: 79
+ Radius: 3
+Circle: 
+ X: 40
+ Y: 27
+ Radius: 19
+Rectangle: 
+ Left Top X: 14
+ Left Top Y: 65
+ Right Bottom X: 88
+ Right Bottom Y: 60
+Rectangle: 
+ Left Top X: 75
+ Left Top Y: 65
+ Right Bottom X: 122
+ Right Bottom Y: 11
+Circle: 
+ X: 92
+ Y: 82
+ Radius: 14
+Triangle 
+ First point X: 7
+ First point Y: 48
+ Second point X: 72
+ Second point Y: 12
+ Third point X: 72
+ Third point Y: 80
+Triangle 
+ First point X: 2
+ First point Y: 23
+ Second point X: 44
+ Second point Y: 11
+ Third point X: 2
+ Third point Y: 31
+Triangle 
+ First point X: 84
+ First point Y: 58
+ Second point X: 59
+ Second point Y: 5
+ Third point X: 67
+ Third point Y: 50
+Triangle 
+ First point X: 49
+ First point Y: 77
+ Second point X: 14
+ Second point Y: 78
+ Third point X: 52
+ Third point Y: 99
+Triangle 
+ First point X: 84
+ First point Y: 42
+ Second point X: 25
+ Second point Y: 76
+ Third point X: 22
+ Third point Y: 51
+Circle: 
+ X: 88
+ Y: 1
+ Radius: 4
+Triangle 
+ First point X: 33
+ First point Y: 46
+ Second point X: 41
+ Second point Y: 20
+ Third point X: 5
+ Third point Y: 2
+Triangle 
+ First point X: 96
+ First point Y: 99
+ Second point X: 95
+ Second point Y: 8
+ Third point X: 50
+ Third point Y: 61
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 108
+ Right Bottom X: 74
+ Right Bottom Y: 87
+Rectangle: 
+ Left Top X: 62
+ Left Top Y: 80
+ Right Bottom X: 161
+ Right Bottom Y: 57
+Circle: 
+ X: 2
+ Y: 49
+ Radius: 9
+Triangle 
+ First point X: 35
+ First point Y: 53
+ Second point X: 80
+ Second point Y: 44
+ Third point X: 95
+ Third point Y: 63
+Rectangle: 
+ Left Top X: 61
+ Left Top Y: 105
+ Right Bottom X: 113
+ Right Bottom Y: 78
+Rectangle: 
+ Left Top X: 14
+ Left Top Y: 169
+ Right Bottom X: 106
+ Right Bottom Y: 99
+Triangle 
+ First point X: 68
+ First point Y: 67
+ Second point X: 69
+ Second point Y: 3
+ Third point X: 54
+ Third point Y: 1
+Rectangle: 
+ Left Top X: 77
+ Left Top Y: 94
+ Right Bottom X: 154
+ Right Bottom Y: 28
+Rectangle: 
+ Left Top X: 84
+ Left Top Y: 171
+ Right Bottom X: 166
+ Right Bottom Y: 86
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 107
+ Right Bottom X: 88
+ Right Bottom Y: 59
+Triangle 
+ First point X: 55
+ First point Y: 44
+ Second point X: 55
+ Second point Y: 36
+ Third point X: 39
+ Third point Y: 99
+Circle: 
+ X: 64
+ Y: 34
+ Radius: 5
+Triangle 
+ First point X: 62
+ First point Y: 51
+ Second point X: 3
+ Second point Y: 47
+ Third point X: 70
+ Third point Y: 29
+Circle: 
+ X: 95
+ Y: 62
+ Radius: 16
+Rectangle: 
+ Left Top X: 53
+ Left Top Y: 56
+ Right Bottom X: 82
+ Right Bottom Y: 25
+Rectangle: 
+ Left Top X: 64
+ Left Top Y: 94
+ Right Bottom X: 152
+ Right Bottom Y: 89
+Triangle 
+ First point X: 37
+ First point Y: 10
+ Second point X: 31
+ Second point Y: 7
+ Third point X: 97
+ Third point Y: 47
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 161
+ Right Bottom X: 81
+ Right Bottom Y: 77
+Triangle 
+ First point X: 51
+ First point Y: 90
+ Second point X: 31
+ Second point Y: 91
+ Third point X: 5
+ Third point Y: 67
+Rectangle: 
+ Left Top X: 73
+ Left Top Y: 135
+ Right Bottom X: 76
+ Right Bottom Y: 61
+Rectangle: 
+ Left Top X: 87
+ Left Top Y: 37
+ Right Bottom X: 130
+ Right Bottom Y: 36
+Rectangle: 
+ Left Top X: 60
+ Left Top Y: 118
+ Right Bottom X: 60
+ Right Bottom Y: 89
+Rectangle: 
+ Left Top X: 100
+ Left Top Y: 108
+ Right Bottom X: 112
+ Right Bottom Y: 78
+Rectangle: 
+ Left Top X: 87
+ Left Top Y: 180
+ Right Bottom X: 142
+ Right Bottom Y: 88
+Triangle 
+ First point X: 68
+ First point Y: 21
+ Second point X: 36
+ Second point Y: 48
+ Third point X: 67
+ Third point Y: 32
+Triangle 
+ First point X: 23
+ First point Y: 35
+ Second point X: 61
+ Second point Y: 69
+ Third point X: 55
+ Third point Y: 47
+Triangle 
+ First point X: 96
+ First point Y: 2
+ Second point X: 20
+ Second point Y: 26
+ Third point X: 66
+ Third point Y: 18
+Triangle 
+ First point X: 69
+ First point Y: 68
+ Second point X: 17
+ Second point Y: 33
+ Third point X: 6
+ Third point Y: 93
+Triangle 
+ First point X: 51
+ First point Y: 69
+ Second point X: 56
+ Second point Y: 63
+ Third point X: 48
+ Third point Y: 83
+Circle: 
+ X: 47
+ Y: 85
+ Radius: 2
+Triangle 
+ First point X: 51
+ First point Y: 32
+ Second point X: 49
+ Second point Y: 55
+ Third point X: 68
+ Third point Y: 81
+Circle: 
+ X: 41
+ Y: 60
+ Radius: 14
+Triangle 
+ First point X: 18
+ First point Y: 54
+ Second point X: 72
+ Second point Y: 87
+ Third point X: 73
+ Third point Y: 75
+Triangle 
+ First point X: 43
+ First point Y: 19
+ Second point X: 80
+ Second point Y: 6
+ Third point X: 93
+ Third point Y: 52
+Circle: 
+ X: 16
+ Y: 95
+ Radius: 18
+Rectangle: 
+ Left Top X: 43
+ Left Top Y: 87
+ Right Bottom X: 92
+ Right Bottom Y: 79
+Circle: 
+ X: 97
+ Y: 48
+ Radius: 19
+Rectangle: 
+ Left Top X: 3
+ Left Top Y: 120
+ Right Bottom X: 76
+ Right Bottom Y: 31
+Rectangle: 
+ Left Top X: 45
+ Left Top Y: 138
+ Right Bottom X: 101
+ Right Bottom Y: 47
+Triangle 
+ First point X: 59
+ First point Y: 83
+ Second point X: 53
+ Second point Y: 62
+ Third point X: 50
+ Third point Y: 79
+Triangle 
+ First point X: 52
+ First point Y: 17
+ Second point X: 91
+ Second point Y: 59
+ Third point X: 50
+ Third point Y: 21
+Circle: 
+ X: 49
+ Y: 63
+ Radius: 20
+Rectangle: 
+ Left Top X: 22
+ Left Top Y: 120
+ Right Bottom X: 66
+ Right Bottom Y: 47
+Triangle 
+ First point X: 11
+ First point Y: 88
+ Second point X: 33
+ Second point Y: 6
+ Third point X: 49
+ Third point Y: 43
+Triangle 
+ First point X: 86
+ First point Y: 3
+ Second point X: 13
+ Second point Y: 50
+ Third point X: 76
+ Third point Y: 48
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 28
+ Right Bottom X: 177
+ Right Bottom Y: 17
+Circle: 
+ X: 69
+ Y: 44
+ Radius: 11
+Triangle 
+ First point X: 47
+ First point Y: 69
+ Second point X: 2
+ Second point Y: 37
+ Third point X: 3
+ Third point Y: 99
+Triangle 
+ First point X: 22
+ First point Y: 20
+ Second point X: 12
+ Second point Y: 25
+ Third point X: 1
+ Third point Y: 100
+Circle: 
+ X: 92
+ Y: 7
+ Radius: 2
+Triangle 
+ First point X: 85
+ First point Y: 28
+ Second point X: 35
+ Second point Y: 99
+ Third point X: 35
+ Third point Y: 46
+Triangle 
+ First point X: 45
+ First point Y: 2
+ Second point X: 4
+ Second point Y: 86
+ Third point X: 73
+ Third point Y: 100
+Circle: 
+ X: 22
+ Y: 56
+ Radius: 12
+Triangle 
+ First point X: 20
+ First point Y: 8
+ Second point X: 34
+ Second point Y: 74
+ Third point X: 48
+ Third point Y: 100
+Triangle 
+ First point X: 7
+ First point Y: 51
+ Second point X: 59
+ Second point Y: 46
+ Third point X: 57
+ Third point Y: 94
+Rectangle: 
+ Left Top X: 12
+ Left Top Y: 59
+ Right Bottom X: 106
+ Right Bottom Y: 0
+Circle: 
+ X: 46
+ Y: 63
+ Radius: 20
+Rectangle: 
+ Left Top X: 70
+ Left Top Y: 119
+ Right Bottom X: 116
+ Right Bottom Y: 65
+Circle: 
+ X: 20
+ Y: 32
+ Radius: 7
+Triangle 
+ First point X: 79
+ First point Y: 16
+ Second point X: 66
+ Second point Y: 22
+ Third point X: 84
+ Third point Y: 94
+Triangle 
+ First point X: 85
+ First point Y: 41
+ Second point X: 29
+ Second point Y: 37
+ Third point X: 97
+ Third point Y: 26
+Circle: 
+ X: 83
+ Y: 31
+ Radius: 4
+Circle: 
+ X: 1
+ Y: 75
+ Radius: 14
+Triangle 
+ First point X: 100
+ First point Y: 65
+ Second point X: 40
+ Second point Y: 93
+ Third point X: 74
+ Third point Y: 21
+Circle: 
+ X: 31
+ Y: 61
+ Radius: 0
+Circle: 
+ X: 78
+ Y: 100
+ Radius: 8
+Rectangle: 
+ Left Top X: 12
+ Left Top Y: 157
+ Right Bottom X: 71
+ Right Bottom Y: 99
+Rectangle: 
+ Left Top X: 1
+ Left Top Y: 158
+ Right Bottom X: 60
+ Right Bottom Y: 88
+Rectangle: 
+ Left Top X: 89
+ Left Top Y: 137
+ Right Bottom X: 144
+ Right Bottom Y: 74
+Circle: 
+ X: 2
+ Y: 18
+ Radius: 16
+Triangle 
+ First point X: 83
+ First point Y: 44
+ Second point X: 79
+ Second point Y: 43
+ Third point X: 32
+ Third point Y: 68
+Circle: 
+ X: 46
+ Y: 69
+ Radius: 11
+Circle: 
+ X: 1
+ Y: 61
+ Radius: 7
+Circle: 
+ X: 89
+ Y: 89
+ Radius: 20
+Circle: 
+ X: 4
+ Y: 80
+ Radius: 19
+Rectangle: 
+ Left Top X: 76
+ Left Top Y: 52
+ Right Bottom X: 172
+ Right Bottom Y: 10
+Triangle 
+ First point X: 42
+ First point Y: 15
+ Second point X: 90
+ Second point Y: 40
+ Third point X: 32
+ Third point Y: 77
+Circle: 
+ X: 12
+ Y: 92
+ Radius: 18
+Triangle 
+ First point X: 44
+ First point Y: 37
+ Second point X: 98
+ Second point Y: 91
+ Third point X: 7
+ Third point Y: 58
+Triangle 
+ First point X: 54
+ First point Y: 19
+ Second point X: 4
+ Second point Y: 24
+ Third point X: 74
+ Third point Y: 34
+Triangle 
+ First point X: 4
+ First point Y: 89
+ Second point X: 32
+ Second point Y: 27
+ Third point X: 29
+ Third point Y: 54
+Rectangle: 
+ Left Top X: 45
+ Left Top Y: 68
+ Right Bottom X: 115
+ Right Bottom Y: 29
+Triangle 
+ First point X: 6
+ First point Y: 9
+ Second point X: 25
+ Second point Y: 52
+ Third point X: 25
+ Third point Y: 59
+Triangle 
+ First point X: 25
+ First point Y: 13
+ Second point X: 77
+ Second point Y: 0
+ Third point X: 79
+ Third point Y: 28
+Triangle 
+ First point X: 94
+ First point Y: 8
+ Second point X: 42
+ Second point Y: 77
+ Third point X: 23
+ Third point Y: 49
+Triangle 
+ First point X: 19
+ First point Y: 79
+ Second point X: 11
+ Second point Y: 61
+ Third point X: 29
+ Third point Y: 67
+Circle: 
+ X: 91
+ Y: 55
+ Radius: 7
+Triangle 
+ First point X: 38
+ First point Y: 22
+ Second point X: 34
+ Second point Y: 12
+ Third point X: 55
+ Third point Y: 43
+Rectangle: 
+ Left Top X: 64
+ Left Top Y: 107
+ Right Bottom X: 94
+ Right Bottom Y: 64
+Triangle 
+ First point X: 83
+ First point Y: 36
+ Second point X: 80
+ Second point Y: 68
+ Third point X: 61
+ Third point Y: 90
+Rectangle: 
+ Left Top X: 89
+ Left Top Y: 108
+ Right Bottom X: 125
+ Right Bottom Y: 79
+Triangle 
+ First point X: 10
+ First point Y: 36
+ Second point X: 29
+ Second point Y: 8
+ Third point X: 99
+ Third point Y: 53
+Rectangle: 
+ Left Top X: 24
+ Left Top Y: 80
+ Right Bottom X: 85
+ Right Bottom Y: 39
+Rectangle: 
+ Left Top X: 86
+ Left Top Y: 116
+ Right Bottom X: 138
+ Right Bottom Y: 17
+Circle: 
+ X: 71
+ Y: 18
+ Radius: 5
+Triangle 
+ First point X: 51
+ First point Y: 52
+ Second point X: 11
+ Second point Y: 65
+ Third point X: 84
+ Third point Y: 11
+Circle: 
+ X: 62
+ Y: 43
+ Radius: 0
+Circle: 
+ X: 77
+ Y: 36
+ Radius: 18
+Triangle 
+ First point X: 46
+ First point Y: 89
+ Second point X: 79
+ Second point Y: 95
+ Third point X: 33
+ Third point Y: 74
+Triangle 
+ First point X: 73
+ First point Y: 57
+ Second point X: 21
+ Second point Y: 70
+ Third point X: 26
+ Third point Y: 49
+Circle: 
+ X: 42
+ Y: 62
+ Radius: 3
+Rectangle: 
+ Left Top X: 62
+ Left Top Y: 42
+ Right Bottom X: 130
+ Right Bottom Y: 36
+Circle: 
+ X: 81
+ Y: 76
+ Radius: 7
+Triangle 
+ First point X: 59
+ First point Y: 94
+ Second point X: 15
+ Second point Y: 26
+ Third point X: 90
+ Third point Y: 25
+Rectangle: 
+ Left Top X: 41
+ Left Top Y: 118
+ Right Bottom X: 113
+ Right Bottom Y: 26
+Rectangle: 
+ Left Top X: 46
+ Left Top Y: 50
+ Right Bottom X: 109
+ Right Bottom Y: 43
+Circle: 
+ X: 63
+ Y: 54
+ Radius: 20
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 161
+ Right Bottom X: 88
+ Right Bottom Y: 62
+Circle: 
+ X: 28
+ Y: 49
+ Radius: 2
+Triangle 
+ First point X: 53
+ First point Y: 58
+ Second point X: 44
+ Second point Y: 98
+ Third point X: 29
+ Third point Y: 44
+Circle: 
+ X: 36
+ Y: 59
+ Radius: 4
+Circle: 
+ X: 76
+ Y: 38
+ Radius: 10
+Rectangle: 
+ Left Top X: 91
+ Left Top Y: 121
+ Right Bottom X: 95
+ Right Bottom Y: 81
+Circle: 
+ X: 98
+ Y: 6
+ Radius: 5
+Triangle 
+ First point X: 65
+ First point Y: 55
+ Second point X: 19
+ Second point Y: 5
+ Third point X: 81
+ Third point Y: 48
+Triangle 
+ First point X: 9
+ First point Y: 91
+ Second point X: 73
+ Second point Y: 68
+ Third point X: 28
+ Third point Y: 58
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 170
+ Right Bottom X: 93
+ Right Bottom Y: 88
+Circle: 
+ X: 20
+ Y: 63
+ Radius: 12
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: 62
+ Right Bottom X: 74
+ Right Bottom Y: 34
+Rectangle: 
+ Left Top X: 83
+ Left Top Y: 115
+ Right Bottom X: 91
+ Right Bottom Y: 29
+Rectangle: 
+ Left Top X: 46
+ Left Top Y: 103
+ Right Bottom X: 51
+ Right Bottom Y: 41
+Rectangle: 
+ Left Top X: 15
+ Left Top Y: 84
+ Right Bottom X: 95
+ Right Bottom Y: 81
+Rectangle: 
+ Left Top X: 29
+ Left Top Y: 95
+ Right Bottom X: 55
+ Right Bottom Y: 41
+Circle: 
+ X: 16
+ Y: 22
+ Radius: 7
+Triangle 
+ First point X: 43
+ First point Y: 81
+ Second point X: 9
+ Second point Y: 50
+ Third point X: 39
+ Third point Y: 74
+Rectangle: 
+ Left Top X: 73
+ Left Top Y: 80
+ Right Bottom X: 97
+ Right Bottom Y: 14
+Triangle 
+ First point X: 98
+ First point Y: 37
+ Second point X: 62
+ Second point Y: 50
+ Third point X: 45
+ Third point Y: 60
+Rectangle: 
+ Left Top X: 87
+ Left Top Y: 47
+ Right Bottom X: 179
+ Right Bottom Y: 19
+Circle: 
+ X: 66
+ Y: 15
+ Radius: 0
+Rectangle: 
+ Left Top X: 81
+ Left Top Y: 81
+ Right Bottom X: 139
+ Right Bottom Y: 27
+Triangle 
+ First point X: 16
+ First point Y: 89
+ Second point X: 32
+ Second point Y: 10
+ Third point X: 88
+ Third point Y: 65
+Rectangle: 
+ Left Top X: 93
+ Left Top Y: 157
+ Right Bottom X: 133
+ Right Bottom Y: 63
+Triangle 
+ First point X: 71
+ First point Y: 90
+ Second point X: 94
+ Second point Y: 33
+ Third point X: 100
+ Third point Y: 80
+Triangle 
+ First point X: 24
+ First point Y: 48
+ Second point X: 34
+ Second point Y: 79
+ Third point X: 98
+ Third point Y: 64
+Rectangle: 
+ Left Top X: 16
+ Left Top Y: 90
+ Right Bottom X: 106
+ Right Bottom Y: 74
+Triangle 
+ First point X: 52
+ First point Y: 17
+ Second point X: 68
+ Second point Y: 38
+ Third point X: 60
+ Third point Y: 88
+Circle: 
+ X: 94
+ Y: 16
+ Radius: 18
+Triangle 
+ First point X: 4
+ First point Y: 2
+ Second point X: 97
+ Second point Y: 74
+ Third point X: 29
+ Third point Y: 47
+Rectangle: 
+ Left Top X: 71
+ Left Top Y: 94
+ Right Bottom X: 160
+ Right Bottom Y: 7
+Rectangle: 
+ Left Top X: 16
+ Left Top Y: 154
+ Right Bottom X: 48
+ Right Bottom Y: 61
+Circle: 
+ X: 95
+ Y: 22
+ Radius: 18
+Triangle 
+ First point X: 28
+ First point Y: 61
+ Second point X: 15
+ Second point Y: 95
+ Third point X: 55
+ Third point Y: 26
+Rectangle: 
+ Left Top X: 86
+ Left Top Y: 119
+ Right Bottom X: 113
+ Right Bottom Y: 38
+Rectangle: 
+ Left Top X: 11
+ Left Top Y: 127
+ Right Bottom X: 96
+ Right Bottom Y: 86
+Triangle 
+ First point X: 50
+ First point Y: 25
+ Second point X: 99
+ Second point Y: 27
+ Third point X: 4
+ Third point Y: 2
+Rectangle: 
+ Left Top X: 30
+ Left Top Y: 151
+ Right Bottom X: 123
+ Right Bottom Y: 60
+Circle: 
+ X: 82
+ Y: 42
+ Radius: 13
+Circle: 
+ X: 52
+ Y: 86
+ Radius: 4
+Triangle 
+ First point X: 34
+ First point Y: 17
+ Second point X: 39
+ Second point Y: 85
+ Third point X: 80
+ Third point Y: 94
+Circle: 
+ X: 5
+ Y: 57
+ Radius: 9
+Rectangle: 
+ Left Top X: 93
+ Left Top Y: 61
+ Right Bottom X: 129
+ Right Bottom Y: 57
+Rectangle: 
+ Left Top X: 61
+ Left Top Y: 128
+ Right Bottom X: 61
+ Right Bottom Y: 67
+Triangle 
+ First point X: 18
+ First point Y: 43
+ Second point X: 25
+ Second point Y: 40
+ Third point X: 45
+ Third point Y: 95
+Rectangle: 
+ Left Top X: 52
+ Left Top Y: 67
+ Right Bottom X: 119
+ Right Bottom Y: 63
+Circle: 
+ X: 94
+ Y: 28
+ Radius: 1
+Triangle 
+ First point X: 27
+ First point Y: 77
+ Second point X: 68
+ Second point Y: 66
+ Third point X: 96
+ Third point Y: 24
+Rectangle: 
+ Left Top X: 84
+ Left Top Y: 83
+ Right Bottom X: 115
+ Right Bottom Y: 57
+Circle: 
+ X: 64
+ Y: 73
+ Radius: 20
+Circle: 
+ X: 65
+ Y: 100
+ Radius: 15
+Rectangle: 
+ Left Top X: 53
+ Left Top Y: 107
+ Right Bottom X: 88
+ Right Bottom Y: 26
+Triangle 
+ First point X: 57
+ First point Y: 33
+ Second point X: 73
+ Second point Y: 95
+ Third point X: 74
+ Third point Y: 50
+Triangle 
+ First point X: 77
+ First point Y: 57
+ Second point X: 10
+ Second point Y: 61
+ Third point X: 7
+ Third point Y: 22
+Rectangle: 
+ Left Top X: 57
+ Left Top Y: 122
+ Right Bottom X: 113
+ Right Bottom Y: 92
+Triangle 
+ First point X: 5
+ First point Y: 98
+ Second point X: 8
+ Second point Y: 42
+ Third point X: 19
+ Third point Y: 97
+Rectangle: 
+ Left Top X: 24
+ Left Top Y: 112
+ Right Bottom X: 36
+ Right Bottom Y: 72
+Triangle 
+ First point X: 91
+ First point Y: 44
+ Second point X: 20
+ Second point Y: 71
+ Third point X: 7
+ Third point Y: 56
+Circle: 
+ X: 19
+ Y: 92
+ Radius: 10
+Rectangle: 
+ Left Top X: 25
+ Left Top Y: 109
+ Right Bottom X: 48
+ Right Bottom Y: 85
+Rectangle: 
+ Left Top X: 87
+ Left Top Y: 104
+ Right Bottom X: 108
+ Right Bottom Y: 60
+Circle: 
+ X: 87
+ Y: 86
+ Radius: 6
+Rectangle: 
+ Left Top X: 24
+ Left Top Y: 114
+ Right Bottom X: 43
+ Right Bottom Y: 99
+Rectangle: 
+ Left Top X: 93
+ Left Top Y: 97
+ Right Bottom X: 177
+ Right Bottom Y: 23
+Triangle 
+ First point X: 42
+ First point Y: 12
+ Second point X: 14
+ Second point Y: 95
+ Third point X: 75
+ Third point Y: 78
+Rectangle: 
+ Left Top X: 88
+ Left Top Y: 103
+ Right Bottom X: 104
+ Right Bottom Y: 77
+Triangle 
+ First point X: 40
+ First point Y: 10
+ Second point X: 39
+ Second point Y: 22
+ Third point X: 97
+ Third point Y: 79
+Circle: 
+ X: 27
+ Y: 43
+ Radius: 20
+Triangle 
+ First point X: 98
+ First point Y: 51
+ Second point X: 4
+ Second point Y: 47
+ Third point X: 33
+ Third point Y: 4
+Circle: 
+ X: 63
+ Y: 15
+ Radius: 1
+Circle: 
+ X: 23
+ Y: 15
+ Radius: 17
+Triangle 
+ First point X: 0
+ First point Y: 91
+ Second point X: 40
+ Second point Y: 53
+ Third point X: 89
+ Third point Y: 83
+Triangle 
+ First point X: 15
+ First point Y: 17
+ Second point X: 43
+ Second point Y: 83
+ Third point X: 88
+ Third point Y: 48
+Rectangle: 
+ Left Top X: 49
+ Left Top Y: 114
+ Right Bottom X: 122
+ Right Bottom Y: 94
+Rectangle: 
+ Left Top X: 74
+ Left Top Y: 73
+ Right Bottom X: 140
+ Right Bottom Y: 6
+Circle: 
+ X: 47
+ Y: 72
+ Radius: 0
+Triangle 
+ First point X: 70
+ First point Y: 50
+ Second point X: 1
+ Second point Y: 36
+ Third point X: 97
+ Third point Y: 97
+Rectangle: 
+ Left Top X: 80
+ Left Top Y: 47
+ Right Bottom X: 133
+ Right Bottom Y: 31
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 123
+ Right Bottom X: 148
+ Right Bottom Y: 40
+Rectangle: 
+ Left Top X: 38
+ Left Top Y: 132
+ Right Bottom X: 56
+ Right Bottom Y: 88
+Triangle 
+ First point X: 22
+ First point Y: 98
+ Second point X: 16
+ Second point Y: 87
+ Third point X: 51
+ Third point Y: 91
+Circle: 
+ X: 71
+ Y: 52
+ Radius: 18
+Circle: 
+ X: 61
+ Y: 45
+ Radius: 1
+Triangle 
+ First point X: 7
+ First point Y: 79
+ Second point X: 90
+ Second point Y: 27
+ Third point X: 22
+ Third point Y: 44
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 114
+ Right Bottom X: 82
+ Right Bottom Y: 94
+Circle: 
+ X: 72
+ Y: 30
+ Radius: 14
+Circle: 
+ X: 78
+ Y: 34
+ Radius: 8
+Rectangle: 
+ Left Top X: 20
+ Left Top Y: 34
+ Right Bottom X: 104
+ Right Bottom Y: 19
+Triangle 
+ First point X: 32
+ First point Y: 64
+ Second point X: 12
+ Second point Y: 98
+ Third point X: 7
+ Third point Y: 84
+Triangle 
+ First point X: 63
+ First point Y: 24
+ Second point X: 57
+ Second point Y: 32
+ Third point X: 87
+ Third point Y: 78
+Circle: 
+ X: 98
+ Y: 75
+ Radius: 13
+Triangle 
+ First point X: 84
+ First point Y: 41
+ Second point X: 74
+ Second point Y: 6
+ Third point X: 63
+ Third point Y: 16
+Triangle 
+ First point X: 19
+ First point Y: 51
+ Second point X: 11
+ Second point Y: 55
+ Third point X: 81
+ Third point Y: 50
+Triangle 
+ First point X: 90
+ First point Y: 93
+ Second point X: 88
+ Second point Y: 3
+ Third point X: 73
+ Third point Y: 27
+Triangle 
+ First point X: 46
+ First point Y: 63
+ Second point X: 37
+ Second point Y: 90
+ Third point X: 30
+ Third point Y: 78
+Triangle 
+ First point X: 94
+ First point Y: 14
+ Second point X: 97
+ Second point Y: 88
+ Third point X: 73
+ Third point Y: 14
+Rectangle: 
+ Left Top X: 63
+ Left Top Y: 82
+ Right Bottom X: 64
+ Right Bottom Y: 0
+Triangle 
+ First point X: 8
+ First point Y: 71
+ Second point X: 31
+ Second point Y: 97
+ Third point X: 9
+ Third point Y: 73
+Circle: 
+ X: 17
+ Y: 50
+ Radius: 16
+Rectangle: 
+ Left Top X: 5
+ Left Top Y: 80
+ Right Bottom X: 15
+ Right Bottom Y: 1
+Rectangle: 
+ Left Top X: 90
+ Left Top Y: 70
+ Right Bottom X: 152
+ Right Bottom Y: 21
+Triangle 
+ First point X: 68
+ First point Y: 88
+ Second point X: 42
+ Second point Y: 2
+ Third point X: 3
+ Third point Y: 76
+Circle: 
+ X: 22
+ Y: 32
+ Radius: 9
+Rectangle: 
+ Left Top X: 95
+ Left Top Y: 44
+ Right Bottom X: 154
+ Right Bottom Y: 25
+Triangle 
+ First point X: 91
+ First point Y: 6
+ Second point X: 94
+ Second point Y: 90
+ Third point X: 87
+ Third point Y: 48
+Triangle 
+ First point X: 82
+ First point Y: 7
+ Second point X: 3
+ Second point Y: 74
+ Third point X: 85
+ Third point Y: 88
+Rectangle: 
+ Left Top X: 48
+ Left Top Y: 116
+ Right Bottom X: 84
+ Right Bottom Y: 100
+Rectangle: 
+ Left Top X: 50
+ Left Top Y: 113
+ Right Bottom X: 115
+ Right Bottom Y: 27
+Rectangle: 
+ Left Top X: 35
+ Left Top Y: 64
+ Right Bottom X: 91
+ Right Bottom Y: 53
+Triangle 
+ First point X: 18
+ First point Y: 83
+ Second point X: 62
+ Second point Y: 22
+ Third point X: 39
+ Third point Y: 11
+Triangle 
+ First point X: 43
+ First point Y: 25
+ Second point X: 19
+ Second point Y: 32
+ Third point X: 37
+ Third point Y: 41
+Rectangle: 
+ Left Top X: 71
+ Left Top Y: 176
+ Right Bottom X: 149
+ Right Bottom Y: 82
+Triangle 
+ First point X: 97
+ First point Y: 72
+ Second point X: 57
+ Second point Y: 26
+ Third point X: 37
+ Third point Y: 91
+Circle: 
+ X: 81
+ Y: 43
+ Radius: 14
+Triangle 
+ First point X: 96
+ First point Y: 69
+ Second point X: 69
+ Second point Y: 38
+ Third point X: 38
+ Third point Y: 73
+Triangle 
+ First point X: 99
+ First point Y: 35
+ Second point X: 1
+ Second point Y: 24
+ Third point X: 7
+ Third point Y: 87
+Triangle 
+ First point X: 34
+ First point Y: 10
+ Second point X: 3
+ Second point Y: 25
+ Third point X: 78
+ Third point Y: 0
+Circle: 
+ X: 73
+ Y: 59
+ Radius: 5
+Triangle 
+ First point X: 35
+ First point Y: 55
+ Second point X: 23
+ Second point Y: 78
+ Third point X: 7
+ Third point Y: 76
+Triangle 
+ First point X: 9
+ First point Y: 23
+ Second point X: 13
+ Second point Y: 56
+ Third point X: 0
+ Third point Y: 77
+Circle: 
+ X: 7
+ Y: 83
+ Radius: 7
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 126
+ Right Bottom X: 143
+ Right Bottom Y: 51
+Circle: 
+ X: 88
+ Y: 8
+ Radius: 8
+Triangle 
+ First point X: 70
+ First point Y: 91
+ Second point X: 53
+ Second point Y: 65
+ Third point X: 63
+ Third point Y: 67
+Triangle 
+ First point X: 11
+ First point Y: 18
+ Second point X: 75
+ Second point Y: 92
+ Third point X: 26
+ Third point Y: 9
+Triangle 
+ First point X: 63
+ First point Y: 67
+ Second point X: 23
+ Second point Y: 21
+ Third point X: 68
+ Third point Y: 69
+Triangle 
+ First point X: 5
+ First point Y: 88
+ Second point X: 25
+ Second point Y: 96
+ Third point X: 6
+ Third point Y: 67
+Triangle 
+ First point X: 28
+ First point Y: 36
+ Second point X: 39
+ Second point Y: 20
+ Third point X: 80
+ Third point Y: 96
+Circle: 
+ X: 26
+ Y: 16
+ Radius: 11
+Triangle 
+ First point X: 22
+ First point Y: 71
+ Second point X: 92
+ Second point Y: 26
+ Third point X: 18
+ Third point Y: 95
+Rectangle: 
+ Left Top X: 89
+ Left Top Y: 37
+ Right Bottom X: 110
+ Right Bottom Y: 17
+Circle: 
+ X: 64
+ Y: 2
+ Radius: 13
+Rectangle: 
+ Left Top X: 46
+ Left Top Y: 162
+ Right Bottom X: 88
+ Right Bottom Y: 89
+Rectangle: 
+ Left Top X: 21
+ Left Top Y: 62
+ Right Bottom X: 118
+ Right Bottom Y: 51
+Circle: 
+ X: 28
+ Y: 82
+ Radius: 10
+Rectangle: 
+ Left Top X: 81
+ Left Top Y: 59
+ Right Bottom X: 112
+ Right Bottom Y: 51
+Circle: 
+ X: 73
+ Y: 16
+ Radius: 7
+Triangle 
+ First point X: 71
+ First point Y: 57
+ Second point X: 13
+ Second point Y: 19
+ Third point X: 90
+ Third point Y: 41
+Triangle 
+ First point X: 76
+ First point Y: 34
+ Second point X: 5
+ Second point Y: 7
+ Third point X: 96
+ Third point Y: 23
+Rectangle: 
+ Left Top X: 35
+ Left Top Y: 161
+ Right Bottom X: 133
+ Right Bottom Y: 96
+Triangle 
+ First point X: 15
+ First point Y: 19
+ Second point X: 69
+ Second point Y: 18
+ Third point X: 37
+ Third point Y: 77
+Rectangle: 
+ Left Top X: 74
+ Left Top Y: 61
+ Right Bottom X: 159
+ Right Bottom Y: 56
+Triangle 
+ First point X: 8
+ First point Y: 78
+ Second point X: 91
+ Second point Y: 80
+ Third point X: 67
+ Third point Y: 37
+Triangle 
+ First point X: 23
+ First point Y: 6
+ Second point X: 24
+ Second point Y: 18
+ Third point X: 68
+ Third point Y: 93
+Rectangle: 
+ Left Top X: 66
+ Left Top Y: 78
+ Right Bottom X: 68
+ Right Bottom Y: 28
+Rectangle: 
+ Left Top X: 13
+ Left Top Y: 66
+ Right Bottom X: 46
+ Right Bottom Y: 38
+Rectangle: 
+ Left Top X: 12
+ Left Top Y: 83
+ Right Bottom X: 110
+ Right Bottom Y: 70
+Circle: 
+ X: 90
+ Y: 7
+ Radius: 19
+Rectangle: 
+ Left Top X: 7
+ Left Top Y: 133
+ Right Bottom X: 52
+ Right Bottom Y: 99
+Circle: 
+ X: 21
+ Y: 88
+ Radius: 11
+Rectangle: 
+ Left Top X: 11
+ Left Top Y: 120
+ Right Bottom X: 81
+ Right Bottom Y: 53
+Triangle 
+ First point X: 5
+ First point Y: 98
+ Second point X: 55
+ Second point Y: 57
+ Third point X: 21
+ Third point Y: 30
+Triangle 
+ First point X: 6
+ First point Y: 39
+ Second point X: 33
+ Second point Y: 23
+ Third point X: 31
+ Third point Y: 73
+Circle: 
+ X: 68
+ Y: 81
+ Radius: 17
+Circle: 
+ X: 98
+ Y: 92
+ Radius: 17
+Rectangle: 
+ Left Top X: 42
+ Left Top Y: 79
+ Right Bottom X: 101
+ Right Bottom Y: 4
+Rectangle: 
+ Left Top X: 15
+ Left Top Y: 76
+ Right Bottom X: 111
+ Right Bottom Y: 30
+Rectangle: 
+ Left Top X: 32
+ Left Top Y: 67
+ Right Bottom X: 52
+ Right Bottom Y: 12
+Circle: 
+ X: 54
+ Y: 89
+ Radius: 18
+Rectangle: 
+ Left Top X: 8
+ Left Top Y: 125
+ Right Bottom X: 12
+ Right Bottom Y: 46
+Triangle 
+ First point X: 49
+ First point Y: 35
+ Second point X: 92
+ Second point Y: 27
+ Third point X: 41
+ Third point Y: 64
+Circle: 
+ X: 52
+ Y: 35
+ Radius: 5
+Triangle 
+ First point X: 64
+ First point Y: 92
+ Second point X: 74
+ Second point Y: 89
+ Third point X: 13
+ Third point Y: 87
+Rectangle: 
+ Left Top X: 74
+ Left Top Y: 20
+ Right Bottom X: 75
+ Right Bottom Y: 16
+Rectangle: 
+ Left Top X: 27
+ Left Top Y: 53
+ Right Bottom X: 103
+ Right Bottom Y: 10
+Triangle 
+ First point X: 15
+ First point Y: 45
+ Second point X: 23
+ Second point Y: 90
+ Third point X: 60
+ Third point Y: 39
+Triangle 
+ First point X: 88
+ First point Y: 94
+ Second point X: 43
+ Second point Y: 47
+ Third point X: 29
+ Third point Y: 87
+Circle: 
+ X: 53
+ Y: 30
+ Radius: 20
+Circle: 
+ X: 87
+ Y: 93
+ Radius: 10
+Triangle 
+ First point X: 45
+ First point Y: 21
+ Second point X: 62
+ Second point Y: 65
+ Third point X: 57
+ Third point Y: 5
+Circle: 
+ X: 43
+ Y: 15
+ Radius: 13
+Circle: 
+ X: 79
+ Y: 28
+ Radius: 18
+Triangle 
+ First point X: 86
+ First point Y: 30
+ Second point X: 57
+ Second point Y: 76
+ Third point X: 85
+ Third point Y: 54
+Triangle 
+ First point X: 37
+ First point Y: 49
+ Second point X: 11
+ Second point Y: 73
+ Third point X: 41
+ Third point Y: 99
+Circle: 
+ X: 51
+ Y: 26
+ Radius: 15
+Circle: 
+ X: 45
+ Y: 14
+ Radius: 19
+Triangle 
+ First point X: 3
+ First point Y: 75
+ Second point X: 72
+ Second point Y: 44
+ Third point X: 75
+ Third point Y: 53
+Triangle 
+ First point X: 12
+ First point Y: 78
+ Second point X: 35
+ Second point Y: 14
+ Third point X: 98
+ Third point Y: 53
+Triangle 
+ First point X: 47
+ First point Y: 52
+ Second point X: 99
+ Second point Y: 64
+ Third point X: 72
+ Third point Y: 30
+Triangle 
+ First point X: 38
+ First point Y: 91
+ Second point X: 37
+ Second point Y: 4
+ Third point X: 0
+ Third point Y: 56
+Rectangle: 
+ Left Top X: 39
+ Left Top Y: 124
+ Right Bottom X: 114
+ Right Bottom Y: 48
+Triangle 
+ First point X: 72
+ First point Y: 66
+ Second point X: 7
+ Second point Y: 86
+ Third point X: 77
+ Third point Y: 23
+Rectangle: 
+ Left Top X: 91
+ Left Top Y: 98
+ Right Bottom X: 159
+ Right Bottom Y: 17
+Circle: 
+ X: 92
+ Y: 89
+ Radius: 2
+Circle: 
+ X: 24
+ Y: 95
+ Radius: 8
+Triangle 
+ First point X: 98
+ First point Y: 74
+ Second point X: 99
+ Second point Y: 71
+ Third point X: 80
+ Third point Y: 17
+Triangle 
+ First point X: 59
+ First point Y: 21
+ Second point X: 100
+ Second point Y: 57
+ Third point X: 91
+ Third point Y: 55
+Circle: 
+ X: 99
+ Y: 22
+ Radius: 16
+Circle: 
+ X: 51
+ Y: 27
+ Radius: 9
+Rectangle: 
+ Left Top X: 15
+ Left Top Y: 130
+ Right Bottom X: 99
+ Right Bottom Y: 91
+Rectangle: 
+ Left Top X: 60
+ Left Top Y: 137
+ Right Bottom X: 87
+ Right Bottom Y: 80
+Circle: 
+ X: 28
+ Y: 29
+ Radius: 9
+Triangle 
+ First point X: 57
+ First point Y: 4
+ Second point X: 28
+ Second point Y: 51
+ Third point X: 5
+ Third point Y: 11
+Circle: 
+ X: 22
+ Y: 61
+ Radius: 7
+Rectangle: 
+ Left Top X: 34
+ Left Top Y: 30
+ Right Bottom X: 35
+ Right Bottom Y: 2
+Circle: 
+ X: 47
+ Y: 20
+ Radius: 15
+Triangle 
+ First point X: 92
+ First point Y: 66
+ Second point X: 27
+ Second point Y: 94
+ Third point X: 26
+ Third point Y: 46
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: 98
+ Right Bottom X: 82
+ Right Bottom Y: 4
+Rectangle: 
+ Left Top X: 3
+ Left Top Y: 102
+ Right Bottom X: 11
+ Right Bottom Y: 23
+Triangle 
+ First point X: 23
+ First point Y: 13
+ Second point X: 99
+ Second point Y: 48
+ Third point X: 29
+ Third point Y: 0
+Circle: 
+ X: 1
+ Y: 87
+ Radius: 19
+Triangle 
+ First point X: 96
+ First point Y: 83
+ Second point X: 85
+ Second point Y: 72
+ Third point X: 96
+ Third point Y: 12
+Circle: 
+ X: 57
+ Y: 85
+ Radius: 16
+Rectangle: 
+ Left Top X: 54
+ Left Top Y: 82
+ Right Bottom X: 141
+ Right Bottom Y: 60
+Rectangle: 
+ Left Top X: 72
+ Left Top Y: 39
+ Right Bottom X: 90
+ Right Bottom Y: 4
+Rectangle: 
+ Left Top X: 50
+ Left Top Y: 95
+ Right Bottom X: 116
+ Right Bottom Y: 1
+Triangle 
+ First point X: 99
+ First point Y: 51
+ Second point X: 88
+ Second point Y: 48
+ Third point X: 71
+ Third point Y: 77
+Rectangle: 
+ Left Top X: 26
+ Left Top Y: 78
+ Right Bottom X: 26
+ Right Bottom Y: 58
+Circle: 
+ X: 13
+ Y: 94
+ Radius: 11
+Triangle 
+ First point X: 74
+ First point Y: 56
+ Second point X: 56
+ Second point Y: 1
+ Third point X: 27
+ Third point Y: 18
+Triangle 
+ First point X: 46
+ First point Y: 76
+ Second point X: 11
+ Second point Y: 40
+ Third point X: 19
+ Third point Y: 79
+Rectangle: 
+ Left Top X: 58
+ Left Top Y: 99
+ Right Bottom X: 65
+ Right Bottom Y: 55
+Triangle 
+ First point X: 71
+ First point Y: 35
+ Second point X: 75
+ Second point Y: 25
+ Third point X: 75
+ Third point Y: 52
+Triangle 
+ First point X: 84
+ First point Y: 100
+ Second point X: 5
+ Second point Y: 43
+ Third point X: 97
+ Third point Y: 39
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 110
+ Right Bottom X: 83
+ Right Bottom Y: 54
+Rectangle: 
+ Left Top X: 33
+ Left Top Y: 33
+ Right Bottom X: 102
+ Right Bottom Y: 9
+Triangle 
+ First point X: 62
+ First point Y: 19
+ Second point X: 27
+ Second point Y: 1
+ Third point X: 59
+ Third point Y: 33
+Circle: 
+ X: 20
+ Y: 13
+ Radius: 6
+
+
+1000
+
+
+Rectangle: 
+ Left Top X: 26
+ Left Top Y: 78
+ Right Bottom X: 26
+ Right Bottom Y: 58
+Circle: 
+ X: 47
+ Y: 72
+ Radius: 0
+Rectangle: 
+ Left Top X: 61
+ Left Top Y: 128
+ Right Bottom X: 61
+ Right Bottom Y: 67
+Circle: 
+ X: 66
+ Y: 15
+ Radius: 0
+Circle: 
+ X: 62
+ Y: 43
+ Radius: 0
+Circle: 
+ X: 31
+ Y: 61
+ Radius: 0
+Rectangle: 
+ Left Top X: 60
+ Left Top Y: 118
+ Right Bottom X: 60
+ Right Bottom Y: 89
+Circle: 
+ X: 83
+ Y: 38
+ Radius: 0
+Circle: 
+ X: 38
+ Y: 41
+ Radius: 0
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: 29
+ Right Bottom X: 47
+ Right Bottom Y: 29
+Circle: 
+ X: 32
+ Y: 28
+ Radius: 0
+Circle: 
+ X: 49
+ Y: 6
+ Radius: 0
+Circle: 
+ X: 33
+ Y: 6
+ Radius: 0
+Circle: 
+ X: 75
+ Y: 76
+ Radius: 0
+Circle: 
+ X: 94
+ Y: 8
+ Radius: 0
+Circle: 
+ X: 90
+ Y: 27
+ Radius: 0
+Rectangle: 
+ Left Top X: 33
+ Left Top Y: 5
+ Right Bottom X: 111
+ Right Bottom Y: 5
+Circle: 
+ X: 61
+ Y: 45
+ Radius: 1
+Circle: 
+ X: 63
+ Y: 15
+ Radius: 1
+Circle: 
+ X: 94
+ Y: 28
+ Radius: 1
+Circle: 
+ X: 30
+ Y: 11
+ Radius: 1
+Circle: 
+ X: 88
+ Y: 11
+ Radius: 1
+Circle: 
+ X: 63
+ Y: 8
+ Radius: 1
+Circle: 
+ X: 32
+ Y: 33
+ Radius: 1
+Circle: 
+ X: 70
+ Y: 17
+ Radius: 1
+Circle: 
+ X: 99
+ Y: 2
+ Radius: 1
+Circle: 
+ X: 48
+ Y: 47
+ Radius: 1
+Circle: 
+ X: 74
+ Y: 19
+ Radius: 1
+Circle: 
+ X: 69
+ Y: 99
+ Radius: 1
+Circle: 
+ X: 79
+ Y: 41
+ Radius: 1
+Circle: 
+ X: 28
+ Y: 23
+ Radius: 1
+Circle: 
+ X: 88
+ Y: 11
+ Radius: 1
+Circle: 
+ X: 7
+ Y: 68
+ Radius: 1
+Circle: 
+ X: 29
+ Y: 30
+ Radius: 1
+Circle: 
+ X: 22
+ Y: 1
+ Radius: 1
+Circle: 
+ X: 23
+ Y: 84
+ Radius: 1
+Circle: 
+ X: 84
+ Y: 54
+ Radius: 1
+Circle: 
+ X: 0
+ Y: 98
+ Radius: 1
+Circle: 
+ X: 97
+ Y: 30
+ Radius: 1
+Circle: 
+ X: 90
+ Y: 83
+ Radius: 1
+Circle: 
+ X: 47
+ Y: 34
+ Radius: 1
+Circle: 
+ X: 70
+ Y: 50
+ Radius: 1
+Rectangle: 
+ Left Top X: 74
+ Left Top Y: 20
+ Right Bottom X: 75
+ Right Bottom Y: 16
+Triangle 
+ First point X: 49
+ First point Y: 13
+ Second point X: 55
+ Second point Y: 36
+ Third point X: 59
+ Third point Y: 50
+Triangle 
+ First point X: 98
+ First point Y: 51
+ Second point X: 99
+ Second point Y: 52
+ Third point X: 44
+ Third point Y: 11
+Triangle 
+ First point X: 80
+ First point Y: 43
+ Second point X: 73
+ Second point Y: 46
+ Third point X: 28
+ Third point Y: 63
+Triangle 
+ First point X: 8
+ First point Y: 71
+ Second point X: 31
+ Second point Y: 97
+ Third point X: 9
+ Third point Y: 73
+Circle: 
+ X: 92
+ Y: 89
+ Radius: 2
+Circle: 
+ X: 28
+ Y: 49
+ Radius: 2
+Circle: 
+ X: 92
+ Y: 7
+ Radius: 2
+Circle: 
+ X: 47
+ Y: 85
+ Radius: 2
+Circle: 
+ X: 39
+ Y: 70
+ Radius: 2
+Circle: 
+ X: 88
+ Y: 48
+ Radius: 2
+Circle: 
+ X: 34
+ Y: 37
+ Radius: 2
+Circle: 
+ X: 88
+ Y: 76
+ Radius: 2
+Circle: 
+ X: 2
+ Y: 99
+ Radius: 2
+Circle: 
+ X: 24
+ Y: 73
+ Radius: 2
+Circle: 
+ X: 57
+ Y: 43
+ Radius: 2
+Circle: 
+ X: 97
+ Y: 24
+ Radius: 2
+Circle: 
+ X: 95
+ Y: 25
+ Radius: 2
+Circle: 
+ X: 83
+ Y: 84
+ Radius: 2
+Circle: 
+ X: 20
+ Y: 32
+ Radius: 2
+Circle: 
+ X: 24
+ Y: 17
+ Radius: 2
+Triangle 
+ First point X: 22
+ First point Y: 77
+ Second point X: 42
+ Second point Y: 10
+ Third point X: 29
+ Third point Y: 55
+Triangle 
+ First point X: 54
+ First point Y: 49
+ Second point X: 30
+ Second point Y: 34
+ Third point X: 29
+ Third point Y: 32
+Triangle 
+ First point X: 67
+ First point Y: 10
+ Second point X: 69
+ Second point Y: 70
+ Third point X: 67
+ Third point Y: 29
+Triangle 
+ First point X: 34
+ First point Y: 83
+ Second point X: 88
+ Second point Y: 87
+ Third point X: 57
+ Third point Y: 84
+Triangle 
+ First point X: 83
+ First point Y: 46
+ Second point X: 63
+ Second point Y: 66
+ Third point X: 68
+ Third point Y: 63
+Triangle 
+ First point X: 37
+ First point Y: 10
+ Second point X: 31
+ Second point Y: 7
+ Third point X: 97
+ Third point Y: 47
+Triangle 
+ First point X: 51
+ First point Y: 69
+ Second point X: 56
+ Second point Y: 63
+ Third point X: 48
+ Third point Y: 83
+Rectangle: 
+ Left Top X: 71
+ Left Top Y: 15
+ Right Bottom X: 97
+ Right Bottom Y: 14
+Triangle 
+ First point X: 56
+ First point Y: 8
+ Second point X: 31
+ Second point Y: 4
+ Third point X: 18
+ Third point Y: 4
+Rectangle: 
+ Left Top X: 34
+ Left Top Y: 30
+ Right Bottom X: 35
+ Right Bottom Y: 2
+Circle: 
+ X: 42
+ Y: 62
+ Radius: 3
+Circle: 
+ X: 39
+ Y: 79
+ Radius: 3
+Circle: 
+ X: 92
+ Y: 59
+ Radius: 3
+Circle: 
+ X: 25
+ Y: 41
+ Radius: 3
+Circle: 
+ X: 73
+ Y: 17
+ Radius: 3
+Circle: 
+ X: 31
+ Y: 32
+ Radius: 3
+Circle: 
+ X: 5
+ Y: 79
+ Radius: 3
+Circle: 
+ X: 71
+ Y: 37
+ Radius: 3
+Circle: 
+ X: 9
+ Y: 7
+ Radius: 3
+Circle: 
+ X: 37
+ Y: 55
+ Radius: 3
+Circle: 
+ X: 87
+ Y: 35
+ Radius: 3
+Circle: 
+ X: 70
+ Y: 73
+ Radius: 3
+Rectangle: 
+ Left Top X: 98
+ Left Top Y: 52
+ Right Bottom X: 99
+ Right Bottom Y: 20
+Triangle 
+ First point X: 89
+ First point Y: 2
+ Second point X: 100
+ Second point Y: 0
+ Third point X: 17
+ Third point Y: 21
+Rectangle: 
+ Left Top X: 1
+ Left Top Y: 78
+ Right Bottom X: 13
+ Right Bottom Y: 75
+Triangle 
+ First point X: 38
+ First point Y: 22
+ Second point X: 34
+ Second point Y: 12
+ Third point X: 55
+ Third point Y: 43
+Rectangle: 
+ Left Top X: 87
+ Left Top Y: 37
+ Right Bottom X: 130
+ Right Bottom Y: 36
+Triangle 
+ First point X: 14
+ First point Y: 62
+ Second point X: 11
+ Second point Y: 48
+ Third point X: 4
+ Third point Y: 44
+Rectangle: 
+ Left Top X: 85
+ Left Top Y: 76
+ Right Bottom X: 87
+ Right Bottom Y: 54
+Rectangle: 
+ Left Top X: 28
+ Left Top Y: 123
+ Right Bottom X: 29
+ Right Bottom Y: 77
+Circle: 
+ X: 52
+ Y: 86
+ Radius: 4
+Circle: 
+ X: 36
+ Y: 59
+ Radius: 4
+Circle: 
+ X: 83
+ Y: 31
+ Radius: 4
+Circle: 
+ X: 88
+ Y: 1
+ Radius: 4
+Circle: 
+ X: 62
+ Y: 92
+ Radius: 4
+Circle: 
+ X: 21
+ Y: 19
+ Radius: 4
+Circle: 
+ X: 57
+ Y: 20
+ Radius: 4
+Circle: 
+ X: 50
+ Y: 5
+ Radius: 4
+Circle: 
+ X: 47
+ Y: 37
+ Radius: 4
+Circle: 
+ X: 46
+ Y: 71
+ Radius: 4
+Circle: 
+ X: 62
+ Y: 57
+ Radius: 4
+Circle: 
+ X: 21
+ Y: 40
+ Radius: 4
+Circle: 
+ X: 85
+ Y: 9
+ Radius: 4
+Circle: 
+ X: 75
+ Y: 37
+ Radius: 4
+Triangle 
+ First point X: 71
+ First point Y: 35
+ Second point X: 75
+ Second point Y: 25
+ Third point X: 75
+ Third point Y: 52
+Triangle 
+ First point X: 94
+ First point Y: 40
+ Second point X: 97
+ Second point Y: 59
+ Third point X: 95
+ Third point Y: 83
+Rectangle: 
+ Left Top X: 2
+ Left Top Y: 54
+ Right Bottom X: 7
+ Right Bottom Y: 43
+Triangle 
+ First point X: 17
+ First point Y: 81
+ Second point X: 22
+ Second point Y: 78
+ Third point X: 92
+ Third point Y: 58
+Triangle 
+ First point X: 98
+ First point Y: 74
+ Second point X: 99
+ Second point Y: 71
+ Third point X: 80
+ Third point Y: 17
+Triangle 
+ First point X: 43
+ First point Y: 81
+ Second point X: 9
+ Second point Y: 50
+ Third point X: 39
+ Third point Y: 74
+Triangle 
+ First point X: 75
+ First point Y: 44
+ Second point X: 61
+ Second point Y: 67
+ Third point X: 95
+ Third point Y: 3
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 114
+ Right Bottom X: 82
+ Right Bottom Y: 94
+Triangle 
+ First point X: 20
+ First point Y: 30
+ Second point X: 25
+ Second point Y: 97
+ Third point X: 17
+ Third point Y: 15
+Triangle 
+ First point X: 55
+ First point Y: 44
+ Second point X: 55
+ Second point Y: 36
+ Third point X: 39
+ Third point Y: 99
+Triangle 
+ First point X: 6
+ First point Y: 9
+ Second point X: 25
+ Second point Y: 52
+ Third point X: 25
+ Third point Y: 59
+Triangle 
+ First point X: 98
+ First point Y: 37
+ Second point X: 62
+ Second point Y: 50
+ Third point X: 45
+ Third point Y: 60
+Rectangle: 
+ Left Top X: 61
+ Left Top Y: 103
+ Right Bottom X: 62
+ Right Bottom Y: 30
+Triangle 
+ First point X: 83
+ First point Y: 44
+ Second point X: 79
+ Second point Y: 43
+ Third point X: 32
+ Third point Y: 68
+Triangle 
+ First point X: 63
+ First point Y: 67
+ Second point X: 23
+ Second point Y: 21
+ Third point X: 68
+ Third point Y: 69
+Triangle 
+ First point X: 37
+ First point Y: 31
+ Second point X: 80
+ Second point Y: 54
+ Third point X: 36
+ Third point Y: 34
+Triangle 
+ First point X: 18
+ First point Y: 45
+ Second point X: 69
+ Second point Y: 80
+ Third point X: 2
+ Third point Y: 31
+Triangle 
+ First point X: 28
+ First point Y: 87
+ Second point X: 33
+ Second point Y: 76
+ Third point X: 80
+ Third point Y: 4
+Circle: 
+ X: 52
+ Y: 35
+ Radius: 5
+Circle: 
+ X: 73
+ Y: 59
+ Radius: 5
+Circle: 
+ X: 98
+ Y: 6
+ Radius: 5
+Circle: 
+ X: 71
+ Y: 18
+ Radius: 5
+Circle: 
+ X: 64
+ Y: 34
+ Radius: 5
+Circle: 
+ X: 1
+ Y: 79
+ Radius: 5
+Circle: 
+ X: 74
+ Y: 39
+ Radius: 5
+Circle: 
+ X: 52
+ Y: 72
+ Radius: 5
+Circle: 
+ X: 59
+ Y: 29
+ Radius: 5
+Circle: 
+ X: 39
+ Y: 4
+ Radius: 5
+Circle: 
+ X: 80
+ Y: 87
+ Radius: 5
+Circle: 
+ X: 70
+ Y: 90
+ Radius: 5
+Circle: 
+ X: 63
+ Y: 3
+ Radius: 5
+Circle: 
+ X: 73
+ Y: 19
+ Radius: 5
+Circle: 
+ X: 53
+ Y: 9
+ Radius: 5
+Circle: 
+ X: 17
+ Y: 48
+ Radius: 5
+Circle: 
+ X: 58
+ Y: 26
+ Radius: 5
+Triangle 
+ First point X: 3
+ First point Y: 68
+ Second point X: 19
+ Second point Y: 68
+ Third point X: 98
+ Third point Y: 58
+Rectangle: 
+ Left Top X: 63
+ Left Top Y: 82
+ Right Bottom X: 64
+ Right Bottom Y: 0
+Triangle 
+ First point X: 59
+ First point Y: 83
+ Second point X: 53
+ Second point Y: 62
+ Third point X: 50
+ Third point Y: 79
+Triangle 
+ First point X: 74
+ First point Y: 90
+ Second point X: 92
+ Second point Y: 26
+ Third point X: 94
+ Third point Y: 29
+Triangle 
+ First point X: 27
+ First point Y: 91
+ Second point X: 88
+ Second point Y: 30
+ Third point X: 45
+ Third point Y: 70
+Rectangle: 
+ Left Top X: 98
+ Left Top Y: 18
+ Right Bottom X: 144
+ Right Bottom Y: 16
+Triangle 
+ First point X: 58
+ First point Y: 68
+ Second point X: 23
+ Second point Y: 77
+ Third point X: 53
+ Third point Y: 64
+Triangle 
+ First point X: 92
+ First point Y: 78
+ Second point X: 33
+ Second point Y: 84
+ Third point X: 2
+ Third point Y: 84
+Triangle 
+ First point X: 9
+ First point Y: 79
+ Second point X: 40
+ Second point Y: 83
+ Third point X: 79
+ Third point Y: 82
+Triangle 
+ First point X: 39
+ First point Y: 82
+ Second point X: 99
+ Second point Y: 42
+ Third point X: 16
+ Third point Y: 94
+Rectangle: 
+ Left Top X: 66
+ Left Top Y: 78
+ Right Bottom X: 68
+ Right Bottom Y: 28
+Rectangle: 
+ Left Top X: 12
+ Left Top Y: 40
+ Right Bottom X: 32
+ Right Bottom Y: 35
+Triangle 
+ First point X: 64
+ First point Y: 92
+ Second point X: 74
+ Second point Y: 89
+ Third point X: 13
+ Third point Y: 87
+Rectangle: 
+ Left Top X: 16
+ Left Top Y: 6
+ Right Bottom X: 51
+ Right Bottom Y: 3
+Triangle 
+ First point X: 58
+ First point Y: 34
+ Second point X: 48
+ Second point Y: 38
+ Third point X: 19
+ Third point Y: 72
+Triangle 
+ First point X: 82
+ First point Y: 12
+ Second point X: 77
+ Second point Y: 50
+ Third point X: 79
+ Third point Y: 80
+Triangle 
+ First point X: 70
+ First point Y: 91
+ Second point X: 53
+ Second point Y: 65
+ Third point X: 63
+ Third point Y: 67
+Circle: 
+ X: 20
+ Y: 13
+ Radius: 6
+Circle: 
+ X: 87
+ Y: 86
+ Radius: 6
+Circle: 
+ X: 70
+ Y: 27
+ Radius: 6
+Circle: 
+ X: 6
+ Y: 67
+ Radius: 6
+Circle: 
+ X: 34
+ Y: 53
+ Radius: 6
+Circle: 
+ X: 12
+ Y: 20
+ Radius: 6
+Circle: 
+ X: 68
+ Y: 93
+ Radius: 6
+Circle: 
+ X: 42
+ Y: 34
+ Radius: 6
+Circle: 
+ X: 37
+ Y: 37
+ Radius: 6
+Circle: 
+ X: 55
+ Y: 28
+ Radius: 6
+Circle: 
+ X: 66
+ Y: 98
+ Radius: 6
+Circle: 
+ X: 45
+ Y: 8
+ Radius: 6
+Triangle 
+ First point X: 16
+ First point Y: 34
+ Second point X: 14
+ Second point Y: 5
+ Third point X: 28
+ Third point Y: 92
+Rectangle: 
+ Left Top X: 52
+ Left Top Y: 38
+ Right Bottom X: 91
+ Right Bottom Y: 35
+Triangle 
+ First point X: 52
+ First point Y: 17
+ Second point X: 91
+ Second point Y: 59
+ Third point X: 50
+ Third point Y: 21
+Triangle 
+ First point X: 19
+ First point Y: 51
+ Second point X: 11
+ Second point Y: 55
+ Third point X: 81
+ Third point Y: 50
+Triangle 
+ First point X: 4
+ First point Y: 85
+ Second point X: 69
+ Second point Y: 86
+ Third point X: 24
+ Third point Y: 89
+Triangle 
+ First point X: 59
+ First point Y: 21
+ Second point X: 100
+ Second point Y: 57
+ Third point X: 91
+ Third point Y: 55
+Triangle 
+ First point X: 36
+ First point Y: 51
+ Second point X: 50
+ Second point Y: 87
+ Third point X: 37
+ Third point Y: 36
+Triangle 
+ First point X: 81
+ First point Y: 17
+ Second point X: 74
+ Second point Y: 69
+ Third point X: 78
+ Third point Y: 4
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 30
+ Right Bottom X: 100
+ Right Bottom Y: 24
+Rectangle: 
+ Left Top X: 4
+ Left Top Y: 48
+ Right Bottom X: 16
+ Right Bottom Y: 37
+Triangle 
+ First point X: 21
+ First point Y: 68
+ Second point X: 92
+ Second point Y: 95
+ Third point X: 69
+ Third point Y: 90
+Triangle 
+ First point X: 15
+ First point Y: 63
+ Second point X: 23
+ Second point Y: 70
+ Third point X: 75
+ Third point Y: 81
+Triangle 
+ First point X: 19
+ First point Y: 79
+ Second point X: 11
+ Second point Y: 61
+ Third point X: 29
+ Third point Y: 67
+Rectangle: 
+ Left Top X: 93
+ Left Top Y: 61
+ Right Bottom X: 129
+ Right Bottom Y: 57
+Triangle 
+ First point X: 14
+ First point Y: 10
+ Second point X: 52
+ Second point Y: 3
+ Third point X: 51
+ Third point Y: 11
+Triangle 
+ First point X: 46
+ First point Y: 63
+ Second point X: 37
+ Second point Y: 90
+ Third point X: 30
+ Third point Y: 78
+Circle: 
+ X: 10
+ Y: 54
+ Radius: 7
+Circle: 
+ X: 23
+ Y: 74
+ Radius: 7
+Circle: 
+ X: 19
+ Y: 2
+ Radius: 7
+Circle: 
+ X: 85
+ Y: 47
+ Radius: 7
+Circle: 
+ X: 85
+ Y: 40
+ Radius: 7
+Circle: 
+ X: 19
+ Y: 50
+ Radius: 7
+Circle: 
+ X: 76
+ Y: 35
+ Radius: 7
+Circle: 
+ X: 5
+ Y: 32
+ Radius: 7
+Circle: 
+ X: 90
+ Y: 99
+ Radius: 7
+Circle: 
+ X: 20
+ Y: 32
+ Radius: 7
+Circle: 
+ X: 1
+ Y: 61
+ Radius: 7
+Circle: 
+ X: 91
+ Y: 55
+ Radius: 7
+Circle: 
+ X: 81
+ Y: 76
+ Radius: 7
+Circle: 
+ X: 16
+ Y: 22
+ Radius: 7
+Circle: 
+ X: 7
+ Y: 83
+ Radius: 7
+Circle: 
+ X: 73
+ Y: 16
+ Radius: 7
+Circle: 
+ X: 22
+ Y: 61
+ Radius: 7
+Triangle 
+ First point X: 42
+ First point Y: 55
+ Second point X: 56
+ Second point Y: 45
+ Third point X: 19
+ Third point Y: 94
+Rectangle: 
+ Left Top X: 91
+ Left Top Y: 121
+ Right Bottom X: 95
+ Right Bottom Y: 81
+Triangle 
+ First point X: 17
+ First point Y: 48
+ Second point X: 34
+ Second point Y: 82
+ Third point X: 15
+ Third point Y: 25
+Triangle 
+ First point X: 51
+ First point Y: 62
+ Second point X: 26
+ Second point Y: 90
+ Third point X: 76
+ Third point Y: 47
+Triangle 
+ First point X: 68
+ First point Y: 21
+ Second point X: 36
+ Second point Y: 48
+ Third point X: 67
+ Third point Y: 32
+Triangle 
+ First point X: 60
+ First point Y: 95
+ Second point X: 94
+ Second point Y: 85
+ Third point X: 51
+ Third point Y: 88
+Triangle 
+ First point X: 7
+ First point Y: 56
+ Second point X: 51
+ Second point Y: 99
+ Third point X: 30
+ Third point Y: 71
+Triangle 
+ First point X: 82
+ First point Y: 10
+ Second point X: 80
+ Second point Y: 28
+ Third point X: 98
+ Third point Y: 33
+Triangle 
+ First point X: 2
+ First point Y: 23
+ Second point X: 44
+ Second point Y: 11
+ Third point X: 2
+ Third point Y: 31
+Triangle 
+ First point X: 43
+ First point Y: 25
+ Second point X: 19
+ Second point Y: 32
+ Third point X: 37
+ Third point Y: 41
+Triangle 
+ First point X: 71
+ First point Y: 99
+ Second point X: 26
+ Second point Y: 48
+ Third point X: 21
+ Third point Y: 50
+Triangle 
+ First point X: 34
+ First point Y: 10
+ Second point X: 3
+ Second point Y: 25
+ Third point X: 78
+ Third point Y: 0
+Rectangle: 
+ Left Top X: 66
+ Left Top Y: 67
+ Right Bottom X: 77
+ Right Bottom Y: 51
+Triangle 
+ First point X: 22
+ First point Y: 98
+ Second point X: 16
+ Second point Y: 87
+ Third point X: 51
+ Third point Y: 91
+Triangle 
+ First point X: 59
+ First point Y: 38
+ Second point X: 13
+ Second point Y: 65
+ Third point X: 100
+ Third point Y: 6
+Rectangle: 
+ Left Top X: 58
+ Left Top Y: 116
+ Right Bottom X: 61
+ Right Bottom Y: 55
+Triangle 
+ First point X: 99
+ First point Y: 51
+ Second point X: 88
+ Second point Y: 48
+ Third point X: 71
+ Third point Y: 77
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: 66
+ Right Bottom X: 26
+ Right Bottom Y: 4
+Triangle 
+ First point X: 93
+ First point Y: 50
+ Second point X: 74
+ Second point Y: 0
+ Third point X: 73
+ Third point Y: 17
+Triangle 
+ First point X: 43
+ First point Y: 39
+ Second point X: 41
+ Second point Y: 31
+ Third point X: 89
+ Third point Y: 32
+Rectangle: 
+ Left Top X: 13
+ Left Top Y: 74
+ Right Bottom X: 77
+ Right Bottom Y: 71
+Triangle 
+ First point X: 35
+ First point Y: 55
+ Second point X: 23
+ Second point Y: 78
+ Third point X: 7
+ Third point Y: 76
+Circle: 
+ X: 24
+ Y: 95
+ Radius: 8
+Circle: 
+ X: 88
+ Y: 8
+ Radius: 8
+Circle: 
+ X: 78
+ Y: 34
+ Radius: 8
+Circle: 
+ X: 78
+ Y: 100
+ Radius: 8
+Circle: 
+ X: 85
+ Y: 29
+ Radius: 8
+Circle: 
+ X: 76
+ Y: 45
+ Radius: 8
+Circle: 
+ X: 98
+ Y: 5
+ Radius: 8
+Circle: 
+ X: 17
+ Y: 64
+ Radius: 8
+Circle: 
+ X: 62
+ Y: 29
+ Radius: 8
+Circle: 
+ X: 77
+ Y: 78
+ Radius: 8
+Circle: 
+ X: 14
+ Y: 40
+ Radius: 8
+Circle: 
+ X: 58
+ Y: 24
+ Radius: 8
+Circle: 
+ X: 23
+ Y: 24
+ Radius: 8
+Circle: 
+ X: 3
+ Y: 55
+ Radius: 8
+Circle: 
+ X: 46
+ Y: 37
+ Radius: 8
+Rectangle: 
+ Left Top X: 16
+ Left Top Y: 101
+ Right Bottom X: 20
+ Right Bottom Y: 50
+Triangle 
+ First point X: 77
+ First point Y: 97
+ Second point X: 5
+ Second point Y: 67
+ Third point X: 98
+ Third point Y: 100
+Rectangle: 
+ Left Top X: 56
+ Left Top Y: 34
+ Right Bottom X: 82
+ Right Bottom Y: 26
+Triangle 
+ First point X: 46
+ First point Y: 89
+ Second point X: 79
+ Second point Y: 95
+ Third point X: 33
+ Third point Y: 74
+Triangle 
+ First point X: 83
+ First point Y: 64
+ Second point X: 72
+ Second point Y: 97
+ Third point X: 98
+ Third point Y: 57
+Triangle 
+ First point X: 55
+ First point Y: 72
+ Second point X: 89
+ Second point Y: 25
+ Third point X: 59
+ Third point Y: 79
+Triangle 
+ First point X: 5
+ First point Y: 88
+ Second point X: 25
+ Second point Y: 96
+ Third point X: 6
+ Third point Y: 67
+Triangle 
+ First point X: 56
+ First point Y: 44
+ Second point X: 99
+ Second point Y: 4
+ Third point X: 13
+ Third point Y: 74
+Triangle 
+ First point X: 75
+ First point Y: 95
+ Second point X: 39
+ Second point Y: 48
+ Third point X: 49
+ Third point Y: 73
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: 48
+ Right Bottom X: 31
+ Right Bottom Y: 21
+Triangle 
+ First point X: 24
+ First point Y: 68
+ Second point X: 67
+ Second point Y: 21
+ Third point X: 66
+ Third point Y: 12
+Triangle 
+ First point X: 25
+ First point Y: 19
+ Second point X: 62
+ Second point Y: 15
+ Third point X: 54
+ Third point Y: 4
+Triangle 
+ First point X: 20
+ First point Y: 36
+ Second point X: 56
+ Second point Y: 96
+ Third point X: 0
+ Third point Y: 15
+Rectangle: 
+ Left Top X: 73
+ Left Top Y: 135
+ Right Bottom X: 76
+ Right Bottom Y: 61
+Triangle 
+ First point X: 18
+ First point Y: 43
+ Second point X: 25
+ Second point Y: 40
+ Third point X: 45
+ Third point Y: 95
+Triangle 
+ First point X: 36
+ First point Y: 70
+ Second point X: 26
+ Second point Y: 91
+ Third point X: 83
+ Third point Y: 16
+Triangle 
+ First point X: 32
+ First point Y: 64
+ Second point X: 12
+ Second point Y: 98
+ Third point X: 7
+ Third point Y: 84
+Triangle 
+ First point X: 23
+ First point Y: 6
+ Second point X: 24
+ Second point Y: 18
+ Third point X: 68
+ Third point Y: 93
+Triangle 
+ First point X: 5
+ First point Y: 18
+ Second point X: 19
+ Second point Y: 3
+ Third point X: 18
+ Third point Y: 37
+Triangle 
+ First point X: 6
+ First point Y: 80
+ Second point X: 31
+ Second point Y: 44
+ Third point X: 57
+ Third point Y: 25
+Triangle 
+ First point X: 91
+ First point Y: 6
+ Second point X: 94
+ Second point Y: 90
+ Third point X: 87
+ Third point Y: 48
+Rectangle: 
+ Left Top X: 62
+ Left Top Y: 95
+ Right Bottom X: 73
+ Right Bottom Y: 74
+Triangle 
+ First point X: 28
+ First point Y: 61
+ Second point X: 15
+ Second point Y: 95
+ Third point X: 55
+ Third point Y: 26
+Rectangle: 
+ Left Top X: 48
+ Left Top Y: 68
+ Right Bottom X: 65
+ Right Bottom Y: 54
+Triangle 
+ First point X: 39
+ First point Y: 56
+ Second point X: 16
+ Second point Y: 62
+ Third point X: 63
+ Third point Y: 29
+Rectangle: 
+ Left Top X: 15
+ Left Top Y: 84
+ Right Bottom X: 95
+ Right Bottom Y: 81
+Rectangle: 
+ Left Top X: 42
+ Left Top Y: 128
+ Right Bottom X: 46
+ Right Bottom Y: 68
+Triangle 
+ First point X: 26
+ First point Y: 37
+ Second point X: 42
+ Second point Y: 75
+ Third point X: 2
+ Third point Y: 10
+Triangle 
+ First point X: 84
+ First point Y: 41
+ Second point X: 74
+ Second point Y: 6
+ Third point X: 63
+ Third point Y: 16
+Triangle 
+ First point X: 47
+ First point Y: 44
+ Second point X: 76
+ Second point Y: 63
+ Third point X: 36
+ Third point Y: 20
+Triangle 
+ First point X: 51
+ First point Y: 32
+ Second point X: 49
+ Second point Y: 55
+ Third point X: 68
+ Third point Y: 81
+Triangle 
+ First point X: 25
+ First point Y: 58
+ Second point X: 41
+ Second point Y: 15
+ Third point X: 55
+ Third point Y: 8
+Rectangle: 
+ Left Top X: 81
+ Left Top Y: 59
+ Right Bottom X: 112
+ Right Bottom Y: 51
+Triangle 
+ First point X: 96
+ First point Y: 2
+ Second point X: 20
+ Second point Y: 26
+ Third point X: 66
+ Third point Y: 18
+Triangle 
+ First point X: 77
+ First point Y: 6
+ Second point X: 96
+ Second point Y: 40
+ Third point X: 99
+ Third point Y: 19
+Triangle 
+ First point X: 11
+ First point Y: 80
+ Second point X: 85
+ Second point Y: 11
+ Third point X: 88
+ Third point Y: 15
+Rectangle: 
+ Left Top X: 42
+ Left Top Y: 55
+ Right Bottom X: 78
+ Right Bottom Y: 48
+Triangle 
+ First point X: 51
+ First point Y: 90
+ Second point X: 31
+ Second point Y: 91
+ Third point X: 5
+ Third point Y: 67
+Triangle 
+ First point X: 47
+ First point Y: 1
+ Second point X: 18
+ Second point Y: 92
+ Third point X: 36
+ Third point Y: 53
+Circle: 
+ X: 74
+ Y: 76
+ Radius: 9
+Circle: 
+ X: 19
+ Y: 65
+ Radius: 9
+Circle: 
+ X: 66
+ Y: 95
+ Radius: 9
+Circle: 
+ X: 24
+ Y: 7
+ Radius: 9
+Circle: 
+ X: 85
+ Y: 17
+ Radius: 9
+Circle: 
+ X: 75
+ Y: 42
+ Radius: 9
+Circle: 
+ X: 97
+ Y: 4
+ Radius: 9
+Circle: 
+ X: 30
+ Y: 23
+ Radius: 9
+Circle: 
+ X: 87
+ Y: 85
+ Radius: 9
+Circle: 
+ X: 26
+ Y: 13
+ Radius: 9
+Circle: 
+ X: 2
+ Y: 49
+ Radius: 9
+Circle: 
+ X: 5
+ Y: 57
+ Radius: 9
+Circle: 
+ X: 22
+ Y: 32
+ Radius: 9
+Circle: 
+ X: 51
+ Y: 27
+ Radius: 9
+Circle: 
+ X: 28
+ Y: 29
+ Radius: 9
+Triangle 
+ First point X: 9
+ First point Y: 23
+ Second point X: 13
+ Second point Y: 56
+ Third point X: 0
+ Third point Y: 77
+Triangle 
+ First point X: 63
+ First point Y: 24
+ Second point X: 57
+ Second point Y: 32
+ Third point X: 87
+ Third point Y: 78
+Triangle 
+ First point X: 83
+ First point Y: 59
+ Second point X: 65
+ Second point Y: 90
+ Third point X: 54
+ Third point Y: 80
+Rectangle: 
+ Left Top X: 80
+ Left Top Y: 45
+ Right Bottom X: 118
+ Right Bottom Y: 38
+Rectangle: 
+ Left Top X: 66
+ Left Top Y: 90
+ Right Bottom X: 69
+ Right Bottom Y: 1
+Rectangle: 
+ Left Top X: 52
+ Left Top Y: 67
+ Right Bottom X: 119
+ Right Bottom Y: 63
+Triangle 
+ First point X: 83
+ First point Y: 36
+ Second point X: 80
+ Second point Y: 68
+ Third point X: 61
+ Third point Y: 90
+Triangle 
+ First point X: 62
+ First point Y: 19
+ Second point X: 27
+ Second point Y: 1
+ Third point X: 59
+ Third point Y: 33
+Triangle 
+ First point X: 79
+ First point Y: 1
+ Second point X: 22
+ Second point Y: 100
+ Third point X: 65
+ Third point Y: 35
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 19
+ Right Bottom X: 124
+ Right Bottom Y: 16
+Triangle 
+ First point X: 20
+ First point Y: 8
+ Second point X: 34
+ Second point Y: 74
+ Third point X: 48
+ Third point Y: 100
+Triangle 
+ First point X: 4
+ First point Y: 89
+ Second point X: 32
+ Second point Y: 27
+ Third point X: 29
+ Third point Y: 54
+Rectangle: 
+ Left Top X: 24
+ Left Top Y: 114
+ Right Bottom X: 43
+ Right Bottom Y: 99
+Rectangle: 
+ Left Top X: 97
+ Left Top Y: 6
+ Right Bottom X: 169
+ Right Bottom Y: 2
+Rectangle: 
+ Left Top X: 76
+ Left Top Y: 57
+ Right Bottom X: 112
+ Right Bottom Y: 49
+Triangle 
+ First point X: 64
+ First point Y: 31
+ Second point X: 20
+ Second point Y: 63
+ Third point X: 15
+ Third point Y: 80
+Triangle 
+ First point X: 59
+ First point Y: 78
+ Second point X: 59
+ Second point Y: 29
+ Third point X: 47
+ Third point Y: 0
+Triangle 
+ First point X: 63
+ First point Y: 50
+ Second point X: 35
+ Second point Y: 55
+ Third point X: 86
+ Third point Y: 67
+Triangle 
+ First point X: 73
+ First point Y: 84
+ Second point X: 45
+ Second point Y: 13
+ Third point X: 40
+ Third point Y: 22
+Rectangle: 
+ Left Top X: 58
+ Left Top Y: 99
+ Right Bottom X: 65
+ Right Bottom Y: 55
+Rectangle: 
+ Left Top X: 46
+ Left Top Y: 103
+ Right Bottom X: 51
+ Right Bottom Y: 41
+Triangle 
+ First point X: 62
+ First point Y: 23
+ Second point X: 62
+ Second point Y: 71
+ Third point X: 75
+ Third point Y: 54
+Triangle 
+ First point X: 98
+ First point Y: 43
+ Second point X: 80
+ Second point Y: 39
+ Third point X: 97
+ Third point Y: 8
+Circle: 
+ X: 87
+ Y: 93
+ Radius: 10
+Circle: 
+ X: 28
+ Y: 82
+ Radius: 10
+Circle: 
+ X: 19
+ Y: 92
+ Radius: 10
+Circle: 
+ X: 76
+ Y: 38
+ Radius: 10
+Circle: 
+ X: 81
+ Y: 62
+ Radius: 10
+Circle: 
+ X: 2
+ Y: 37
+ Radius: 10
+Circle: 
+ X: 16
+ Y: 78
+ Radius: 10
+Circle: 
+ X: 8
+ Y: 53
+ Radius: 10
+Circle: 
+ X: 25
+ Y: 76
+ Radius: 10
+Circle: 
+ X: 3
+ Y: 3
+ Radius: 10
+Circle: 
+ X: 83
+ Y: 72
+ Radius: 10
+Circle: 
+ X: 94
+ Y: 6
+ Radius: 10
+Circle: 
+ X: 51
+ Y: 10
+ Radius: 10
+Circle: 
+ X: 17
+ Y: 70
+ Radius: 10
+Circle: 
+ X: 82
+ Y: 53
+ Radius: 10
+Circle: 
+ X: 41
+ Y: 16
+ Radius: 10
+Circle: 
+ X: 28
+ Y: 17
+ Radius: 10
+Circle: 
+ X: 56
+ Y: 87
+ Radius: 10
+Circle: 
+ X: 59
+ Y: 85
+ Radius: 10
+Triangle 
+ First point X: 23
+ First point Y: 35
+ Second point X: 61
+ Second point Y: 69
+ Third point X: 55
+ Third point Y: 47
+Rectangle: 
+ Left Top X: 8
+ Left Top Y: 125
+ Right Bottom X: 12
+ Right Bottom Y: 46
+Triangle 
+ First point X: 0
+ First point Y: 91
+ Second point X: 98
+ Second point Y: 40
+ Third point X: 51
+ Third point Y: 58
+Triangle 
+ First point X: 23
+ First point Y: 15
+ Second point X: 53
+ Second point Y: 83
+ Third point X: 41
+ Third point Y: 77
+Triangle 
+ First point X: 86
+ First point Y: 30
+ Second point X: 57
+ Second point Y: 76
+ Third point X: 85
+ Third point Y: 54
+Triangle 
+ First point X: 91
+ First point Y: 37
+ Second point X: 69
+ Second point Y: 3
+ Third point X: 49
+ Third point Y: 2
+Triangle 
+ First point X: 68
+ First point Y: 75
+ Second point X: 74
+ Second point Y: 21
+ Third point X: 85
+ Third point Y: 32
+Triangle 
+ First point X: 30
+ First point Y: 58
+ Second point X: 93
+ Second point Y: 79
+ Third point X: 40
+ Third point Y: 72
+Triangle 
+ First point X: 18
+ First point Y: 54
+ Second point X: 72
+ Second point Y: 87
+ Third point X: 73
+ Third point Y: 75
+Triangle 
+ First point X: 37
+ First point Y: 3
+ Second point X: 50
+ Second point Y: 27
+ Third point X: 94
+ Third point Y: 55
+Triangle 
+ First point X: 22
+ First point Y: 20
+ Second point X: 12
+ Second point Y: 25
+ Third point X: 1
+ Third point Y: 100
+Triangle 
+ First point X: 84
+ First point Y: 58
+ Second point X: 59
+ Second point Y: 5
+ Third point X: 67
+ Third point Y: 50
+Triangle 
+ First point X: 100
+ First point Y: 45
+ Second point X: 69
+ Second point Y: 3
+ Third point X: 75
+ Third point Y: 34
+Triangle 
+ First point X: 16
+ First point Y: 43
+ Second point X: 30
+ Second point Y: 38
+ Third point X: 77
+ Third point Y: 72
+Triangle 
+ First point X: 70
+ First point Y: 52
+ Second point X: 16
+ Second point Y: 13
+ Third point X: 98
+ Third point Y: 59
+Triangle 
+ First point X: 3
+ First point Y: 75
+ Second point X: 72
+ Second point Y: 44
+ Third point X: 75
+ Third point Y: 53
+Rectangle: 
+ Left Top X: 100
+ Left Top Y: 108
+ Right Bottom X: 112
+ Right Bottom Y: 78
+Rectangle: 
+ Left Top X: 14
+ Left Top Y: 65
+ Right Bottom X: 88
+ Right Bottom Y: 60
+Triangle 
+ First point X: 40
+ First point Y: 10
+ Second point X: 39
+ Second point Y: 22
+ Third point X: 97
+ Third point Y: 79
+Triangle 
+ First point X: 26
+ First point Y: 97
+ Second point X: 35
+ Second point Y: 91
+ Third point X: 4
+ Third point Y: 28
+Triangle 
+ First point X: 11
+ First point Y: 41
+ Second point X: 40
+ Second point Y: 94
+ Third point X: 6
+ Third point Y: 58
+Triangle 
+ First point X: 36
+ First point Y: 73
+ Second point X: 7
+ Second point Y: 83
+ Third point X: 47
+ Third point Y: 43
+Circle: 
+ X: 13
+ Y: 94
+ Radius: 11
+Circle: 
+ X: 21
+ Y: 88
+ Radius: 11
+Circle: 
+ X: 26
+ Y: 16
+ Radius: 11
+Circle: 
+ X: 46
+ Y: 69
+ Radius: 11
+Circle: 
+ X: 69
+ Y: 44
+ Radius: 11
+Circle: 
+ X: 74
+ Y: 7
+ Radius: 11
+Circle: 
+ X: 93
+ Y: 42
+ Radius: 11
+Circle: 
+ X: 69
+ Y: 17
+ Radius: 11
+Circle: 
+ X: 65
+ Y: 99
+ Radius: 11
+Circle: 
+ X: 87
+ Y: 30
+ Radius: 11
+Circle: 
+ X: 52
+ Y: 23
+ Radius: 11
+Circle: 
+ X: 55
+ Y: 38
+ Radius: 11
+Circle: 
+ X: 50
+ Y: 84
+ Radius: 11
+Circle: 
+ X: 37
+ Y: 12
+ Radius: 11
+Circle: 
+ X: 22
+ Y: 33
+ Radius: 11
+Circle: 
+ X: 43
+ Y: 33
+ Radius: 11
+Circle: 
+ X: 79
+ Y: 25
+ Radius: 11
+Circle: 
+ X: 64
+ Y: 13
+ Radius: 11
+Circle: 
+ X: 45
+ Y: 26
+ Radius: 11
+Circle: 
+ X: 43
+ Y: 73
+ Radius: 11
+Circle: 
+ X: 95
+ Y: 16
+ Radius: 11
+Triangle 
+ First point X: 40
+ First point Y: 46
+ Second point X: 32
+ Second point Y: 3
+ Third point X: 63
+ Third point Y: 74
+Triangle 
+ First point X: 49
+ First point Y: 77
+ Second point X: 14
+ Second point Y: 78
+ Third point X: 52
+ Third point Y: 99
+Triangle 
+ First point X: 98
+ First point Y: 66
+ Second point X: 12
+ Second point Y: 30
+ Third point X: 98
+ Third point Y: 75
+Triangle 
+ First point X: 89
+ First point Y: 21
+ Second point X: 63
+ Second point Y: 8
+ Third point X: 29
+ Third point Y: 21
+Triangle 
+ First point X: 5
+ First point Y: 98
+ Second point X: 8
+ Second point Y: 42
+ Third point X: 19
+ Third point Y: 97
+Triangle 
+ First point X: 96
+ First point Y: 83
+ Second point X: 85
+ Second point Y: 72
+ Third point X: 96
+ Third point Y: 12
+Triangle 
+ First point X: 57
+ First point Y: 33
+ Second point X: 73
+ Second point Y: 95
+ Third point X: 74
+ Third point Y: 50
+Rectangle: 
+ Left Top X: 43
+ Left Top Y: 87
+ Right Bottom X: 92
+ Right Bottom Y: 79
+Rectangle: 
+ Left Top X: 94
+ Left Top Y: 110
+ Right Bottom X: 122
+ Right Bottom Y: 96
+Rectangle: 
+ Left Top X: 70
+ Left Top Y: 112
+ Right Bottom X: 81
+ Right Bottom Y: 76
+Triangle 
+ First point X: 35
+ First point Y: 82
+ Second point X: 45
+ Second point Y: 49
+ Third point X: 78
+ Third point Y: 20
+Triangle 
+ First point X: 45
+ First point Y: 21
+ Second point X: 62
+ Second point Y: 65
+ Third point X: 57
+ Third point Y: 5
+Rectangle: 
+ Left Top X: 77
+ Left Top Y: 38
+ Right Bottom X: 157
+ Right Bottom Y: 33
+Triangle 
+ First point X: 3
+ First point Y: 55
+ Second point X: 21
+ Second point Y: 39
+ Third point X: 66
+ Third point Y: 44
+Triangle 
+ First point X: 66
+ First point Y: 80
+ Second point X: 55
+ Second point Y: 96
+ Third point X: 14
+ Third point Y: 82
+Rectangle: 
+ Left Top X: 62
+ Left Top Y: 42
+ Right Bottom X: 130
+ Right Bottom Y: 36
+Triangle 
+ First point X: 44
+ First point Y: 18
+ Second point X: 11
+ Second point Y: 72
+ Third point X: 39
+ Third point Y: 51
+Rectangle: 
+ Left Top X: 88
+ Left Top Y: 103
+ Right Bottom X: 104
+ Right Bottom Y: 77
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 42
+ Right Bottom X: 95
+ Right Bottom Y: 26
+Rectangle: 
+ Left Top X: 89
+ Left Top Y: 37
+ Right Bottom X: 110
+ Right Bottom Y: 17
+Triangle 
+ First point X: 76
+ First point Y: 78
+ Second point X: 20
+ Second point Y: 78
+ Third point X: 36
+ Third point Y: 63
+Rectangle: 
+ Left Top X: 95
+ Left Top Y: 126
+ Right Bottom X: 104
+ Right Bottom Y: 79
+Triangle 
+ First point X: 54
+ First point Y: 19
+ Second point X: 4
+ Second point Y: 24
+ Third point X: 74
+ Third point Y: 34
+Rectangle: 
+ Left Top X: 74
+ Left Top Y: 61
+ Right Bottom X: 159
+ Right Bottom Y: 56
+Rectangle: 
+ Left Top X: 3
+ Left Top Y: 20
+ Right Bottom X: 74
+ Right Bottom Y: 14
+Triangle 
+ First point X: 87
+ First point Y: 61
+ Second point X: 45
+ Second point Y: 21
+ Third point X: 34
+ Third point Y: 31
+Triangle 
+ First point X: 35
+ First point Y: 24
+ Second point X: 71
+ Second point Y: 47
+ Third point X: 84
+ Third point Y: 31
+Triangle 
+ First point X: 55
+ First point Y: 39
+ Second point X: 61
+ Second point Y: 24
+ Third point X: 100
+ Third point Y: 73
+Rectangle: 
+ Left Top X: 64
+ Left Top Y: 94
+ Right Bottom X: 152
+ Right Bottom Y: 89
+Rectangle: 
+ Left Top X: 46
+ Left Top Y: 50
+ Right Bottom X: 109
+ Right Bottom Y: 43
+Triangle 
+ First point X: 88
+ First point Y: 64
+ Second point X: 15
+ Second point Y: 58
+ Third point X: 16
+ Third point Y: 46
+Triangle 
+ First point X: 99
+ First point Y: 63
+ Second point X: 69
+ Second point Y: 67
+ Third point X: 27
+ Third point Y: 43
+Triangle 
+ First point X: 85
+ First point Y: 41
+ Second point X: 29
+ Second point Y: 37
+ Third point X: 97
+ Third point Y: 26
+Triangle 
+ First point X: 93
+ First point Y: 14
+ Second point X: 81
+ Second point Y: 39
+ Third point X: 51
+ Third point Y: 27
+Triangle 
+ First point X: 36
+ First point Y: 12
+ Second point X: 67
+ Second point Y: 83
+ Third point X: 53
+ Third point Y: 80
+Triangle 
+ First point X: 21
+ First point Y: 89
+ Second point X: 48
+ Second point Y: 54
+ Third point X: 63
+ Third point Y: 68
+Circle: 
+ X: 20
+ Y: 63
+ Radius: 12
+Circle: 
+ X: 22
+ Y: 56
+ Radius: 12
+Circle: 
+ X: 85
+ Y: 73
+ Radius: 12
+Circle: 
+ X: 44
+ Y: 5
+ Radius: 12
+Circle: 
+ X: 14
+ Y: 58
+ Radius: 12
+Circle: 
+ X: 95
+ Y: 81
+ Radius: 12
+Circle: 
+ X: 78
+ Y: 38
+ Radius: 12
+Circle: 
+ X: 1
+ Y: 11
+ Radius: 12
+Circle: 
+ X: 4
+ Y: 99
+ Radius: 12
+Circle: 
+ X: 72
+ Y: 39
+ Radius: 12
+Circle: 
+ X: 92
+ Y: 11
+ Radius: 12
+Circle: 
+ X: 77
+ Y: 37
+ Radius: 12
+Circle: 
+ X: 33
+ Y: 92
+ Radius: 12
+Circle: 
+ X: 8
+ Y: 99
+ Radius: 12
+Triangle 
+ First point X: 58
+ First point Y: 49
+ Second point X: 45
+ Second point Y: 86
+ Third point X: 88
+ Third point Y: 34
+Triangle 
+ First point X: 83
+ First point Y: 60
+ Second point X: 56
+ Second point Y: 70
+ Third point X: 96
+ Third point Y: 21
+Rectangle: 
+ Left Top X: 75
+ Left Top Y: 70
+ Right Bottom X: 96
+ Right Bottom Y: 48
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 124
+ Right Bottom X: 97
+ Right Bottom Y: 98
+Rectangle: 
+ Left Top X: 47
+ Left Top Y: 68
+ Right Bottom X: 114
+ Right Bottom Y: 61
+Triangle 
+ First point X: 3
+ First point Y: 46
+ Second point X: 27
+ Second point Y: 73
+ Third point X: 72
+ Third point Y: 84
+Rectangle: 
+ Left Top X: 24
+ Left Top Y: 112
+ Right Bottom X: 36
+ Right Bottom Y: 72
+Rectangle: 
+ Left Top X: 63
+ Left Top Y: 92
+ Right Bottom X: 111
+ Right Bottom Y: 82
+Triangle 
+ First point X: 68
+ First point Y: 67
+ Second point X: 69
+ Second point Y: 3
+ Third point X: 54
+ Third point Y: 1
+Triangle 
+ First point X: 52
+ First point Y: 17
+ Second point X: 68
+ Second point Y: 38
+ Third point X: 60
+ Third point Y: 88
+Triangle 
+ First point X: 35
+ First point Y: 53
+ Second point X: 80
+ Second point Y: 44
+ Third point X: 95
+ Third point Y: 63
+Triangle 
+ First point X: 75
+ First point Y: 33
+ Second point X: 13
+ Second point Y: 10
+ Third point X: 85
+ Third point Y: 53
+Triangle 
+ First point X: 73
+ First point Y: 57
+ Second point X: 21
+ Second point Y: 70
+ Third point X: 26
+ Third point Y: 49
+Triangle 
+ First point X: 63
+ First point Y: 87
+ Second point X: 60
+ Second point Y: 39
+ Third point X: 84
+ Third point Y: 80
+Triangle 
+ First point X: 50
+ First point Y: 25
+ Second point X: 99
+ Second point Y: 27
+ Third point X: 4
+ Third point Y: 2
+Rectangle: 
+ Left Top X: 77
+ Left Top Y: 123
+ Right Bottom X: 91
+ Right Bottom Y: 86
+Triangle 
+ First point X: 79
+ First point Y: 16
+ Second point X: 66
+ Second point Y: 22
+ Third point X: 84
+ Third point Y: 94
+Triangle 
+ First point X: 76
+ First point Y: 78
+ Second point X: 50
+ Second point Y: 17
+ Third point X: 71
+ Third point Y: 26
+Triangle 
+ First point X: 27
+ First point Y: 49
+ Second point X: 29
+ Second point Y: 33
+ Third point X: 97
+ Third point Y: 13
+Triangle 
+ First point X: 73
+ First point Y: 49
+ Second point X: 16
+ Second point Y: 26
+ Third point X: 57
+ Third point Y: 61
+Rectangle: 
+ Left Top X: 36
+ Left Top Y: 25
+ Right Bottom X: 80
+ Right Bottom Y: 13
+Circle: 
+ X: 43
+ Y: 15
+ Radius: 13
+Circle: 
+ X: 64
+ Y: 2
+ Radius: 13
+Circle: 
+ X: 98
+ Y: 75
+ Radius: 13
+Circle: 
+ X: 82
+ Y: 42
+ Radius: 13
+Circle: 
+ X: 57
+ Y: 61
+ Radius: 13
+Circle: 
+ X: 72
+ Y: 46
+ Radius: 13
+Circle: 
+ X: 62
+ Y: 35
+ Radius: 13
+Circle: 
+ X: 68
+ Y: 25
+ Radius: 13
+Circle: 
+ X: 78
+ Y: 1
+ Radius: 13
+Circle: 
+ X: 81
+ Y: 49
+ Radius: 13
+Circle: 
+ X: 53
+ Y: 98
+ Radius: 13
+Circle: 
+ X: 43
+ Y: 74
+ Radius: 13
+Circle: 
+ X: 96
+ Y: 14
+ Radius: 13
+Circle: 
+ X: 33
+ Y: 70
+ Radius: 13
+Triangle 
+ First point X: 76
+ First point Y: 26
+ Second point X: 39
+ Second point Y: 79
+ Third point X: 42
+ Third point Y: 46
+Rectangle: 
+ Left Top X: 85
+ Left Top Y: 62
+ Right Bottom X: 104
+ Right Bottom Y: 34
+Triangle 
+ First point X: 4
+ First point Y: 42
+ Second point X: 12
+ Second point Y: 25
+ Third point X: 85
+ Third point Y: 3
+Triangle 
+ First point X: 21
+ First point Y: 5
+ Second point X: 67
+ Second point Y: 79
+ Third point X: 47
+ Third point Y: 70
+Triangle 
+ First point X: 46
+ First point Y: 76
+ Second point X: 11
+ Second point Y: 40
+ Third point X: 19
+ Third point Y: 79
+Triangle 
+ First point X: 33
+ First point Y: 46
+ Second point X: 41
+ Second point Y: 20
+ Third point X: 5
+ Third point Y: 2
+Triangle 
+ First point X: 53
+ First point Y: 58
+ Second point X: 44
+ Second point Y: 98
+ Third point X: 29
+ Third point Y: 44
+Rectangle: 
+ Left Top X: 37
+ Left Top Y: 74
+ Right Bottom X: 69
+ Right Bottom Y: 57
+Rectangle: 
+ Left Top X: 25
+ Left Top Y: 109
+ Right Bottom X: 48
+ Right Bottom Y: 85
+Triangle 
+ First point X: 48
+ First point Y: 59
+ Second point X: 80
+ Second point Y: 99
+ Third point X: 44
+ Third point Y: 89
+Triangle 
+ First point X: 65
+ First point Y: 55
+ Second point X: 19
+ Second point Y: 5
+ Third point X: 81
+ Third point Y: 48
+Triangle 
+ First point X: 45
+ First point Y: 61
+ Second point X: 67
+ Second point Y: 45
+ Third point X: 79
+ Third point Y: 88
+Rectangle: 
+ Left Top X: 21
+ Left Top Y: 172
+ Right Bottom X: 27
+ Right Bottom Y: 77
+Triangle 
+ First point X: 40
+ First point Y: 70
+ Second point X: 33
+ Second point Y: 98
+ Third point X: 88
+ Third point Y: 42
+Rectangle: 
+ Left Top X: 48
+ Left Top Y: 116
+ Right Bottom X: 84
+ Right Bottom Y: 100
+Rectangle: 
+ Left Top X: 2
+ Left Top Y: 124
+ Right Bottom X: 19
+ Right Bottom Y: 90
+Rectangle: 
+ Left Top X: 65
+ Left Top Y: 32
+ Right Bottom X: 94
+ Right Bottom Y: 12
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 80
+ Right Bottom X: 90
+ Right Bottom Y: 70
+Triangle 
+ First point X: 49
+ First point Y: 35
+ Second point X: 92
+ Second point Y: 27
+ Third point X: 41
+ Third point Y: 64
+Triangle 
+ First point X: 23
+ First point Y: 13
+ Second point X: 99
+ Second point Y: 48
+ Third point X: 29
+ Third point Y: 0
+Triangle 
+ First point X: 74
+ First point Y: 59
+ Second point X: 84
+ Second point Y: 77
+ Third point X: 8
+ Third point Y: 60
+Triangle 
+ First point X: 62
+ First point Y: 70
+ Second point X: 5
+ Second point Y: 98
+ Third point X: 31
+ Third point Y: 64
+Triangle 
+ First point X: 51
+ First point Y: 52
+ Second point X: 11
+ Second point Y: 65
+ Third point X: 84
+ Third point Y: 11
+Triangle 
+ First point X: 7
+ First point Y: 66
+ Second point X: 39
+ Second point Y: 55
+ Third point X: 63
+ Third point Y: 85
+Circle: 
+ X: 41
+ Y: 68
+ Radius: 14
+Circle: 
+ X: 39
+ Y: 9
+ Radius: 14
+Circle: 
+ X: 74
+ Y: 25
+ Radius: 14
+Circle: 
+ X: 59
+ Y: 89
+ Radius: 14
+Circle: 
+ X: 55
+ Y: 79
+ Radius: 14
+Circle: 
+ X: 37
+ Y: 99
+ Radius: 14
+Circle: 
+ X: 24
+ Y: 91
+ Radius: 14
+Circle: 
+ X: 59
+ Y: 34
+ Radius: 14
+Circle: 
+ X: 38
+ Y: 55
+ Radius: 14
+Circle: 
+ X: 92
+ Y: 82
+ Radius: 14
+Circle: 
+ X: 41
+ Y: 60
+ Radius: 14
+Circle: 
+ X: 1
+ Y: 75
+ Radius: 14
+Circle: 
+ X: 72
+ Y: 30
+ Radius: 14
+Circle: 
+ X: 81
+ Y: 43
+ Radius: 14
+Rectangle: 
+ Left Top X: 35
+ Left Top Y: 64
+ Right Bottom X: 91
+ Right Bottom Y: 53
+Rectangle: 
+ Left Top X: 19
+ Left Top Y: 102
+ Right Bottom X: 29
+ Right Bottom Y: 40
+Rectangle: 
+ Left Top X: 45
+ Left Top Y: 165
+ Right Bottom X: 52
+ Right Bottom Y: 76
+Rectangle: 
+ Left Top X: 72
+ Left Top Y: 39
+ Right Bottom X: 90
+ Right Bottom Y: 4
+Rectangle: 
+ Left Top X: 3
+ Left Top Y: 102
+ Right Bottom X: 11
+ Right Bottom Y: 23
+Triangle 
+ First point X: 13
+ First point Y: 28
+ Second point X: 95
+ Second point Y: 58
+ Third point X: 22
+ Third point Y: 47
+Rectangle: 
+ Left Top X: 10
+ Left Top Y: 31
+ Right Bottom X: 56
+ Right Bottom Y: 17
+Triangle 
+ First point X: 42
+ First point Y: 72
+ Second point X: 30
+ Second point Y: 46
+ Third point X: 62
+ Third point Y: 8
+Rectangle: 
+ Left Top X: 28
+ Left Top Y: 112
+ Right Bottom X: 47
+ Right Bottom Y: 78
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 81
+ Right Bottom X: 50
+ Right Bottom Y: 47
+Triangle 
+ First point X: 6
+ First point Y: 39
+ Second point X: 33
+ Second point Y: 23
+ Third point X: 31
+ Third point Y: 73
+Triangle 
+ First point X: 76
+ First point Y: 34
+ Second point X: 5
+ Second point Y: 7
+ Third point X: 96
+ Third point Y: 23
+Rectangle: 
+ Left Top X: 99
+ Left Top Y: 136
+ Right Bottom X: 112
+ Right Bottom Y: 85
+Rectangle: 
+ Left Top X: 59
+ Left Top Y: 25
+ Right Bottom X: 142
+ Right Bottom Y: 17
+Triangle 
+ First point X: 62
+ First point Y: 51
+ Second point X: 3
+ Second point Y: 47
+ Third point X: 70
+ Third point Y: 29
+Triangle 
+ First point X: 74
+ First point Y: 16
+ Second point X: 65
+ Second point Y: 91
+ Third point X: 87
+ Third point Y: 56
+Rectangle: 
+ Left Top X: 94
+ Left Top Y: 146
+ Right Bottom X: 101
+ Right Bottom Y: 50
+Rectangle: 
+ Left Top X: 92
+ Left Top Y: 102
+ Right Bottom X: 176
+ Right Bottom Y: 94
+Triangle 
+ First point X: 39
+ First point Y: 28
+ Second point X: 49
+ Second point Y: 85
+ Third point X: 11
+ Third point Y: 3
+Triangle 
+ First point X: 24
+ First point Y: 74
+ Second point X: 39
+ Second point Y: 28
+ Third point X: 18
+ Third point Y: 2
+Rectangle: 
+ Left Top X: 83
+ Left Top Y: 115
+ Right Bottom X: 91
+ Right Bottom Y: 29
+Triangle 
+ First point X: 37
+ First point Y: 49
+ Second point X: 11
+ Second point Y: 73
+ Third point X: 41
+ Third point Y: 99
+Triangle 
+ First point X: 90
+ First point Y: 93
+ Second point X: 88
+ Second point Y: 3
+ Third point X: 73
+ Third point Y: 27
+Triangle 
+ First point X: 68
+ First point Y: 45
+ Second point X: 81
+ Second point Y: 97
+ Third point X: 89
+ Third point Y: 21
+Triangle 
+ First point X: 18
+ First point Y: 87
+ Second point X: 7
+ Second point Y: 33
+ Third point X: 40
+ Third point Y: 67
+Circle: 
+ X: 23
+ Y: 25
+ Radius: 15
+Circle: 
+ X: 31
+ Y: 36
+ Radius: 15
+Circle: 
+ X: 25
+ Y: 51
+ Radius: 15
+Circle: 
+ X: 84
+ Y: 81
+ Radius: 15
+Circle: 
+ X: 78
+ Y: 54
+ Radius: 15
+Circle: 
+ X: 0
+ Y: 36
+ Radius: 15
+Circle: 
+ X: 67
+ Y: 60
+ Radius: 15
+Circle: 
+ X: 33
+ Y: 17
+ Radius: 15
+Circle: 
+ X: 31
+ Y: 9
+ Radius: 15
+Circle: 
+ X: 77
+ Y: 77
+ Radius: 15
+Circle: 
+ X: 2
+ Y: 36
+ Radius: 15
+Circle: 
+ X: 61
+ Y: 86
+ Radius: 15
+Circle: 
+ X: 65
+ Y: 100
+ Radius: 15
+Circle: 
+ X: 51
+ Y: 26
+ Radius: 15
+Circle: 
+ X: 47
+ Y: 20
+ Radius: 15
+Triangle 
+ First point X: 27
+ First point Y: 77
+ Second point X: 68
+ Second point Y: 66
+ Third point X: 96
+ Third point Y: 24
+Triangle 
+ First point X: 91
+ First point Y: 44
+ Second point X: 20
+ Second point Y: 71
+ Third point X: 7
+ Third point Y: 56
+Triangle 
+ First point X: 71
+ First point Y: 90
+ Second point X: 94
+ Second point Y: 33
+ Third point X: 100
+ Third point Y: 80
+Triangle 
+ First point X: 4
+ First point Y: 86
+ Second point X: 49
+ Second point Y: 26
+ Third point X: 22
+ Third point Y: 30
+Rectangle: 
+ Left Top X: 99
+ Left Top Y: 14
+ Right Bottom X: 179
+ Right Bottom Y: 5
+Triangle 
+ First point X: 47
+ First point Y: 52
+ Second point X: 99
+ Second point Y: 64
+ Third point X: 72
+ Third point Y: 30
+Triangle 
+ First point X: 52
+ First point Y: 52
+ Second point X: 76
+ Second point Y: 78
+ Third point X: 7
+ Third point Y: 64
+Triangle 
+ First point X: 42
+ First point Y: 3
+ Second point X: 45
+ Second point Y: 56
+ Third point X: 74
+ Third point Y: 82
+Triangle 
+ First point X: 25
+ First point Y: 13
+ Second point X: 77
+ Second point Y: 0
+ Third point X: 79
+ Third point Y: 28
+Triangle 
+ First point X: 28
+ First point Y: 36
+ Second point X: 39
+ Second point Y: 20
+ Third point X: 80
+ Third point Y: 96
+Triangle 
+ First point X: 22
+ First point Y: 71
+ Second point X: 92
+ Second point Y: 26
+ Third point X: 18
+ Third point Y: 95
+Rectangle: 
+ Left Top X: 80
+ Left Top Y: 82
+ Right Bottom X: 101
+ Right Bottom Y: 46
+Triangle 
+ First point X: 100
+ First point Y: 20
+ Second point X: 39
+ Second point Y: 14
+ Third point X: 0
+ Third point Y: 35
+Triangle 
+ First point X: 45
+ First point Y: 63
+ Second point X: 41
+ Second point Y: 17
+ Third point X: 80
+ Third point Y: 86
+Rectangle: 
+ Left Top X: 100
+ Left Top Y: 90
+ Right Bottom X: 110
+ Right Bottom Y: 14
+Triangle 
+ First point X: 0
+ First point Y: 0
+ Second point X: 9
+ Second point Y: 71
+ Third point X: 28
+ Third point Y: 50
+Triangle 
+ First point X: 78
+ First point Y: 3
+ Second point X: 46
+ Second point Y: 65
+ Third point X: 92
+ Third point Y: 24
+Triangle 
+ First point X: 94
+ First point Y: 14
+ Second point X: 97
+ Second point Y: 88
+ Third point X: 73
+ Third point Y: 14
+Triangle 
+ First point X: 92
+ First point Y: 95
+ Second point X: 66
+ Second point Y: 81
+ Third point X: 43
+ Third point Y: 8
+Triangle 
+ First point X: 84
+ First point Y: 42
+ Second point X: 25
+ Second point Y: 76
+ Third point X: 22
+ Third point Y: 51
+Rectangle: 
+ Left Top X: 5
+ Left Top Y: 80
+ Right Bottom X: 15
+ Right Bottom Y: 1
+Rectangle: 
+ Left Top X: 38
+ Left Top Y: 132
+ Right Bottom X: 56
+ Right Bottom Y: 88
+Triangle 
+ First point X: 37
+ First point Y: 94
+ Second point X: 16
+ Second point Y: 13
+ Third point X: 38
+ Third point Y: 22
+Circle: 
+ X: 57
+ Y: 85
+ Radius: 16
+Circle: 
+ X: 99
+ Y: 22
+ Radius: 16
+Circle: 
+ X: 17
+ Y: 50
+ Radius: 16
+Circle: 
+ X: 2
+ Y: 18
+ Radius: 16
+Circle: 
+ X: 95
+ Y: 62
+ Radius: 16
+Circle: 
+ X: 8
+ Y: 6
+ Radius: 16
+Circle: 
+ X: 4
+ Y: 84
+ Radius: 16
+Circle: 
+ X: 91
+ Y: 46
+ Radius: 16
+Circle: 
+ X: 17
+ Y: 61
+ Radius: 16
+Circle: 
+ X: 84
+ Y: 61
+ Radius: 16
+Circle: 
+ X: 41
+ Y: 92
+ Radius: 16
+Circle: 
+ X: 9
+ Y: 52
+ Radius: 16
+Circle: 
+ X: 78
+ Y: 37
+ Radius: 16
+Circle: 
+ X: 54
+ Y: 31
+ Radius: 16
+Circle: 
+ X: 33
+ Y: 64
+ Radius: 16
+Rectangle: 
+ Left Top X: 84
+ Left Top Y: 83
+ Right Bottom X: 115
+ Right Bottom Y: 57
+Triangle 
+ First point X: 71
+ First point Y: 57
+ Second point X: 13
+ Second point Y: 19
+ Third point X: 90
+ Third point Y: 41
+Rectangle: 
+ Left Top X: 43
+ Left Top Y: 34
+ Right Bottom X: 135
+ Right Bottom Y: 25
+Triangle 
+ First point X: 0
+ First point Y: 30
+ Second point X: 65
+ Second point Y: 13
+ Third point X: 9
+ Third point Y: 2
+Triangle 
+ First point X: 85
+ First point Y: 58
+ Second point X: 10
+ Second point Y: 32
+ Third point X: 80
+ Third point Y: 34
+Triangle 
+ First point X: 9
+ First point Y: 91
+ Second point X: 73
+ Second point Y: 68
+ Third point X: 28
+ Third point Y: 58
+Triangle 
+ First point X: 11
+ First point Y: 18
+ Second point X: 75
+ Second point Y: 92
+ Third point X: 26
+ Third point Y: 9
+Triangle 
+ First point X: 53
+ First point Y: 95
+ Second point X: 77
+ Second point Y: 87
+ Third point X: 10
+ Third point Y: 39
+Triangle 
+ First point X: 75
+ First point Y: 19
+ Second point X: 20
+ Second point Y: 37
+ Third point X: 53
+ Third point Y: 57
+Rectangle: 
+ Left Top X: 80
+ Left Top Y: 47
+ Right Bottom X: 133
+ Right Bottom Y: 31
+Rectangle: 
+ Left Top X: 14
+ Left Top Y: 109
+ Right Bottom X: 75
+ Right Bottom Y: 95
+Triangle 
+ First point X: 65
+ First point Y: 59
+ Second point X: 8
+ Second point Y: 59
+ Third point X: 0
+ Third point Y: 89
+Rectangle: 
+ Left Top X: 99
+ Left Top Y: 42
+ Right Bottom X: 144
+ Right Bottom Y: 23
+Triangle 
+ First point X: 6
+ First point Y: 71
+ Second point X: 27
+ Second point Y: 81
+ Third point X: 100
+ Third point Y: 34
+Triangle 
+ First point X: 0
+ First point Y: 63
+ Second point X: 7
+ Second point Y: 22
+ Third point X: 45
+ Third point Y: 47
+Triangle 
+ First point X: 49
+ First point Y: 22
+ Second point X: 70
+ Second point Y: 100
+ Third point X: 66
+ Third point Y: 2
+Triangle 
+ First point X: 5
+ First point Y: 55
+ Second point X: 25
+ Second point Y: 76
+ Third point X: 95
+ Third point Y: 61
+Triangle 
+ First point X: 27
+ First point Y: 21
+ Second point X: 11
+ Second point Y: 93
+ Third point X: 56
+ Third point Y: 2
+Rectangle: 
+ Left Top X: 53
+ Left Top Y: 56
+ Right Bottom X: 82
+ Right Bottom Y: 25
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 108
+ Right Bottom X: 74
+ Right Bottom Y: 87
+Circle: 
+ X: 99
+ Y: 59
+ Radius: 17
+Circle: 
+ X: 45
+ Y: 15
+ Radius: 17
+Circle: 
+ X: 81
+ Y: 33
+ Radius: 17
+Circle: 
+ X: 10
+ Y: 60
+ Radius: 17
+Circle: 
+ X: 98
+ Y: 80
+ Radius: 17
+Circle: 
+ X: 8
+ Y: 21
+ Radius: 17
+Circle: 
+ X: 73
+ Y: 92
+ Radius: 17
+Circle: 
+ X: 23
+ Y: 11
+ Radius: 17
+Circle: 
+ X: 29
+ Y: 77
+ Radius: 17
+Circle: 
+ X: 25
+ Y: 87
+ Radius: 17
+Circle: 
+ X: 86
+ Y: 99
+ Radius: 17
+Circle: 
+ X: 38
+ Y: 7
+ Radius: 17
+Circle: 
+ X: 23
+ Y: 15
+ Radius: 17
+Circle: 
+ X: 68
+ Y: 81
+ Radius: 17
+Circle: 
+ X: 98
+ Y: 92
+ Radius: 17
+Triangle 
+ First point X: 49
+ First point Y: 78
+ Second point X: 20
+ Second point Y: 95
+ Third point X: 41
+ Third point Y: 20
+Rectangle: 
+ Left Top X: 57
+ Left Top Y: 121
+ Right Bottom X: 70
+ Right Bottom Y: 51
+Rectangle: 
+ Left Top X: 0
+ Left Top Y: 66
+ Right Bottom X: 48
+ Right Bottom Y: 47
+Triangle 
+ First point X: 7
+ First point Y: 55
+ Second point X: 70
+ Second point Y: 53
+ Third point X: 100
+ Third point Y: 23
+Rectangle: 
+ Left Top X: 13
+ Left Top Y: 66
+ Right Bottom X: 46
+ Right Bottom Y: 38
+Rectangle: 
+ Left Top X: 87
+ Left Top Y: 104
+ Right Bottom X: 108
+ Right Bottom Y: 60
+Triangle 
+ First point X: 7
+ First point Y: 27
+ Second point X: 49
+ Second point Y: 77
+ Third point X: 98
+ Third point Y: 91
+Triangle 
+ First point X: 43
+ First point Y: 19
+ Second point X: 80
+ Second point Y: 6
+ Third point X: 93
+ Third point Y: 52
+Triangle 
+ First point X: 18
+ First point Y: 83
+ Second point X: 62
+ Second point Y: 22
+ Third point X: 39
+ Third point Y: 11
+Rectangle: 
+ Left Top X: 43
+ Left Top Y: 110
+ Right Bottom X: 88
+ Right Bottom Y: 89
+Triangle 
+ First point X: 15
+ First point Y: 11
+ Second point X: 4
+ Second point Y: 33
+ Third point X: 92
+ Third point Y: 29
+Triangle 
+ First point X: 37
+ First point Y: 64
+ Second point X: 52
+ Second point Y: 87
+ Third point X: 90
+ Third point Y: 19
+Triangle 
+ First point X: 74
+ First point Y: 56
+ Second point X: 56
+ Second point Y: 1
+ Third point X: 27
+ Third point Y: 18
+Triangle 
+ First point X: 96
+ First point Y: 69
+ Second point X: 69
+ Second point Y: 38
+ Third point X: 38
+ Third point Y: 73
+Rectangle: 
+ Left Top X: 0
+ Left Top Y: 48
+ Right Bottom X: 31
+ Right Bottom Y: 17
+Triangle 
+ First point X: 59
+ First point Y: 57
+ Second point X: 17
+ Second point Y: 60
+ Third point X: 100
+ Third point Y: 8
+Triangle 
+ First point X: 76
+ First point Y: 99
+ Second point X: 98
+ Second point Y: 71
+ Third point X: 41
+ Third point Y: 54
+Triangle 
+ First point X: 26
+ First point Y: 77
+ Second point X: 78
+ Second point Y: 35
+ Third point X: 52
+ Third point Y: 94
+Triangle 
+ First point X: 80
+ First point Y: 32
+ Second point X: 39
+ Second point Y: 41
+ Third point X: 47
+ Third point Y: 88
+Triangle 
+ First point X: 52
+ First point Y: 31
+ Second point X: 83
+ Second point Y: 46
+ Third point X: 3
+ Third point Y: 72
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 161
+ Right Bottom X: 81
+ Right Bottom Y: 77
+Circle: 
+ X: 92
+ Y: 8
+ Radius: 18
+Circle: 
+ X: 22
+ Y: 26
+ Radius: 18
+Circle: 
+ X: 21
+ Y: 72
+ Radius: 18
+Circle: 
+ X: 87
+ Y: 96
+ Radius: 18
+Circle: 
+ X: 62
+ Y: 0
+ Radius: 18
+Circle: 
+ X: 52
+ Y: 67
+ Radius: 18
+Circle: 
+ X: 73
+ Y: 57
+ Radius: 18
+Circle: 
+ X: 92
+ Y: 89
+ Radius: 18
+Circle: 
+ X: 14
+ Y: 95
+ Radius: 18
+Circle: 
+ X: 16
+ Y: 95
+ Radius: 18
+Circle: 
+ X: 12
+ Y: 92
+ Radius: 18
+Circle: 
+ X: 77
+ Y: 36
+ Radius: 18
+Circle: 
+ X: 94
+ Y: 16
+ Radius: 18
+Circle: 
+ X: 95
+ Y: 22
+ Radius: 18
+Circle: 
+ X: 71
+ Y: 52
+ Radius: 18
+Circle: 
+ X: 54
+ Y: 89
+ Radius: 18
+Circle: 
+ X: 79
+ Y: 28
+ Radius: 18
+Triangle 
+ First point X: 74
+ First point Y: 94
+ Second point X: 98
+ Second point Y: 60
+ Third point X: 70
+ Third point Y: 14
+Rectangle: 
+ Left Top X: 94
+ Left Top Y: 26
+ Right Bottom X: 163
+ Right Bottom Y: 11
+Triangle 
+ First point X: 15
+ First point Y: 45
+ Second point X: 23
+ Second point Y: 90
+ Third point X: 60
+ Third point Y: 39
+Rectangle: 
+ Left Top X: 89
+ Left Top Y: 108
+ Right Bottom X: 125
+ Right Bottom Y: 79
+Triangle 
+ First point X: 30
+ First point Y: 76
+ Second point X: 85
+ Second point Y: 95
+ Third point X: 33
+ Third point Y: 39
+Triangle 
+ First point X: 11
+ First point Y: 8
+ Second point X: 42
+ Second point Y: 24
+ Third point X: 8
+ Third point Y: 74
+Triangle 
+ First point X: 37
+ First point Y: 61
+ Second point X: 98
+ Second point Y: 41
+ Third point X: 48
+ Third point Y: 23
+Rectangle: 
+ Left Top X: 0
+ Left Top Y: 140
+ Right Bottom X: 25
+ Right Bottom Y: 98
+Rectangle: 
+ Left Top X: 94
+ Left Top Y: 75
+ Right Bottom X: 121
+ Right Bottom Y: 36
+Triangle 
+ First point X: 7
+ First point Y: 79
+ Second point X: 90
+ Second point Y: 27
+ Third point X: 22
+ Third point Y: 44
+Triangle 
+ First point X: 11
+ First point Y: 88
+ Second point X: 33
+ Second point Y: 6
+ Third point X: 49
+ Third point Y: 43
+Rectangle: 
+ Left Top X: 21
+ Left Top Y: 62
+ Right Bottom X: 118
+ Right Bottom Y: 51
+Triangle 
+ First point X: 24
+ First point Y: 48
+ Second point X: 34
+ Second point Y: 79
+ Third point X: 98
+ Third point Y: 64
+Rectangle: 
+ Left Top X: 36
+ Left Top Y: 74
+ Right Bottom X: 99
+ Right Bottom Y: 57
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 28
+ Right Bottom X: 177
+ Right Bottom Y: 17
+Rectangle: 
+ Left Top X: 12
+ Left Top Y: 45
+ Right Bottom X: 39
+ Right Bottom Y: 5
+Triangle 
+ First point X: 21
+ First point Y: 7
+ Second point X: 80
+ Second point Y: 48
+ Third point X: 33
+ Third point Y: 52
+Rectangle: 
+ Left Top X: 32
+ Left Top Y: 67
+ Right Bottom X: 52
+ Right Bottom Y: 12
+Rectangle: 
+ Left Top X: 70
+ Left Top Y: 47
+ Right Bottom X: 108
+ Right Bottom Y: 18
+Triangle 
+ First point X: 57
+ First point Y: 4
+ Second point X: 28
+ Second point Y: 51
+ Third point X: 5
+ Third point Y: 11
+Rectangle: 
+ Left Top X: 95
+ Left Top Y: 44
+ Right Bottom X: 154
+ Right Bottom Y: 25
+Circle: 
+ X: 52
+ Y: 90
+ Radius: 19
+Circle: 
+ X: 33
+ Y: 0
+ Radius: 19
+Circle: 
+ X: 39
+ Y: 78
+ Radius: 19
+Circle: 
+ X: 88
+ Y: 51
+ Radius: 19
+Circle: 
+ X: 91
+ Y: 64
+ Radius: 19
+Circle: 
+ X: 45
+ Y: 39
+ Radius: 19
+Circle: 
+ X: 77
+ Y: 95
+ Radius: 19
+Circle: 
+ X: 14
+ Y: 67
+ Radius: 19
+Circle: 
+ X: 85
+ Y: 84
+ Radius: 19
+Circle: 
+ X: 40
+ Y: 81
+ Radius: 19
+Circle: 
+ X: 17
+ Y: 60
+ Radius: 19
+Circle: 
+ X: 43
+ Y: 62
+ Radius: 19
+Circle: 
+ X: 40
+ Y: 27
+ Radius: 19
+Circle: 
+ X: 97
+ Y: 48
+ Radius: 19
+Circle: 
+ X: 4
+ Y: 80
+ Radius: 19
+Circle: 
+ X: 90
+ Y: 7
+ Radius: 19
+Circle: 
+ X: 45
+ Y: 14
+ Radius: 19
+Circle: 
+ X: 1
+ Y: 87
+ Radius: 19
+Triangle 
+ First point X: 59
+ First point Y: 21
+ Second point X: 29
+ Second point Y: 80
+ Third point X: 27
+ Third point Y: 8
+Rectangle: 
+ Left Top X: 27
+ Left Top Y: 37
+ Right Bottom X: 62
+ Right Bottom Y: 4
+Rectangle: 
+ Left Top X: 25
+ Left Top Y: 110
+ Right Bottom X: 43
+ Right Bottom Y: 45
+Triangle 
+ First point X: 69
+ First point Y: 84
+ Second point X: 51
+ Second point Y: 31
+ Third point X: 25
+ Third point Y: 85
+Triangle 
+ First point X: 46
+ First point Y: 88
+ Second point X: 84
+ Second point Y: 49
+ Third point X: 32
+ Third point Y: 40
+Rectangle: 
+ Left Top X: 39
+ Left Top Y: 70
+ Right Bottom X: 124
+ Right Bottom Y: 56
+Triangle 
+ First point X: 4
+ First point Y: 2
+ Second point X: 97
+ Second point Y: 74
+ Third point X: 29
+ Third point Y: 47
+Triangle 
+ First point X: 82
+ First point Y: 59
+ Second point X: 12
+ Second point Y: 93
+ Third point X: 59
+ Third point Y: 36
+Triangle 
+ First point X: 38
+ First point Y: 23
+ Second point X: 3
+ Second point Y: 86
+ Third point X: 75
+ Third point Y: 25
+Triangle 
+ First point X: 85
+ First point Y: 40
+ Second point X: 79
+ Second point Y: 74
+ Third point X: 10
+ Third point Y: 64
+Triangle 
+ First point X: 34
+ First point Y: 15
+ Second point X: 25
+ Second point Y: 46
+ Third point X: 92
+ Third point Y: 84
+Triangle 
+ First point X: 27
+ First point Y: 83
+ Second point X: 61
+ Second point Y: 37
+ Third point X: 8
+ Third point Y: 37
+Triangle 
+ First point X: 1
+ First point Y: 76
+ Second point X: 66
+ Second point Y: 87
+ Third point X: 58
+ Third point Y: 48
+Rectangle: 
+ Left Top X: 84
+ Left Top Y: 138
+ Right Bottom X: 108
+ Right Bottom Y: 87
+Triangle 
+ First point X: 8
+ First point Y: 80
+ Second point X: 4
+ Second point Y: 52
+ Third point X: 92
+ Third point Y: 56
+Triangle 
+ First point X: 88
+ First point Y: 94
+ Second point X: 43
+ Second point Y: 47
+ Third point X: 29
+ Third point Y: 87
+Triangle 
+ First point X: 2
+ First point Y: 16
+ Second point X: 27
+ Second point Y: 49
+ Third point X: 89
+ Third point Y: 32
+Triangle 
+ First point X: 7
+ First point Y: 51
+ Second point X: 59
+ Second point Y: 46
+ Third point X: 57
+ Third point Y: 94
+Triangle 
+ First point X: 72
+ First point Y: 97
+ Second point X: 20
+ Second point Y: 28
+ Third point X: 41
+ Third point Y: 8
+Triangle 
+ First point X: 21
+ First point Y: 14
+ Second point X: 76
+ Second point Y: 59
+ Third point X: 74
+ Third point Y: 12
+Triangle 
+ First point X: 74
+ First point Y: 15
+ Second point X: 35
+ Second point Y: 47
+ Third point X: 63
+ Third point Y: 88
+Rectangle: 
+ Left Top X: 53
+ Left Top Y: 89
+ Right Bottom X: 91
+ Right Bottom Y: 56
+Circle: 
+ X: 53
+ Y: 30
+ Radius: 20
+Circle: 
+ X: 27
+ Y: 43
+ Radius: 20
+Circle: 
+ X: 64
+ Y: 73
+ Radius: 20
+Circle: 
+ X: 63
+ Y: 54
+ Radius: 20
+Circle: 
+ X: 89
+ Y: 89
+ Radius: 20
+Circle: 
+ X: 46
+ Y: 63
+ Radius: 20
+Circle: 
+ X: 49
+ Y: 63
+ Radius: 20
+Circle: 
+ X: 74
+ Y: 73
+ Radius: 20
+Circle: 
+ X: 59
+ Y: 64
+ Radius: 20
+Circle: 
+ X: 98
+ Y: 26
+ Radius: 20
+Circle: 
+ X: 8
+ Y: 1
+ Radius: 20
+Circle: 
+ X: 65
+ Y: 94
+ Radius: 20
+Circle: 
+ X: 22
+ Y: 15
+ Radius: 20
+Circle: 
+ X: 95
+ Y: 86
+ Radius: 20
+Circle: 
+ X: 80
+ Y: 22
+ Radius: 20
+Circle: 
+ X: 0
+ Y: 13
+ Radius: 20
+Circle: 
+ X: 60
+ Y: 0
+ Radius: 20
+Circle: 
+ X: 97
+ Y: 49
+ Radius: 20
+Circle: 
+ X: 76
+ Y: 41
+ Radius: 20
+Rectangle: 
+ Left Top X: 20
+ Left Top Y: 34
+ Right Bottom X: 104
+ Right Bottom Y: 19
+Rectangle: 
+ Left Top X: 12
+ Left Top Y: 83
+ Right Bottom X: 110
+ Right Bottom Y: 70
+Rectangle: 
+ Left Top X: 77
+ Left Top Y: 150
+ Right Bottom X: 102
+ Right Bottom Y: 99
+Triangle 
+ First point X: 94
+ First point Y: 95
+ Second point X: 64
+ Second point Y: 31
+ Third point X: 96
+ Third point Y: 14
+Rectangle: 
+ Left Top X: 88
+ Left Top Y: 193
+ Right Bottom X: 101
+ Right Bottom Y: 94
+Rectangle: 
+ Left Top X: 64
+ Left Top Y: 107
+ Right Bottom X: 94
+ Right Bottom Y: 64
+Triangle 
+ First point X: 6
+ First point Y: 30
+ Second point X: 10
+ Second point Y: 4
+ Third point X: 96
+ Third point Y: 91
+Rectangle: 
+ Left Top X: 56
+ Left Top Y: 39
+ Right Bottom X: 110
+ Right Bottom Y: 15
+Rectangle: 
+ Left Top X: 1
+ Left Top Y: 98
+ Right Bottom X: 43
+ Right Bottom Y: 67
+Triangle 
+ First point X: 77
+ First point Y: 57
+ Second point X: 10
+ Second point Y: 61
+ Third point X: 7
+ Third point Y: 22
+Triangle 
+ First point X: 85
+ First point Y: 28
+ Second point X: 35
+ Second point Y: 99
+ Third point X: 35
+ Third point Y: 46
+Rectangle: 
+ Left Top X: 38
+ Left Top Y: 86
+ Right Bottom X: 73
+ Right Bottom Y: 48
+Rectangle: 
+ Left Top X: 18
+ Left Top Y: 62
+ Right Bottom X: 47
+ Right Bottom Y: 16
+Triangle 
+ First point X: 62
+ First point Y: 4
+ Second point X: 30
+ Second point Y: 97
+ Third point X: 64
+ Third point Y: 82
+Rectangle: 
+ Left Top X: 92
+ Left Top Y: 99
+ Right Bottom X: 171
+ Right Bottom Y: 82
+Triangle 
+ First point X: 72
+ First point Y: 66
+ Second point X: 7
+ Second point Y: 86
+ Third point X: 77
+ Third point Y: 23
+Triangle 
+ First point X: 34
+ First point Y: 17
+ Second point X: 39
+ Second point Y: 85
+ Third point X: 80
+ Third point Y: 94
+Triangle 
+ First point X: 5
+ First point Y: 98
+ Second point X: 55
+ Second point Y: 57
+ Third point X: 21
+ Third point Y: 30
+Triangle 
+ First point X: 47
+ First point Y: 69
+ Second point X: 2
+ Second point Y: 37
+ Third point X: 3
+ Third point Y: 99
+Triangle 
+ First point X: 94
+ First point Y: 8
+ Second point X: 42
+ Second point Y: 77
+ Third point X: 23
+ Third point Y: 49
+Triangle 
+ First point X: 3
+ First point Y: 71
+ Second point X: 25
+ Second point Y: 9
+ Third point X: 64
+ Third point Y: 25
+Triangle 
+ First point X: 61
+ First point Y: 25
+ Second point X: 18
+ Second point Y: 74
+ Third point X: 26
+ Third point Y: 0
+Triangle 
+ First point X: 82
+ First point Y: 43
+ Second point X: 72
+ Second point Y: 95
+ Third point X: 25
+ Third point Y: 60
+Rectangle: 
+ Left Top X: 13
+ Left Top Y: 95
+ Right Bottom X: 113
+ Right Bottom Y: 81
+Rectangle: 
+ Left Top X: 29
+ Left Top Y: 95
+ Right Bottom X: 55
+ Right Bottom Y: 41
+Rectangle: 
+ Left Top X: 61
+ Left Top Y: 105
+ Right Bottom X: 113
+ Right Bottom Y: 78
+Triangle 
+ First point X: 35
+ First point Y: 93
+ Second point X: 60
+ Second point Y: 13
+ Third point X: 83
+ Third point Y: 52
+Triangle 
+ First point X: 86
+ First point Y: 3
+ Second point X: 13
+ Second point Y: 50
+ Third point X: 76
+ Third point Y: 48
+Triangle 
+ First point X: 10
+ First point Y: 36
+ Second point X: 29
+ Second point Y: 8
+ Third point X: 99
+ Third point Y: 53
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: 62
+ Right Bottom X: 74
+ Right Bottom Y: 34
+Triangle 
+ First point X: 70
+ First point Y: 50
+ Second point X: 1
+ Second point Y: 36
+ Third point X: 97
+ Third point Y: 97
+Rectangle: 
+ Left Top X: 16
+ Left Top Y: 90
+ Right Bottom X: 106
+ Right Bottom Y: 74
+Triangle 
+ First point X: 96
+ First point Y: 29
+ Second point X: 26
+ Second point Y: 92
+ Third point X: 91
+ Third point Y: 75
+Triangle 
+ First point X: 47
+ First point Y: 37
+ Second point X: 100
+ Second point Y: 32
+ Third point X: 57
+ Third point Y: 91
+Rectangle: 
+ Left Top X: 49
+ Left Top Y: 114
+ Right Bottom X: 122
+ Right Bottom Y: 94
+Triangle 
+ First point X: 39
+ First point Y: 14
+ Second point X: 0
+ Second point Y: 81
+ Third point X: 79
+ Third point Y: 22
+Rectangle: 
+ Left Top X: 86
+ Left Top Y: 133
+ Right Bottom X: 116
+ Right Bottom Y: 83
+Rectangle: 
+ Left Top X: 46
+ Left Top Y: 76
+ Right Bottom X: 73
+ Right Bottom Y: 20
+Rectangle: 
+ Left Top X: 7
+ Left Top Y: 133
+ Right Bottom X: 52
+ Right Bottom Y: 99
+Triangle 
+ First point X: 0
+ First point Y: 91
+ Second point X: 40
+ Second point Y: 53
+ Third point X: 89
+ Third point Y: 83
+Rectangle: 
+ Left Top X: 81
+ Left Top Y: 49
+ Right Bottom X: 154
+ Right Bottom Y: 28
+Rectangle: 
+ Left Top X: 60
+ Left Top Y: 137
+ Right Bottom X: 87
+ Right Bottom Y: 80
+Rectangle: 
+ Left Top X: 48
+ Left Top Y: 106
+ Right Bottom X: 81
+ Right Bottom Y: 59
+Triangle 
+ First point X: 44
+ First point Y: 37
+ Second point X: 98
+ Second point Y: 91
+ Third point X: 7
+ Third point Y: 58
+Triangle 
+ First point X: 92
+ First point Y: 66
+ Second point X: 27
+ Second point Y: 94
+ Third point X: 26
+ Third point Y: 46
+Triangle 
+ First point X: 15
+ First point Y: 19
+ Second point X: 69
+ Second point Y: 18
+ Third point X: 37
+ Third point Y: 77
+Rectangle: 
+ Left Top X: 22
+ Left Top Y: 20
+ Right Bottom X: 101
+ Right Bottom Y: 0
+Rectangle: 
+ Left Top X: 73
+ Left Top Y: 80
+ Right Bottom X: 97
+ Right Bottom Y: 14
+Rectangle: 
+ Left Top X: 84
+ Left Top Y: 142
+ Right Bottom X: 103
+ Right Bottom Y: 58
+Rectangle: 
+ Left Top X: 15
+ Left Top Y: 62
+ Right Bottom X: 91
+ Right Bottom Y: 41
+Triangle 
+ First point X: 87
+ First point Y: 76
+ Second point X: 31
+ Second point Y: 64
+ Third point X: 79
+ Third point Y: 17
+Triangle 
+ First point X: 42
+ First point Y: 15
+ Second point X: 90
+ Second point Y: 40
+ Third point X: 32
+ Third point Y: 77
+Rectangle: 
+ Left Top X: 58
+ Left Top Y: 34
+ Right Bottom X: 114
+ Right Bottom Y: 5
+Triangle 
+ First point X: 38
+ First point Y: 91
+ Second point X: 37
+ Second point Y: 4
+ Third point X: 0
+ Third point Y: 56
+Rectangle: 
+ Left Top X: 21
+ Left Top Y: 113
+ Right Bottom X: 47
+ Right Bottom Y: 50
+Rectangle: 
+ Left Top X: 33
+ Left Top Y: 33
+ Right Bottom X: 102
+ Right Bottom Y: 9
+Rectangle: 
+ Left Top X: 57
+ Left Top Y: 122
+ Right Bottom X: 113
+ Right Bottom Y: 92
+Triangle 
+ First point X: 100
+ First point Y: 65
+ Second point X: 40
+ Second point Y: 93
+ Third point X: 74
+ Third point Y: 21
+Triangle 
+ First point X: 21
+ First point Y: 25
+ Second point X: 85
+ Second point Y: 84
+ Third point X: 83
+ Third point Y: 28
+Rectangle: 
+ Left Top X: 67
+ Left Top Y: 120
+ Right Bottom X: 86
+ Right Bottom Y: 28
+Rectangle: 
+ Left Top X: 21
+ Left Top Y: 145
+ Right Bottom X: 54
+ Right Bottom Y: 92
+Triangle 
+ First point X: 69
+ First point Y: 68
+ Second point X: 17
+ Second point Y: 33
+ Third point X: 6
+ Third point Y: 93
+Triangle 
+ First point X: 7
+ First point Y: 25
+ Second point X: 85
+ Second point Y: 92
+ Third point X: 42
+ Third point Y: 100
+Triangle 
+ First point X: 97
+ First point Y: 72
+ Second point X: 57
+ Second point Y: 26
+ Third point X: 37
+ Third point Y: 91
+Triangle 
+ First point X: 8
+ First point Y: 78
+ Second point X: 91
+ Second point Y: 80
+ Third point X: 67
+ Third point Y: 37
+Triangle 
+ First point X: 96
+ First point Y: 80
+ Second point X: 55
+ Second point Y: 41
+ Third point X: 25
+ Third point Y: 99
+Rectangle: 
+ Left Top X: 39
+ Left Top Y: 163
+ Right Bottom X: 66
+ Right Bottom Y: 97
+Rectangle: 
+ Left Top X: 81
+ Left Top Y: 109
+ Right Bottom X: 120
+ Right Bottom Y: 63
+Rectangle: 
+ Left Top X: 50
+ Left Top Y: 120
+ Right Bottom X: 70
+ Right Bottom Y: 30
+Rectangle: 
+ Left Top X: 98
+ Left Top Y: 147
+ Right Bottom X: 119
+ Right Bottom Y: 61
+Rectangle: 
+ Left Top X: 28
+ Left Top Y: 62
+ Right Bottom X: 61
+ Right Bottom Y: 7
+Rectangle: 
+ Left Top X: 18
+ Left Top Y: 125
+ Right Bottom X: 46
+ Right Bottom Y: 60
+Rectangle: 
+ Left Top X: 70
+ Left Top Y: 122
+ Right Bottom X: 153
+ Right Bottom Y: 100
+Triangle 
+ First point X: 32
+ First point Y: 25
+ Second point X: 75
+ Second point Y: 96
+ Third point X: 82
+ Third point Y: 22
+Rectangle: 
+ Left Top X: 21
+ Left Top Y: 95
+ Right Bottom X: 58
+ Right Bottom Y: 45
+Triangle 
+ First point X: 0
+ First point Y: 21
+ Second point X: 39
+ Second point Y: 84
+ Third point X: 81
+ Third point Y: 56
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 161
+ Right Bottom X: 88
+ Right Bottom Y: 62
+Triangle 
+ First point X: 95
+ First point Y: 27
+ Second point X: 18
+ Second point Y: 45
+ Third point X: 61
+ Third point Y: 84
+Rectangle: 
+ Left Top X: 91
+ Left Top Y: 115
+ Right Bottom X: 159
+ Right Bottom Y: 87
+Rectangle: 
+ Left Top X: 54
+ Left Top Y: 82
+ Right Bottom X: 141
+ Right Bottom Y: 60
+Rectangle: 
+ Left Top X: 89
+ Left Top Y: 111
+ Right Bottom X: 119
+ Right Bottom Y: 47
+Rectangle: 
+ Left Top X: 57
+ Left Top Y: 165
+ Right Bottom X: 78
+ Right Bottom Y: 72
+Rectangle: 
+ Left Top X: 96
+ Left Top Y: 104
+ Right Bottom X: 185
+ Right Bottom Y: 82
+Rectangle: 
+ Left Top X: 32
+ Left Top Y: 102
+ Right Bottom X: 102
+ Right Bottom Y: 74
+Rectangle: 
+ Left Top X: 53
+ Left Top Y: 52
+ Right Bottom X: 94
+ Right Bottom Y: 4
+Triangle 
+ First point X: 15
+ First point Y: 17
+ Second point X: 43
+ Second point Y: 83
+ Third point X: 88
+ Third point Y: 48
+Rectangle: 
+ Left Top X: 76
+ Left Top Y: 110
+ Right Bottom X: 136
+ Right Bottom Y: 77
+Rectangle: 
+ Left Top X: 4
+ Left Top Y: 130
+ Right Bottom X: 54
+ Right Bottom Y: 90
+Rectangle: 
+ Left Top X: 44
+ Left Top Y: 150
+ Right Bottom X: 67
+ Right Bottom Y: 63
+Triangle 
+ First point X: 97
+ First point Y: 42
+ Second point X: 14
+ Second point Y: 54
+ Third point X: 94
+ Third point Y: 91
+Rectangle: 
+ Left Top X: 28
+ Left Top Y: 122
+ Right Bottom X: 68
+ Right Bottom Y: 71
+Triangle 
+ First point X: 6
+ First point Y: 100
+ Second point X: 84
+ Second point Y: 54
+ Third point X: 32
+ Third point Y: 32
+Triangle 
+ First point X: 96
+ First point Y: 99
+ Second point X: 95
+ Second point Y: 8
+ Third point X: 50
+ Third point Y: 61
+Triangle 
+ First point X: 98
+ First point Y: 51
+ Second point X: 4
+ Second point Y: 47
+ Third point X: 33
+ Third point Y: 4
+Rectangle: 
+ Left Top X: 36
+ Left Top Y: 115
+ Right Bottom X: 108
+ Right Bottom Y: 86
+Rectangle: 
+ Left Top X: 40
+ Left Top Y: 136
+ Right Bottom X: 78
+ Right Bottom Y: 81
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 75
+ Right Bottom X: 123
+ Right Bottom Y: 36
+Rectangle: 
+ Left Top X: 9
+ Left Top Y: 66
+ Right Bottom X: 43
+ Right Bottom Y: 3
+Rectangle: 
+ Left Top X: 58
+ Left Top Y: 87
+ Right Bottom X: 133
+ Right Bottom Y: 58
+Rectangle: 
+ Left Top X: 86
+ Left Top Y: 119
+ Right Bottom X: 113
+ Right Bottom Y: 38
+Triangle 
+ First point X: 7
+ First point Y: 48
+ Second point X: 72
+ Second point Y: 12
+ Third point X: 72
+ Third point Y: 80
+Rectangle: 
+ Left Top X: 99
+ Left Top Y: 34
+ Right Bottom X: 169
+ Right Bottom Y: 2
+Triangle 
+ First point X: 43
+ First point Y: 98
+ Second point X: 72
+ Second point Y: 5
+ Third point X: 16
+ Third point Y: 30
+Triangle 
+ First point X: 86
+ First point Y: 14
+ Second point X: 93
+ Second point Y: 79
+ Third point X: 15
+ Third point Y: 1
+Rectangle: 
+ Left Top X: 62
+ Left Top Y: 80
+ Right Bottom X: 161
+ Right Bottom Y: 57
+Triangle 
+ First point X: 42
+ First point Y: 12
+ Second point X: 14
+ Second point Y: 95
+ Third point X: 75
+ Third point Y: 78
+Triangle 
+ First point X: 57
+ First point Y: 99
+ Second point X: 47
+ Second point Y: 1
+ Third point X: 9
+ Third point Y: 91
+Rectangle: 
+ Left Top X: 52
+ Left Top Y: 64
+ Right Bottom X: 138
+ Right Bottom Y: 37
+Rectangle: 
+ Left Top X: 64
+ Left Top Y: 90
+ Right Bottom X: 117
+ Right Bottom Y: 46
+Rectangle: 
+ Left Top X: 5
+ Left Top Y: 102
+ Right Bottom X: 58
+ Right Bottom Y: 57
+Rectangle: 
+ Left Top X: 98
+ Left Top Y: 75
+ Right Bottom X: 163
+ Right Bottom Y: 38
+Rectangle: 
+ Left Top X: 20
+ Left Top Y: 109
+ Right Bottom X: 49
+ Right Bottom Y: 26
+Triangle 
+ First point X: 12
+ First point Y: 78
+ Second point X: 35
+ Second point Y: 14
+ Third point X: 98
+ Third point Y: 53
+Triangle 
+ First point X: 97
+ First point Y: 79
+ Second point X: 27
+ Second point Y: 88
+ Third point X: 36
+ Third point Y: 16
+Rectangle: 
+ Left Top X: 70
+ Left Top Y: 119
+ Right Bottom X: 116
+ Right Bottom Y: 65
+Rectangle: 
+ Left Top X: 24
+ Left Top Y: 80
+ Right Bottom X: 85
+ Right Bottom Y: 39
+Rectangle: 
+ Left Top X: 74
+ Left Top Y: 60
+ Right Bottom X: 135
+ Right Bottom Y: 19
+Triangle 
+ First point X: 86
+ First point Y: 82
+ Second point X: 68
+ Second point Y: 2
+ Third point X: 12
+ Third point Y: 32
+Rectangle: 
+ Left Top X: 75
+ Left Top Y: 65
+ Right Bottom X: 122
+ Right Bottom Y: 11
+Rectangle: 
+ Left Top X: 64
+ Left Top Y: 110
+ Right Bottom X: 104
+ Right Bottom Y: 46
+Triangle 
+ First point X: 59
+ First point Y: 94
+ Second point X: 15
+ Second point Y: 26
+ Third point X: 90
+ Third point Y: 25
+Rectangle: 
+ Left Top X: 87
+ Left Top Y: 47
+ Right Bottom X: 179
+ Right Bottom Y: 19
+Rectangle: 
+ Left Top X: 9
+ Left Top Y: 159
+ Right Bottom X: 46
+ Right Bottom Y: 89
+Triangle 
+ First point X: 95
+ First point Y: 97
+ Second point X: 69
+ Second point Y: 19
+ Third point X: 3
+ Third point Y: 21
+Rectangle: 
+ Left Top X: 25
+ Left Top Y: 113
+ Right Bottom X: 96
+ Right Bottom Y: 76
+Triangle 
+ First point X: 68
+ First point Y: 88
+ Second point X: 42
+ Second point Y: 2
+ Third point X: 3
+ Third point Y: 76
+Rectangle: 
+ Left Top X: 51
+ Left Top Y: 158
+ Right Bottom X: 81
+ Right Bottom Y: 70
+Triangle 
+ First point X: 16
+ First point Y: 89
+ Second point X: 32
+ Second point Y: 10
+ Third point X: 88
+ Third point Y: 65
+Rectangle: 
+ Left Top X: 11
+ Left Top Y: 67
+ Right Bottom X: 93
+ Right Bottom Y: 34
+Rectangle: 
+ Left Top X: 45
+ Left Top Y: 68
+ Right Bottom X: 115
+ Right Bottom Y: 29
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 107
+ Right Bottom X: 88
+ Right Bottom Y: 59
+Triangle 
+ First point X: 84
+ First point Y: 100
+ Second point X: 5
+ Second point Y: 43
+ Third point X: 97
+ Third point Y: 39
+Rectangle: 
+ Left Top X: 90
+ Left Top Y: 86
+ Right Bottom X: 125
+ Right Bottom Y: 6
+Rectangle: 
+ Left Top X: 80
+ Left Top Y: 178
+ Right Bottom X: 110
+ Right Bottom Y: 84
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: 124
+ Right Bottom X: 82
+ Right Bottom Y: 76
+Rectangle: 
+ Left Top X: 53
+ Left Top Y: 107
+ Right Bottom X: 88
+ Right Bottom Y: 26
+Rectangle: 
+ Left Top X: 78
+ Left Top Y: 79
+ Right Bottom X: 170
+ Right Bottom Y: 48
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 110
+ Right Bottom X: 83
+ Right Bottom Y: 54
+Rectangle: 
+ Left Top X: 18
+ Left Top Y: 98
+ Right Bottom X: 50
+ Right Bottom Y: 7
+Triangle 
+ First point X: 7
+ First point Y: 97
+ Second point X: 86
+ Second point Y: 47
+ Third point X: 40
+ Third point Y: 2
+Triangle 
+ First point X: 2
+ First point Y: 81
+ Second point X: 83
+ Second point Y: 93
+ Third point X: 88
+ Third point Y: 21
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 107
+ Right Bottom X: 151
+ Right Bottom Y: 71
+Rectangle: 
+ Left Top X: 44
+ Left Top Y: 169
+ Right Bottom X: 77
+ Right Bottom Y: 79
+Rectangle: 
+ Left Top X: 16
+ Left Top Y: 154
+ Right Bottom X: 48
+ Right Bottom Y: 61
+Rectangle: 
+ Left Top X: 60
+ Left Top Y: 156
+ Right Bottom X: 104
+ Right Bottom Y: 88
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: 63
+ Right Bottom X: 109
+ Right Bottom Y: 28
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 68
+ Right Bottom X: 124
+ Right Bottom Y: 1
+Rectangle: 
+ Left Top X: 90
+ Left Top Y: 70
+ Right Bottom X: 152
+ Right Bottom Y: 21
+Triangle 
+ First point X: 99
+ First point Y: 35
+ Second point X: 1
+ Second point Y: 24
+ Third point X: 7
+ Third point Y: 87
+Rectangle: 
+ Left Top X: 46
+ Left Top Y: 162
+ Right Bottom X: 88
+ Right Bottom Y: 89
+Rectangle: 
+ Left Top X: 1
+ Left Top Y: 68
+ Right Bottom X: 53
+ Right Bottom Y: 9
+Rectangle: 
+ Left Top X: 81
+ Left Top Y: 81
+ Right Bottom X: 139
+ Right Bottom Y: 27
+Rectangle: 
+ Left Top X: 29
+ Left Top Y: 131
+ Right Bottom X: 82
+ Right Bottom Y: 71
+Rectangle: 
+ Left Top X: 66
+ Left Top Y: 105
+ Right Bottom X: 140
+ Right Bottom Y: 62
+Triangle 
+ First point X: 45
+ First point Y: 2
+ Second point X: 4
+ Second point Y: 86
+ Third point X: 73
+ Third point Y: 100
+Rectangle: 
+ Left Top X: 61
+ Left Top Y: 83
+ Right Bottom X: 161
+ Right Bottom Y: 51
+Rectangle: 
+ Left Top X: 22
+ Left Top Y: 120
+ Right Bottom X: 66
+ Right Bottom Y: 47
+Rectangle: 
+ Left Top X: 30
+ Left Top Y: 177
+ Right Bottom X: 63
+ Right Bottom Y: 79
+Rectangle: 
+ Left Top X: 10
+ Left Top Y: 122
+ Right Bottom X: 65
+ Right Bottom Y: 63
+Rectangle: 
+ Left Top X: 57
+ Left Top Y: 141
+ Right Bottom X: 94
+ Right Bottom Y: 53
+Rectangle: 
+ Left Top X: 27
+ Left Top Y: 53
+ Right Bottom X: 103
+ Right Bottom Y: 10
+Rectangle: 
+ Left Top X: 96
+ Left Top Y: 141
+ Right Bottom X: 139
+ Right Bottom Y: 65
+Rectangle: 
+ Left Top X: 15
+ Left Top Y: 130
+ Right Bottom X: 99
+ Right Bottom Y: 91
+Triangle 
+ First point X: 82
+ First point Y: 7
+ Second point X: 3
+ Second point Y: 74
+ Third point X: 85
+ Third point Y: 88
+Rectangle: 
+ Left Top X: 1
+ Left Top Y: 44
+ Right Bottom X: 92
+ Right Bottom Y: 7
+Rectangle: 
+ Left Top X: 58
+ Left Top Y: 132
+ Right Bottom X: 129
+ Right Bottom Y: 84
+Rectangle: 
+ Left Top X: 12
+ Left Top Y: 157
+ Right Bottom X: 71
+ Right Bottom Y: 99
+Rectangle: 
+ Left Top X: 89
+ Left Top Y: 137
+ Right Bottom X: 144
+ Right Bottom Y: 74
+Rectangle: 
+ Left Top X: 18
+ Left Top Y: 195
+ Right Bottom X: 53
+ Right Bottom Y: 96
+Rectangle: 
+ Left Top X: 76
+ Left Top Y: 151
+ Right Bottom X: 111
+ Right Bottom Y: 52
+Rectangle: 
+ Left Top X: 11
+ Left Top Y: 127
+ Right Bottom X: 96
+ Right Bottom Y: 86
+Rectangle: 
+ Left Top X: 36
+ Left Top Y: 110
+ Right Bottom X: 98
+ Right Bottom Y: 53
+Rectangle: 
+ Left Top X: 15
+ Left Top Y: 92
+ Right Bottom X: 100
+ Right Bottom Y: 50
+Rectangle: 
+ Left Top X: 40
+ Left Top Y: 167
+ Right Bottom X: 87
+ Right Bottom Y: 91
+Rectangle: 
+ Left Top X: 17
+ Left Top Y: 95
+ Right Bottom X: 95
+ Right Bottom Y: 49
+Rectangle: 
+ Left Top X: 26
+ Left Top Y: 115
+ Right Bottom X: 108
+ Right Bottom Y: 71
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 71
+ Right Bottom X: 143
+ Right Bottom Y: 21
+Rectangle: 
+ Left Top X: 9
+ Left Top Y: 46
+ Right Bottom X: 90
+ Right Bottom Y: 0
+Rectangle: 
+ Left Top X: 76
+ Left Top Y: 76
+ Right Bottom X: 161
+ Right Bottom Y: 32
+Rectangle: 
+ Left Top X: 93
+ Left Top Y: 157
+ Right Bottom X: 133
+ Right Bottom Y: 63
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 136
+ Right Bottom X: 171
+ Right Bottom Y: 95
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 178
+ Right Bottom X: 112
+ Right Bottom Y: 90
+Rectangle: 
+ Left Top X: 55
+ Left Top Y: 161
+ Right Bottom X: 103
+ Right Bottom Y: 81
+Triangle 
+ First point X: 90
+ First point Y: 96
+ Second point X: 76
+ Second point Y: 2
+ Third point X: 6
+ Third point Y: 100
+Rectangle: 
+ Left Top X: 76
+ Left Top Y: 52
+ Right Bottom X: 172
+ Right Bottom Y: 10
+Rectangle: 
+ Left Top X: 63
+ Left Top Y: 92
+ Right Bottom X: 138
+ Right Bottom Y: 38
+Rectangle: 
+ Left Top X: 60
+ Left Top Y: 152
+ Right Bottom X: 101
+ Right Bottom Y: 53
+Rectangle: 
+ Left Top X: 39
+ Left Top Y: 117
+ Right Bottom X: 115
+ Right Bottom Y: 63
+Rectangle: 
+ Left Top X: 1
+ Left Top Y: 158
+ Right Bottom X: 60
+ Right Bottom Y: 88
+Rectangle: 
+ Left Top X: 96
+ Left Top Y: 161
+ Right Bottom X: 148
+ Right Bottom Y: 81
+Rectangle: 
+ Left Top X: 11
+ Left Top Y: 96
+ Right Bottom X: 60
+ Right Bottom Y: 11
+Rectangle: 
+ Left Top X: 24
+ Left Top Y: 119
+ Right Bottom X: 121
+ Right Bottom Y: 76
+Rectangle: 
+ Left Top X: 97
+ Left Top Y: 139
+ Right Bottom X: 187
+ Right Bottom Y: 92
+Rectangle: 
+ Left Top X: 55
+ Left Top Y: 107
+ Right Bottom X: 148
+ Right Bottom Y: 61
+Rectangle: 
+ Left Top X: 30
+ Left Top Y: 147
+ Right Bottom X: 93
+ Right Bottom Y: 79
+Rectangle: 
+ Left Top X: 63
+ Left Top Y: 66
+ Right Bottom X: 131
+ Right Bottom Y: 2
+Rectangle: 
+ Left Top X: 9
+ Left Top Y: 103
+ Right Bottom X: 87
+ Right Bottom Y: 47
+Rectangle: 
+ Left Top X: 15
+ Left Top Y: 76
+ Right Bottom X: 111
+ Right Bottom Y: 30
+Rectangle: 
+ Left Top X: 74
+ Left Top Y: 73
+ Right Bottom X: 140
+ Right Bottom Y: 6
+Rectangle: 
+ Left Top X: 42
+ Left Top Y: 79
+ Right Bottom X: 101
+ Right Bottom Y: 4
+Rectangle: 
+ Left Top X: 21
+ Left Top Y: 81
+ Right Bottom X: 108
+ Right Bottom Y: 30
+Rectangle: 
+ Left Top X: 98
+ Left Top Y: 93
+ Right Bottom X: 159
+ Right Bottom Y: 20
+Rectangle: 
+ Left Top X: 28
+ Left Top Y: 131
+ Right Bottom X: 99
+ Right Bottom Y: 68
+Rectangle: 
+ Left Top X: 50
+ Left Top Y: 119
+ Right Bottom X: 148
+ Right Bottom Y: 72
+Rectangle: 
+ Left Top X: 15
+ Left Top Y: 152
+ Right Bottom X: 76
+ Right Bottom Y: 76
+Rectangle: 
+ Left Top X: 11
+ Left Top Y: 120
+ Right Bottom X: 81
+ Right Bottom Y: 53
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 126
+ Right Bottom X: 143
+ Right Bottom Y: 51
+Rectangle: 
+ Left Top X: 24
+ Left Top Y: 161
+ Right Bottom X: 86
+ Right Bottom Y: 83
+Rectangle: 
+ Left Top X: 36
+ Left Top Y: 140
+ Right Bottom X: 133
+ Right Bottom Y: 89
+Rectangle: 
+ Left Top X: 87
+ Left Top Y: 180
+ Right Bottom X: 142
+ Right Bottom Y: 88
+Rectangle: 
+ Left Top X: 77
+ Left Top Y: 94
+ Right Bottom X: 154
+ Right Bottom Y: 28
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 170
+ Right Bottom X: 93
+ Right Bottom Y: 88
+Rectangle: 
+ Left Top X: 33
+ Left Top Y: 100
+ Right Bottom X: 95
+ Right Bottom Y: 18
+Rectangle: 
+ Left Top X: 45
+ Left Top Y: 138
+ Right Bottom X: 101
+ Right Bottom Y: 47
+Rectangle: 
+ Left Top X: 86
+ Left Top Y: 116
+ Right Bottom X: 138
+ Right Bottom Y: 17
+Rectangle: 
+ Left Top X: 89
+ Left Top Y: 136
+ Right Bottom X: 143
+ Right Bottom Y: 38
+Rectangle: 
+ Left Top X: 59
+ Left Top Y: 151
+ Right Bottom X: 130
+ Right Bottom Y: 74
+Rectangle: 
+ Left Top X: 91
+ Left Top Y: 98
+ Right Bottom X: 159
+ Right Bottom Y: 17
+Rectangle: 
+ Left Top X: 1
+ Left Top Y: 142
+ Right Bottom X: 64
+ Right Bottom Y: 54
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: 98
+ Right Bottom X: 82
+ Right Bottom Y: 4
+Rectangle: 
+ Left Top X: 12
+ Left Top Y: 59
+ Right Bottom X: 106
+ Right Bottom Y: 0
+Rectangle: 
+ Left Top X: 50
+ Left Top Y: 113
+ Right Bottom X: 115
+ Right Bottom Y: 27
+Rectangle: 
+ Left Top X: 98
+ Left Top Y: 134
+ Right Bottom X: 180
+ Right Bottom Y: 65
+Rectangle: 
+ Left Top X: 84
+ Left Top Y: 154
+ Right Bottom X: 154
+ Right Bottom Y: 73
+Rectangle: 
+ Left Top X: 39
+ Left Top Y: 124
+ Right Bottom X: 114
+ Right Bottom Y: 48
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 123
+ Right Bottom X: 148
+ Right Bottom Y: 40
+Rectangle: 
+ Left Top X: 68
+ Left Top Y: 174
+ Right Bottom X: 142
+ Right Bottom Y: 93
+Rectangle: 
+ Left Top X: 24
+ Left Top Y: 150
+ Right Bottom X: 100
+ Right Bottom Y: 71
+Rectangle: 
+ Left Top X: 34
+ Left Top Y: 137
+ Right Bottom X: 120
+ Right Bottom Y: 65
+Rectangle: 
+ Left Top X: 50
+ Left Top Y: 95
+ Right Bottom X: 116
+ Right Bottom Y: 1
+Rectangle: 
+ Left Top X: 93
+ Left Top Y: 97
+ Right Bottom X: 177
+ Right Bottom Y: 23
+Rectangle: 
+ Left Top X: 39
+ Left Top Y: 147
+ Right Bottom X: 103
+ Right Bottom Y: 49
+Rectangle: 
+ Left Top X: 2
+ Left Top Y: 77
+ Right Bottom X: 88
+ Right Bottom Y: 4
+Rectangle: 
+ Left Top X: 35
+ Left Top Y: 161
+ Right Bottom X: 133
+ Right Bottom Y: 96
+Rectangle: 
+ Left Top X: 0
+ Left Top Y: 118
+ Right Bottom X: 70
+ Right Bottom Y: 27
+Rectangle: 
+ Left Top X: 48
+ Left Top Y: 114
+ Right Bottom X: 128
+ Right Bottom Y: 34
+Rectangle: 
+ Left Top X: 14
+ Left Top Y: 169
+ Right Bottom X: 106
+ Right Bottom Y: 99
+Rectangle: 
+ Left Top X: 45
+ Left Top Y: 179
+ Right Bottom X: 111
+ Right Bottom Y: 81
+Rectangle: 
+ Left Top X: 28
+ Left Top Y: 85
+ Right Bottom X: 107
+ Right Bottom Y: 3
+Rectangle: 
+ Left Top X: 3
+ Left Top Y: 120
+ Right Bottom X: 76
+ Right Bottom Y: 31
+Rectangle: 
+ Left Top X: 41
+ Left Top Y: 118
+ Right Bottom X: 113
+ Right Bottom Y: 26
+Rectangle: 
+ Left Top X: 62
+ Left Top Y: 105
+ Right Bottom X: 140
+ Right Bottom Y: 20
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 97
+ Right Bottom X: 128
+ Right Bottom Y: 28
+Rectangle: 
+ Left Top X: 70
+ Left Top Y: 160
+ Right Bottom X: 145
+ Right Bottom Y: 70
+Rectangle: 
+ Left Top X: 65
+ Left Top Y: 171
+ Right Bottom X: 141
+ Right Bottom Y: 82
+Rectangle: 
+ Left Top X: 84
+ Left Top Y: 171
+ Right Bottom X: 166
+ Right Bottom Y: 86
+Rectangle: 
+ Left Top X: 98
+ Left Top Y: 180
+ Right Bottom X: 183
+ Right Bottom Y: 98
+Rectangle: 
+ Left Top X: 7
+ Left Top Y: 153
+ Right Bottom X: 84
+ Right Bottom Y: 62
+Rectangle: 
+ Left Top X: 31
+ Left Top Y: 152
+ Right Bottom X: 109
+ Right Bottom Y: 62
+Rectangle: 
+ Left Top X: 85
+ Left Top Y: 154
+ Right Bottom X: 168
+ Right Bottom Y: 69
+Rectangle: 
+ Left Top X: 79
+ Left Top Y: 89
+ Right Bottom X: 178
+ Right Bottom Y: 16
+Rectangle: 
+ Left Top X: 71
+ Left Top Y: 176
+ Right Bottom X: 149
+ Right Bottom Y: 82
+Rectangle: 
+ Left Top X: 78
+ Left Top Y: 99
+ Right Bottom X: 165
+ Right Bottom Y: 13
+Rectangle: 
+ Left Top X: 17
+ Left Top Y: 142
+ Right Bottom X: 109
+ Right Bottom Y: 60
+Rectangle: 
+ Left Top X: 27
+ Left Top Y: 154
+ Right Bottom X: 111
+ Right Bottom Y: 64
+Rectangle: 
+ Left Top X: 69
+ Left Top Y: 140
+ Right Bottom X: 148
+ Right Bottom Y: 42
+Rectangle: 
+ Left Top X: 71
+ Left Top Y: 94
+ Right Bottom X: 160
+ Right Bottom Y: 7
+Rectangle: 
+ Left Top X: 86
+ Left Top Y: 100
+ Right Bottom X: 181
+ Right Bottom Y: 15
+Rectangle: 
+ Left Top X: 65
+ Left Top Y: 119
+ Right Bottom X: 153
+ Right Bottom Y: 26
+Rectangle: 
+ Left Top X: 87
+ Left Top Y: 182
+ Right Bottom X: 187
+ Right Bottom Y: 99
+Rectangle: 
+ Left Top X: 30
+ Left Top Y: 151
+ Right Bottom X: 123
+ Right Bottom Y: 60
+Rectangle: 
+ Left Top X: 80
+ Left Top Y: 114
+ Right Bottom X: 171
+ Right Bottom Y: 21
+Rectangle: 
+ Left Top X: 10
+ Left Top Y: 190
+ Right Bottom X: 99
+ Right Bottom Y: 90
+Rectangle: 
+ Left Top X: 70
+ Left Top Y: 168
+ Right Bottom X: 160
+ Right Bottom Y: 68
+Rectangle: 
+ Left Top X: 99
+ Left Top Y: 154
+ Right Bottom X: 192
+ Right Bottom Y: 57
+Rectangle: 
+ Left Top X: 89
+ Left Top Y: 108
+ Right Bottom X: 189
+ Right Bottom Y: 15

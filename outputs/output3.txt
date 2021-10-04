@@ -1,0 +1,37 @@
+Circle: 
+ X: 0
+ Y: 0
+ Radius: 10
+Triangle 
+ First point X: 0
+ First point Y: 0
+ Second point X: 5
+ Second point Y: 0
+ Third point X: 0
+ Third point Y: 6
+Rectangle: 
+ Left Top X: 0
+ Left Top Y: 5
+ Right Bottom X: 6
+ Right Bottom Y: 0
+
+
+3
+
+
+Triangle 
+ First point X: 0
+ First point Y: 0
+ Second point X: 5
+ Second point Y: 0
+ Third point X: 0
+ Third point Y: 6
+Rectangle: 
+ Left Top X: 0
+ Left Top Y: 5
+ Right Bottom X: 6
+ Right Bottom Y: 0
+Circle: 
+ X: 0
+ Y: 0
+ Radius: 10

@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1633298370 source:c:\users\egorl\projects_and_another_trash\abc1\main.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<Circle.h>
+	<Rectangle.h>
+	<Triangle.h>
+
+1633290645 source:c:\users\egorl\projects_and_another_trash\abc1\src\figure.cpp
+	"Figure.h"
+
+1633290673 c:\users\egorl\projects_and_another_trash\abc1\include\figure.h
+	"Enums.h"
+	"stdio.h"
+	"Structs.h"
+
+1633278493 c:\users\egorl\projects_and_another_trash\abc1\include\enums.h
+
+1633290645 source:c:\users\egorl\projects_and_another_trash\abc1\src\circle.cpp
+	"Circle.h"
+	"math.h"
+	"stdio.h"
+
+1633290645 c:\users\egorl\projects_and_another_trash\abc1\include\circle.h
+	"Figure.h"
+	"stdlib.h"
+
+1633278493 c:\users\egorl\projects_and_another_trash\abc1\include\structs.h
+
+1633290646 source:c:\users\egorl\projects_and_another_trash\abc1\src\rectangle.cpp
+	"Rectangle.h"
+	"stdlib.h"
+	"stdio.h"
+
+1633290645 c:\users\egorl\projects_and_another_trash\abc1\include\rectangle.h
+	"Figure.h"
+
+1633290645 source:c:\users\egorl\projects_and_another_trash\abc1\src\triangle.cpp
+	"Triangle.h"
+	"math.h"
+	"stdio.h"
+
+1633290645 c:\users\egorl\projects_and_another_trash\abc1\include\triangle.h
+	"Figure.h"
+
