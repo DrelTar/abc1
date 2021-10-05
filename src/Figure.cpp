@@ -1,21 +1,28 @@
 #include "Figure.h"
 
-Figure::Figure()
+double Area(Figure figure)
 {
-    color = red;
-}
-
-double Figure::Square()
-{
+    if (figure.type == circleType) {
+       return Area(figure.circle);
+    }
+    else if (figure.type == rectangleType) {
+        return Area(figure.rectangle);
+    }
+    else if (figure.type == triangleType) {
+        return Area(figure.triangle);
+    }
     return 0.0;
 }
 
-void Figure::Display(FILE* file)
+void Display(Figure figure, FILE* file)
 {
-    return;
-}
-
-Figure::~Figure()
-{
-    delete &color;
+    if (figure.type == circleType) {
+        Display(figure.circle, file);
+    }
+    else if (figure.type == rectangleType) {
+        Display(figure.rectangle, file);
+    }
+    else if (figure.type == triangleType) {
+        Display(figure.triangle, file);
+    }
 }

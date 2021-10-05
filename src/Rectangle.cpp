@@ -1,34 +1,37 @@
 #include "Rectangle.h"
 #include "stdlib.h"
-#include "stdio.h"
+#include "time.h"
 
-Rectangle::Rectangle()
+double Area(Rectangle rectangle)
 {
-    leftTop = {0, 1};
-    rightBottom = {1, 0};
+    return abs(rectangle.leftTop.x - rectangle.rightBottom.x) * abs(rectangle.leftTop.y - rectangle.rightBottom.y);
 }
 
-Rectangle::Rectangle(int a, int b, int c, int d)
+void Display(Rectangle rectangle, FILE* file)
 {
-    leftTop.x = a;
-    leftTop.y = b;
-    rightBottom.x = c,
-    rightBottom.y = d;
+    fprintf(file, "%s%u%s%u%s%u%s%u%s", "Rectangle: \n Left Top X: ", rectangle.leftTop.x, "\n Left Top Y: ", rectangle.leftTop.y,
+             "\n Right Bottom X: ", rectangle.rightBottom.x, "\n Right Bottom Y: ", rectangle.rightBottom.y, "\n");
 }
 
-double Rectangle::Square()
+Rectangle GenerateRectangle()
 {
-    return abs(leftTop.x - rightBottom.x) * abs(leftTop.y - rightBottom.y);
+    srand(time(0));
+    Rectangle rectangle;
+    rectangle.leftTop.x = rand() % 101;
+    rectangle.leftTop.y = rand() % 101;
+    rectangle.rightBottom.x = rand() % 101;
+    rectangle.rightBottom.y = rand() % 101;
+    return rectangle;
 }
 
-void Rectangle::Display(FILE* file)
+Rectangle ReadRectangle(FILE* file)
 {
-    fprintf(file, "%s%u%s%u%s%u%s%u%s", "Rectangle: \n Left Top X: ", leftTop.x, "\n Left Top Y: ", leftTop.y, "\n Right Bottom X: ", rightBottom.x,
-           "\n Right Bottom Y: ", rightBottom.y, "\n");
-}
-
-Rectangle::~Rectangle()
-{
-    delete &leftTop;
-    delete &rightBottom;
+    int leftTopX, leftTopY, rightBottomX, rightBottomY;
+    fscanf(file, "%u%u%u%u", &leftTopX, &leftTopY, &rightBottomX, &rightBottomY);
+    Rectangle rectangle;
+    rectangle.leftTop.x = leftTopX;
+    rectangle.leftTop.y = leftTopY;
+    rectangle.rightBottom.x = rightBottomX;
+    rectangle.rightBottom.y = rightBottomY;
+    return rectangle;
 }

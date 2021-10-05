@@ -1,19 +1,21 @@
-#include "Figure.h"
+#include "Point.h"
+#include "stdio.h"
 #ifndef TRIANGLE_H
 #define TRIANGLE_H
 
-
-class Triangle : public Figure
+typedef struct
 {
-    public:
-        Point first;
-        Point second;
-        Point third;
-        double Square() override;
-        void Display(FILE* file) override;
-        Triangle(int firstX, int firstY, int secondX, int secondY, int thirdX, int thirdY);
-        Triangle();
-        ~Triangle();
-};
+    Point first;
+    Point second;
+    Point third;
+} Triangle;
+
+double Area(Triangle triangle);
+
+void Display(Triangle triangle, FILE* file);
+
+Triangle GenerateTriangle();
+
+Triangle ReadTriangle(FILE* file);
 
 #endif // TRIANGLE_H

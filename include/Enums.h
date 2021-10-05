@@ -9,4 +9,10 @@ enum Color {
     blue,
     violet
 };
+
+enum Type {
+    circleType,
+    rectangleType,
+    triangleType
+};
 #endif

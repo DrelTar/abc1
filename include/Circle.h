@@ -1,19 +1,21 @@
-#include "Figure.h"
-#include "stdlib.h"
+#include "Point.h"
+#include "stdio.h"
 #ifndef CIRCLE_H
 #define CIRCLE_H
 
 
-class Circle : public Figure
+typedef struct
 {
-    public:
-        Point center;
-        int radius;
-        double Square() override;
-        void Display(FILE* file) override;
-        Circle(int a, int b, int c);
-        Circle();
-        ~Circle();
-};
+    Point center;
+    int radius;
+} Circle;
+
+double Area(Circle circle);
+
+void Display(Circle circle, FILE* file);
+
+Circle GenerateCircle();
+
+Circle ReadCircle(FILE* file);
 
 #endif // CIRCLE_H
