@@ -5,17 +5,17 @@ int main(int argc, char* argv[])
 {
     FILE* file;
     Container container;
-    if (FillContainer(container, argc, argv)) {
+    if (container.FillContainer(argc, argv)) {
         return 1;
     }
     file = fopen("../../outputs/output.txt", "w");
     for (int i = 0; i < container.length; ++i) {
-         Display(container.figures[i], file);
+         (*container.figures[i]).Display(file);
     }
     fprintf(file, "%s%u%s", "\n\n", container.length, "\n\n\n");
-    InclusionSort(container);
+    container.InclusionSort();
     for (int i = 0; i < container.length; ++i) {
-        Display(container.figures[i], file);
+        (*container.figures[i]).Display(file);
     }
     fclose(file);
     return 0;

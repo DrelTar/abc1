@@ -1,20 +1,19 @@
 #include "Point.h"
+#include "Figure.h"
 #include "stdio.h"
 #ifndef RECTANGLE_H
 #define RECTANGLE_H
 
-typedef struct
-{
+class Rectangle : public Figure {
+public:
     Point leftTop;
     Point rightBottom;
-} Rectangle;
-
-double Area(Rectangle rectangle);
-
-void Display(Rectangle rectangle, FILE* file);
-
-Rectangle GenerateRectangle();
-
-Rectangle ReadRectangle(FILE* file);
+    double Area() override;
+    void Display(FILE* file) override;
+    void Generate() override;
+    void Read(FILE* file) override;
+    Rectangle();
+    ~Rectangle();
+};
 
 #endif // RECTANGLE_H

@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1633426103 source:c:\users\egorl\projects_and_another_trash\abc1\main.cpp
+1635105160 source:c:\users\egorl\projects_and_another_trash\abc1\main.cpp
 	"Container.h"
 	"stdio.h"
 
-1633425515 source:c:\users\egorl\projects_and_another_trash\abc1\src\figure.cpp
+1635104115 source:c:\users\egorl\projects_and_another_trash\abc1\src\figure.cpp
 	"Figure.h"
 
 1633424027 c:\users\egorl\projects_and_another_trash\abc1\include\figure.h
@@ -14,7 +14,7 @@
 
 1633378719 c:\users\egorl\projects_and_another_trash\abc1\include\enums.h
 
-1633424901 source:c:\users\egorl\projects_and_another_trash\abc1\src\circle.cpp
+1635104115 source:c:\users\egorl\projects_and_another_trash\abc1\src\circle.cpp
 	"Circle.h"
 	"math.h"
 	"time.h"
@@ -26,7 +26,7 @@
 
 1633278493 c:\users\egorl\projects_and_another_trash\abc1\include\structs.h
 
-1633425109 source:c:\users\egorl\projects_and_another_trash\abc1\src\rectangle.cpp
+1635104115 source:c:\users\egorl\projects_and_another_trash\abc1\src\rectangle.cpp
 	"Rectangle.h"
 	"stdlib.h"
 	"time.h"
@@ -35,7 +35,7 @@
 	"Point.h"
 	"stdio.h"
 
-1633425109 source:c:\users\egorl\projects_and_another_trash\abc1\src\triangle.cpp
+1635104665 source:c:\users\egorl\projects_and_another_trash\abc1\src\triangle.cpp
 	"Triangle.h"
 	"math.h"
 	"time.h"
@@ -50,7 +50,7 @@
 1633424564 c:\users\egorl\projects_and_another_trash\abc1\include\container.h
 	"Figure.h"
 
-1633425789 source:c:\users\egorl\projects_and_another_trash\abc1\src\container.cpp
+1635107094 source:c:\users\egorl\projects_and_another_trash\abc1\src\container.cpp
 	"Container.h"
 	"stdlib.h"
 	"time.h"

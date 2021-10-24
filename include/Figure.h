@@ -1,21 +1,18 @@
 #include "Enums.h"
-#include "Circle.h"
-#include "Rectangle.h"
-#include "Triangle.h"
+#include "stdio.h"
 #ifndef FIGURE_H
 #define FIGURE_H
 
-typedef struct
+class Figure
 {
+public:
     Color color;
-    Type type;
-    Circle circle;
-    Rectangle rectangle;
-    Triangle triangle;
-} Figure;
-
-double Area(Figure figure);
-
-void Display(Figure figure, FILE* file);
+    virtual double Area();
+    virtual void Display(FILE* file);
+    virtual void Generate();
+    virtual void Read(FILE* file);
+    Figure();
+    virtual ~Figure();
+};
 
 #endif // FIGURE_H

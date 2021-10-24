@@ -32,7 +32,21 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="abc1.depend" />
+		<Unit filename="abc1.layout" />
+		<Unit filename="include/Circle.h" />
+		<Unit filename="include/Container.h" />
+		<Unit filename="include/Enums.h" />
+		<Unit filename="include/Figure.h" />
+		<Unit filename="include/Point.h" />
+		<Unit filename="include/Rectangle.h" />
+		<Unit filename="include/Triangle.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Circle.cpp" />
+		<Unit filename="src/Container.cpp" />
+		<Unit filename="src/Figure.cpp" />
+		<Unit filename="src/Rectangle.cpp" />
+		<Unit filename="src/Triangle.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
