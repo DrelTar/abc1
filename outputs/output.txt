@@ -1,223 +1,269 @@
 Circle: 
- X: 9
- Y: 95
- Radius: 2
-Circle: 
- X: 84
- Y: 43
- Radius: 11
+ X: -66
+ Y: 15
+ Radius: 18
+ Area: 1017.8760197630929
 Triangle 
- First point X: 61
- First point Y: 79
- Second point X: 25
- Second point Y: 17
- Third point X: 86
- Third point Y: 73
-Triangle 
- First point X: 81
- First point Y: 31
- Second point X: 83
- Second point Y: 4
- Third point X: 9
- Third point Y: 65
-Circle: 
- X: 98
- Y: 75
- Radius: 16
-Circle: 
- X: 77
- Y: 69
- Radius: 9
-Rectangle: 
- Left Top X: 54
- Left Top Y: 170
- Right Bottom X: 124
- Right Bottom Y: 100
-Rectangle: 
- Left Top X: 29
- Left Top Y: 67
- Right Bottom X: 57
- Right Bottom Y: 53
-Circle: 
- X: 36
- Y: 6
- Radius: 0
-Triangle 
- First point X: 99
- First point Y: 48
- Second point X: 27
- Second point Y: 95
- Third point X: 93
- Third point Y: 39
-Circle: 
- X: 28
- Y: 16
- Radius: 5
-Circle: 
- X: 30
- Y: 51
- Radius: 15
-Triangle 
- First point X: 32
- First point Y: 33
- Second point X: 64
- Second point Y: 11
- Third point X: 93
- Third point Y: 61
-Rectangle: 
- Left Top X: 25
- Left Top Y: 122
- Right Bottom X: 87
- Right Bottom Y: 58
-Triangle 
- First point X: 84
- First point Y: 46
- Second point X: 24
- Second point Y: 74
- Third point X: 50
- Third point Y: 36
-Triangle 
- First point X: 22
- First point Y: 31
- Second point X: 79
- Second point Y: 13
- Third point X: 12
- Third point Y: 18
-Triangle 
- First point X: 17
- First point Y: 15
- Second point X: 95
- Second point Y: 46
- Third point X: 23
- Third point Y: 8
-Rectangle: 
- Left Top X: 24
- Left Top Y: 98
- Right Bottom X: 92
- Right Bottom Y: 38
+ First point X: 82
+ First point Y: 17
+ Second point X: 31
+ Second point Y: -72
+ Third point X: 0
+ Third point Y: -46
+ Area: 2042.5000000000011
 Rectangle: 
  Left Top X: 13
- Left Top Y: 68
- Right Bottom X: 66
- Right Bottom Y: 17
-Triangle 
- First point X: 25
- First point Y: 46
- Second point X: 90
- Second point Y: 92
- Third point X: 13
- Third point Y: 13
-
-
-20
-
-
+ Left Top Y: 57
+ Right Bottom X: -40
+ Right Bottom Y: 88
+ Area: 1643
 Circle: 
- X: 36
- Y: 6
- Radius: 0
-Circle: 
- X: 9
- Y: 95
- Radius: 2
-Circle: 
- X: 28
- Y: 16
- Radius: 5
-Circle: 
- X: 77
- Y: 69
- Radius: 9
-Triangle 
- First point X: 17
- First point Y: 15
- Second point X: 95
- Second point Y: 46
- Third point X: 23
- Third point Y: 8
-Circle: 
- X: 84
- Y: 43
- Radius: 11
+ X: 27
+ Y: -5
+ Radius: 4
+ Area: 50.26548245743669
 Rectangle: 
- Left Top X: 29
- Left Top Y: 67
- Right Bottom X: 57
- Right Bottom Y: 53
+ Left Top X: -15
+ Left Top Y: 66
+ Right Bottom X: -35
+ Right Bottom Y: 39
+ Area: 540
+Rectangle: 
+ Left Top X: -4
+ Left Top Y: 42
+ Right Bottom X: 88
+ Right Bottom Y: 62
+ Area: 1840
+Rectangle: 
+ Left Top X: 20
+ Left Top Y: -81
+ Right Bottom X: 58
+ Right Bottom Y: 80
+ Area: 6118
+Rectangle: 
+ Left Top X: 88
+ Left Top Y: 29
+ Right Bottom X: -43
+ Right Bottom Y: 26
+ Area: 393
 Triangle 
- First point X: 22
- First point Y: 31
- Second point X: 79
- Second point Y: 13
- Third point X: 12
- Third point Y: 18
+ First point X: 86
+ First point Y: -2
+ Second point X: 11
+ Second point Y: 6
+ Third point X: 18
+ Third point Y: 87
+ Area: 3065.4999999999986
 Triangle 
- First point X: 99
- First point Y: 48
- Second point X: 27
- Second point Y: 95
- Third point X: 93
- Third point Y: 39
-Circle: 
- X: 30
- Y: 51
- Radius: 15
+ First point X: 45
+ First point Y: -61
+ Second point X: -92
+ Second point Y: -55
+ Third point X: 82
+ Third point Y: -78
+ Area: 1053.499999999994
 Triangle 
- First point X: 84
- First point Y: 46
- Second point X: 24
- Second point Y: 74
- Third point X: 50
- Third point Y: 36
-Triangle 
- First point X: 25
- First point Y: 46
- Second point X: 90
- Second point Y: 92
- Third point X: 13
- Third point Y: 13
-Circle: 
- X: 98
- Y: 75
- Radius: 16
-Triangle 
- First point X: 61
+ First point X: 53
  First point Y: 79
- Second point X: 25
- Second point Y: 17
+ Second point X: 84
+ Second point Y: -1
+ Third point X: 19
+ Third point Y: 85
+ Area: 1267.0
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: -88
+ Right Bottom X: 31
+ Right Bottom Y: 29
+ Area: 936
+Rectangle: 
+ Left Top X: -86
+ Left Top Y: 1
+ Right Bottom X: 7
+ Right Bottom Y: 29
+ Area: 2604
+Circle: 
+ X: 79
+ Y: 67
+ Radius: 6
+ Area: 113.09733552923255
+Circle: 
+ X: 82
+ Y: -44
+ Radius: 39
+ Area: 4778.362426110075
+Triangle 
+ First point X: 62
+ First point Y: 25
+ Second point X: 13
+ Second point Y: -45
+ Third point X: 77
+ Third point Y: 30
+ Area: 402.50000000000176
+Circle: 
+ X: 59
+ Y: -40
+ Radius: 29
+ Area: 2642.079421669016
+Rectangle: 
+ Left Top X: -12
+ Left Top Y: -76
+ Right Bottom X: -12
+ Right Bottom Y: 39
+ Area: 0
+Rectangle: 
+ Left Top X: -83
+ Left Top Y: -69
+ Right Bottom X: -42
+ Right Bottom Y: -61
+ Area: 328
+Triangle 
+ First point X: 37
+ First point Y: -16
+ Second point X: -44
+ Second point Y: 13
  Third point X: 86
- Third point Y: 73
+ Third point Y: 9
+ Area: 1722.9999999999977
+Circle: 
+ X: 76
+ Y: 70
+ Radius: 38
+ Area: 4536.459791783661
+
+
+21
+
+
+Rectangle: 
+ Left Top X: -12
+ Left Top Y: -76
+ Right Bottom X: -12
+ Right Bottom Y: 39
+ Area: 0
+Circle: 
+ X: 27
+ Y: -5
+ Radius: 4
+ Area: 50.26548245743669
+Circle: 
+ X: 79
+ Y: 67
+ Radius: 6
+ Area: 113.09733552923255
+Rectangle: 
+ Left Top X: -83
+ Left Top Y: -69
+ Right Bottom X: -42
+ Right Bottom Y: -61
+ Area: 328
+Rectangle: 
+ Left Top X: 88
+ Left Top Y: 29
+ Right Bottom X: -43
+ Right Bottom Y: 26
+ Area: 393
 Triangle 
- First point X: 81
- First point Y: 31
- Second point X: 83
- Second point Y: 4
- Third point X: 9
- Third point Y: 65
+ First point X: 62
+ First point Y: 25
+ Second point X: 13
+ Second point Y: -45
+ Third point X: 77
+ Third point Y: 30
+ Area: 402.50000000000176
+Rectangle: 
+ Left Top X: -15
+ Left Top Y: 66
+ Right Bottom X: -35
+ Right Bottom Y: 39
+ Area: 540
+Rectangle: 
+ Left Top X: 23
+ Left Top Y: -88
+ Right Bottom X: 31
+ Right Bottom Y: 29
+ Area: 936
+Circle: 
+ X: -66
+ Y: 15
+ Radius: 18
+ Area: 1017.8760197630929
 Triangle 
- First point X: 32
- First point Y: 33
- Second point X: 64
- Second point Y: 11
- Third point X: 93
- Third point Y: 61
+ First point X: 45
+ First point Y: -61
+ Second point X: -92
+ Second point Y: -55
+ Third point X: 82
+ Third point Y: -78
+ Area: 1053.499999999994
+Triangle 
+ First point X: 53
+ First point Y: 79
+ Second point X: 84
+ Second point Y: -1
+ Third point X: 19
+ Third point Y: 85
+ Area: 1267.0
 Rectangle: 
  Left Top X: 13
- Left Top Y: 68
- Right Bottom X: 66
- Right Bottom Y: 17
+ Left Top Y: 57
+ Right Bottom X: -40
+ Right Bottom Y: 88
+ Area: 1643
+Triangle 
+ First point X: 37
+ First point Y: -16
+ Second point X: -44
+ Second point Y: 13
+ Third point X: 86
+ Third point Y: 9
+ Area: 1722.9999999999977
 Rectangle: 
- Left Top X: 25
- Left Top Y: 122
- Right Bottom X: 87
- Right Bottom Y: 58
+ Left Top X: -4
+ Left Top Y: 42
+ Right Bottom X: 88
+ Right Bottom Y: 62
+ Area: 1840
+Triangle 
+ First point X: 82
+ First point Y: 17
+ Second point X: 31
+ Second point Y: -72
+ Third point X: 0
+ Third point Y: -46
+ Area: 2042.5000000000011
 Rectangle: 
- Left Top X: 24
- Left Top Y: 98
- Right Bottom X: 92
- Right Bottom Y: 38
+ Left Top X: -86
+ Left Top Y: 1
+ Right Bottom X: 7
+ Right Bottom Y: 29
+ Area: 2604
+Circle: 
+ X: 59
+ Y: -40
+ Radius: 29
+ Area: 2642.079421669016
+Triangle 
+ First point X: 86
+ First point Y: -2
+ Second point X: 11
+ Second point Y: 6
+ Third point X: 18
+ Third point Y: 87
+ Area: 3065.4999999999986
+Circle: 
+ X: 76
+ Y: 70
+ Radius: 38
+ Area: 4536.459791783661
+Circle: 
+ X: 82
+ Y: -44
+ Radius: 39
+ Area: 4778.362426110075
 Rectangle: 
- Left Top X: 54
- Left Top Y: 170
- Right Bottom X: 124
- Right Bottom Y: 100
+ Left Top X: 20
+ Left Top Y: -81
+ Right Bottom X: 58
+ Right Bottom Y: 80
+ Area: 6118
