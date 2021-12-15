@@ -3,18 +3,21 @@
 #ifndef RECTANGLE_H
 #define RECTANGLE_H
 
-typedef struct
+typedef struct Rectangle
 {
+    static unsigned int* seed;
+    FILE* output_file;
+    FILE* input_file;
     Point leftTop;
     Point rightBottom;
 } Rectangle;
 
 double Area(Rectangle rectangle);
 
-void Display(Rectangle rectangle, FILE* file);
+void* DisplayRectangle(void* rectangle);
 
-Rectangle GenerateRectangle();
+void* GenerateRectangle(void* rectangle);
 
-Rectangle ReadRectangle(FILE* file);
+void* ReadRectangle(void* rectangle);
 
 #endif // RECTANGLE_H

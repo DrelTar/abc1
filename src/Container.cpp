@@ -36,21 +36,30 @@ int FillContainer(Container &container, int argc, char* argv[])
             int type;
             fscanf(file, "%u", &type);
             if (type == 1) {
-                container.figures[i].circle = ReadCircle(file);
+                container.figures[i].circle = Circle();
+                container.figures[i].circle.input_file = file;
+                ReadCircle(&container.figures[i].circle);
                 container.figures[i].type = circleType;
             }
             else if (type == 2) {
-                container.figures[i].rectangle = ReadRectangle(file);
+                container.figures[i].rectangle = Rectangle();
+                container.figures[i].rectangle.input_file = file;
+                ReadRectangle(&container.figures[i].rectangle);
                 container.figures[i].type = rectangleType;
             }
             else if (type == 3) {
-                container.figures[i].triangle = ReadTriangle(file);
+                container.figures[i].triangle = Triangle();
+                container.figures[i].triangle.input_file = file;
+                ReadTriangle(&container.figures[i].triangle);
                 container.figures[i].type = triangleType;
             }
             else {
-                printf("%s", "Wrong type of figure at input file.");
+                printf("%s%u", "Wrong type of figure at input file.", type);
                 return 1;
             }
+        }
+        for (int i = 0; i < container.length; i += 1) {
+            pthread_join(container.figures[i].thread, NULL);
         }
         fclose(file);
     }
@@ -64,20 +73,25 @@ int FillContainer(Container &container, int argc, char* argv[])
         srand(time(0));
         for (int i = 0; i < container.length; i += 1) {
             int type = rand() % 3;
-            if (type == 0) {
-                container.figures[i].circle = GenerateCircle();
+            if (type == 1) {
+                container.figures[i].circle = Circle();
+                pthread_create(&container.figures[i].thread, NULL, GenerateCircle, &container.figures[i].circle);
                 container.figures[i].type = circleType;
             }
-            else if (type == 1)
-            {
-                container.figures[i].rectangle = GenerateRectangle();
+            else if (type == 2) {
+                container.figures[i].rectangle = Rectangle();
+                pthread_create(&container.figures[i].thread, NULL, GenerateRectangle, &container.figures[i].rectangle);
                 container.figures[i].type = rectangleType;
             }
-            else if (type == 2)
-            {
-                container.figures[i].triangle = GenerateTriangle();
+            else if (type == 3) {
+                container.figures[i].triangle = Triangle();
+                pthread_create(&container.figures[i].thread, NULL, GenerateTriangle, &container.figures[i].triangle);
                 container.figures[i].type = triangleType;
             }
+            pthread_join(container.figures[i].thread, NULL);
+        }
+        for (int i = 0; i < container.length; i += 1) {
+            pthread_join(container.figures[i].thread, NULL);
         }
     }
     return 0;

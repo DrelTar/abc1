@@ -1,0 +1,57 @@
+Circle:
+ X: 9
+ Y: 95
+ Radius: 2
+Circle:
+ X: 98
+ Y: 75
+ Radius: 16
+Circle:
+ X: 36
+ Y: 6
+ Radius: 0
+Triangle
+ First point X: 32
+ First point Y: 33
+ Second point X: 64
+ Second point Y: 11
+ Third point X: 93
+ Third point Y: 61
+Triangle
+ First point X: 17
+ First point Y: 15
+ Second point X: 95
+ Second point Y: 46
+ Third point X: 23
+ Third point Y: 8
+
+
+5
+
+
+Circle:
+ X: 36
+ Y: 6
+ Radius: 0
+Circle:
+ X: 9
+ Y: 95
+ Radius: 2
+Triangle
+ First point X: 17
+ First point Y: 15
+ Second point X: 95
+ Second point Y: 46
+ Third point X: 23
+ Third point Y: 8
+Circle:
+ X: 98
+ Y: 75
+ Radius: 16
+Triangle
+ First point X: 32
+ First point Y: 33
+ Second point X: 64
+ Second point Y: 11
+ Third point X: 93
+ Third point Y: 61

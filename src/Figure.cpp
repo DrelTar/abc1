@@ -14,15 +14,16 @@ double Area(Figure figure)
     return 0.0;
 }
 
-void Display(Figure figure, FILE* file)
+void* DisplayFigure(void* figure)
 {
-    if (figure.type == circleType) {
-        Display(figure.circle, file);
+    Figure* fig = static_cast<Figure*>(figure);
+    if (fig->type == circleType) {
+        DisplayCircle(&fig->circle);
     }
-    else if (figure.type == rectangleType) {
-        Display(figure.rectangle, file);
+    else if (fig->type == rectangleType) {
+        DisplayRectangle(&fig->rectangle);
     }
-    else if (figure.type == triangleType) {
-        Display(figure.triangle, file);
+    else if (fig->type == triangleType) {
+        DisplayTriangle(&fig->triangle);
     }
 }

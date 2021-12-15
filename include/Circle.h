@@ -4,18 +4,21 @@
 #define CIRCLE_H
 
 
-typedef struct
+typedef struct Circle
 {
+    static unsigned int* seed;
+    FILE* output_file;
+    FILE* input_file;
     Point center;
     int radius;
 } Circle;
 
 double Area(Circle circle);
 
-void Display(Circle circle, FILE* file);
+void* DisplayCircle(void* circle);
 
-Circle GenerateCircle();
+void* GenerateCircle(void* circle);
 
-Circle ReadCircle(FILE* file);
+void* ReadCircle(void* circle);
 
 #endif // CIRCLE_H

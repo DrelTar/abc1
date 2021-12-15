@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/abc1.dir/src/Circle.cpp.o CMakeFiles/abc1.dir/src/Container.cpp.o CMakeFiles/abc1.dir/src/Figure.cpp.o CMakeFiles/abc1.dir/src/Rectangle.cpp.o CMakeFiles/abc1.dir/src/Triangle.cpp.o CMakeFiles/abc1.dir/main.cpp.o  -o abc1 
